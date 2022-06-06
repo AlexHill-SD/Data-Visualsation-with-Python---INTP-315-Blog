@@ -14,7 +14,7 @@ url: "https://alexhill-sd.github.io" # the base hostname & protocol for your sit
 #-------------------------------
 # About Section
 author-name:   Alex Hill
-author-avatar: 09.jpg
+author-avatar: profile.jpg
 
 
 #-------------------------------
@@ -23,11 +23,13 @@ author-avatar: 09.jpg
 #twitter:   https://twitter.com/ # Add your Facebook handle
 #instagram: https://www.instagram.com/ # Add your Facebook handle
 #pinterest: https://www.pinterest.com/ # Add your Facebook handle
+github: https://github.com/AlexHill-SD # Add your GitHub handle
+linkedin: https://www.linkedin.com/in/alexander-hill-87a197a7/ #Add your LinkedIn handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-#disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: intp315blog # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
@@ -42,7 +44,7 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
-mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+#mailchimp: https://github.us14.list-manage.com/subscribe?u=e92dfc168f585127ac4c6bcf7&amp;id=c0e8dd2916 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 
 #-------------------------------
