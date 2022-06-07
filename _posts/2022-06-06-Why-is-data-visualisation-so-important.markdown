@@ -87,7 +87,7 @@ In order to provide a side by side comparison of how effective data visualisatio
 
 Given the relatively small dataset, it's not terribly hard to find the country with the highest number of covid cases, however this dataset only consists of 44 rows. Imagine a dataset that has hundreds of thousands, or even millions, of rows of data that you have to summarise for a client. 
 
-The image below, however, is an example of a bubble map, of the number of covid cases in europe as of March 13 2021, overlayed onto a map of Europe. As with all data visualisations the key is to make sure the resultant graph/map with too much information. In the image above it is easy to see that the largest concentration of covid cases at the time was centered around Italy, with no need to scroll through rows upon rows of raw data.
+The image below, however, is an example of a bubble map, of the number of covid cases in europe as of March 13 2021, overlayed onto a map of Europe. As you can see it is easy to see that the largest concentration of covid cases at the time was centered around Italy, with no need to scroll through rows upon rows of raw data.
 
 > ![]({{site.baseurl}}/img/2022-06-06_imgs/bubble_map_covid_example.png)
 <!--
