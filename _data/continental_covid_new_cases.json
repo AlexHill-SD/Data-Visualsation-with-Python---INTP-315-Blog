@@ -1,0 +1,8672 @@
+[
+ {
+   "date": "22/01/2020",
+   "World": 0,
+   "Africa": null,
+   "Asia": 0,
+   "Europe": null,
+   "North America": 0,
+   "Oceania": null,
+   "South America": null
+ },
+ {
+   "date": "23/01/2020",
+   "World": 100,
+   "Africa": null,
+   "Asia": 98,
+   "Europe": 0,
+   "North America": 2,
+   "Oceania": null,
+   "South America": null
+ },
+ {
+   "date": "24/01/2020",
+   "World": 287,
+   "Africa": null,
+   "Asia": 283,
+   "Europe": 2,
+   "North America": 2,
+   "Oceania": null,
+   "South America": null
+ },
+ {
+   "date": "25/01/2020",
+   "World": 493,
+   "Africa": null,
+   "Asia": 492,
+   "Europe": 1,
+   "North America": 0,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "26/01/2020",
+   "World": 683,
+   "Africa": null,
+   "Asia": 676,
+   "Europe": 0,
+   "North America": 3,
+   "Oceania": 4,
+   "South America": null
+ },
+ {
+   "date": "27/01/2020",
+   "World": 809,
+   "Africa": null,
+   "Asia": 807,
+   "Europe": 1,
+   "North America": 0,
+   "Oceania": 1,
+   "South America": null
+ },
+ {
+   "date": "28/01/2020",
+   "World": 2651,
+   "Africa": null,
+   "Asia": 2646,
+   "Europe": 4,
+   "North America": 1,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "29/01/2020",
+   "World": 589,
+   "Africa": null,
+   "Asia": 585,
+   "Europe": 2,
+   "North America": 1,
+   "Oceania": 1,
+   "South America": null
+ },
+ {
+   "date": "30/01/2020",
+   "World": 2068,
+   "Africa": null,
+   "Asia": 2065,
+   "Europe": 0,
+   "North America": 0,
+   "Oceania": 3,
+   "South America": null
+ },
+ {
+   "date": "31/01/2020",
+   "World": 1690,
+   "Africa": null,
+   "Asia": 1681,
+   "Europe": 7,
+   "North America": 2,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "01/02/2020",
+   "World": 2111,
+   "Africa": null,
+   "Asia": 2102,
+   "Europe": 6,
+   "North America": 0,
+   "Oceania": 3,
+   "South America": null
+ },
+ {
+   "date": "02/02/2020",
+   "World": 4749,
+   "Africa": null,
+   "Asia": 4747,
+   "Europe": 2,
+   "North America": 0,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "03/02/2020",
+   "World": 3100,
+   "Africa": null,
+   "Asia": 3089,
+   "Europe": 8,
+   "North America": 3,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "04/02/2020",
+   "World": 4012,
+   "Africa": null,
+   "Asia": 4009,
+   "Europe": 1,
+   "North America": 1,
+   "Oceania": 1,
+   "South America": null
+ },
+ {
+   "date": "05/02/2020",
+   "World": 3745,
+   "Africa": null,
+   "Asia": 3743,
+   "Europe": 1,
+   "North America": 1,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "06/02/2020",
+   "World": 3162,
+   "Africa": null,
+   "Asia": 3160,
+   "Europe": 0,
+   "North America": 1,
+   "Oceania": 1,
+   "South America": null
+ },
+ {
+   "date": "07/02/2020",
+   "World": 3594,
+   "Africa": null,
+   "Asia": 3528,
+   "Europe": 2,
+   "North America": 2,
+   "Oceania": 1,
+   "South America": null
+ },
+ {
+   "date": "08/02/2020",
+   "World": 2731,
+   "Africa": null,
+   "Asia": 2722,
+   "Europe": 9,
+   "North America": 0,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "09/02/2020",
+   "World": 3031,
+   "Africa": null,
+   "Asia": 3025,
+   "Europe": 3,
+   "North America": 0,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "10/02/2020",
+   "World": 2609,
+   "Africa": null,
+   "Asia": 2537,
+   "Europe": 0,
+   "North America": 1,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "11/02/2020",
+   "World": 2043,
+   "Africa": null,
+   "Asia": 2038,
+   "Europe": 4,
+   "North America": 1,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "12/02/2020",
+   "World": 418,
+   "Africa": null,
+   "Asia": 377,
+   "Europe": 1,
+   "North America": 0,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "13/02/2020",
+   "World": 15152,
+   "Africa": 0,
+   "Asia": 15150,
+   "Europe": 1,
+   "North America": 1,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "14/02/2020",
+   "World": 6528,
+   "Africa": 1,
+   "Asia": 6483,
+   "Europe": 1,
+   "North America": 0,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "15/02/2020",
+   "World": 2143,
+   "Africa": 0,
+   "Asia": 2075,
+   "Europe": 1,
+   "North America": 0,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "16/02/2020",
+   "World": 2183,
+   "Africa": 0,
+   "Asia": 2113,
+   "Europe": 0,
+   "North America": 0,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "17/02/2020",
+   "World": 2035,
+   "Africa": 0,
+   "Asia": 1934,
+   "Europe": 1,
+   "North America": 1,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "18/02/2020",
+   "World": 1882,
+   "Africa": 0,
+   "Asia": 1794,
+   "Europe": 0,
+   "North America": 0,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "19/02/2020",
+   "World": 500,
+   "Africa": 0,
+   "Asia": 420,
+   "Europe": 1,
+   "North America": 0,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "20/02/2020",
+   "World": 561,
+   "Africa": 0,
+   "Asia": 545,
+   "Europe": 2,
+   "North America": 1,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "21/02/2020",
+   "World": 630,
+   "Africa": 0,
+   "Asia": 608,
+   "Europe": 18,
+   "North America": 4,
+   "Oceania": 0,
+   "South America": null
+ },
+ {
+   "date": "22/02/2020",
+   "World": 1762,
+   "Africa": 0,
+   "Asia": 1719,
+   "Europe": 42,
+   "North America": 1,
+   "Oceania": 0,
+   "South America": 0
+ },
+ {
+   "date": "23/02/2020",
+   "World": 382,
+   "Africa": 0,
+   "Asia": 223,
+   "Europe": 99,
+   "North America": 1,
+   "Oceania": 0,
+   "South America": 2
+ },
+ {
+   "date": "24/02/2020",
+   "World": 568,
+   "Africa": 0,
+   "Asia": 491,
+   "Europe": 76,
+   "North America": 1,
+   "Oceania": 0,
+   "South America": 0
+ },
+ {
+   "date": "25/02/2020",
+   "World": 854,
+   "Africa": 1,
+   "Asia": 743,
+   "Europe": 107,
+   "North America": 3,
+   "Oceania": 0,
+   "South America": 0
+ },
+ {
+   "date": "26/02/2020",
+   "World": 973,
+   "Africa": 0,
+   "Asia": 799,
+   "Europe": 158,
+   "North America": 1,
+   "Oceania": 0,
+   "South America": 1
+ },
+ {
+   "date": "27/02/2020",
+   "World": 1344,
+   "Africa": 0,
+   "Asia": 1092,
+   "Europe": 249,
+   "North America": 3,
+   "Oceania": 0,
+   "South America": 0
+ },
+ {
+   "date": "28/02/2020",
+   "World": 1424,
+   "Africa": 1,
+   "Asia": 1081,
+   "Europe": 334,
+   "North America": 7,
+   "Oceania": 1,
+   "South America": 0
+ },
+ {
+   "date": "29/02/2020",
+   "World": 1872,
+   "Africa": 0,
+   "Asia": 1492,
+   "Europe": 353,
+   "North America": 16,
+   "Oceania": 10,
+   "South America": 1
+ },
+ {
+   "date": "01/03/2020",
+   "World": 2379,
+   "Africa": 1,
+   "Asia": 1593,
+   "Europe": 756,
+   "North America": 14,
+   "Oceania": 2,
+   "South America": 13
+ },
+ {
+   "date": "02/03/2020",
+   "World": 1980,
+   "Africa": 4,
+   "Asia": 1383,
+   "Europe": 560,
+   "North America": 30,
+   "Oceania": 3,
+   "South America": 0
+ },
+ {
+   "date": "03/03/2020",
+   "World": 2612,
+   "Africa": 3,
+   "Asia": 1867,
+   "Europe": 704,
+   "North America": 25,
+   "Oceania": 9,
+   "South America": 3
+ },
+ {
+   "date": "04/03/2020",
+   "World": 2322,
+   "Africa": 10,
+   "Asia": 1228,
+   "Europe": 1023,
+   "North America": 41,
+   "Oceania": 15,
+   "South America": 5
+ },
+ {
+   "date": "05/03/2020",
+   "World": 2711,
+   "Africa": 3,
+   "Asia": 1291,
+   "Europe": 1319,
+   "North America": 89,
+   "Oceania": 3,
+   "South America": 6
+ },
+ {
+   "date": "06/03/2020",
+   "World": 3930,
+   "Africa": 19,
+   "Asia": 2031,
+   "Europe": 1787,
+   "North America": 75,
+   "Oceania": 6,
+   "South America": 12
+ },
+ {
+   "date": "07/03/2020",
+   "World": 4131,
+   "Africa": 0,
+   "Asia": 1759,
+   "Europe": 2188,
+   "North America": 174,
+   "Oceania": 4,
+   "South America": 6
+ },
+ {
+   "date": "08/03/2020",
+   "World": 3854,
+   "Africa": 40,
+   "Asia": 1201,
+   "Europe": 2429,
+   "North America": 146,
+   "Oceania": 13,
+   "South America": 25
+ },
+ {
+   "date": "09/03/2020",
+   "World": 4323,
+   "Africa": 8,
+   "Asia": 906,
+   "Europe": 3284,
+   "North America": 103,
+   "Oceania": 15,
+   "South America": 7
+ },
+ {
+   "date": "10/03/2020",
+   "World": 4786,
+   "Africa": 13,
+   "Asia": 1188,
+   "Europe": 3333,
+   "North America": 210,
+   "Oceania": 16,
+   "South America": 26
+ },
+ {
+   "date": "11/03/2020",
+   "World": 7506,
+   "Africa": 14,
+   "Asia": 1749,
+   "Europe": 5250,
+   "North America": 443,
+   "Oceania": 21,
+   "South America": 29
+ },
+ {
+   "date": "12/03/2020",
+   "World": 6754,
+   "Africa": 16,
+   "Asia": 1367,
+   "Europe": 4831,
+   "North America": 520,
+   "Oceania": 0,
+   "South America": 20
+ },
+ {
+   "date": "13/03/2020",
+   "World": 13197,
+   "Africa": 42,
+   "Asia": 1811,
+   "Europe": 10343,
+   "North America": 772,
+   "Oceania": 75,
+   "South America": 154
+ },
+ {
+   "date": "14/03/2020",
+   "World": 10890,
+   "Africa": 76,
+   "Asia": 1909,
+   "Europe": 7911,
+   "North America": 865,
+   "Oceania": 51,
+   "South America": 78
+ },
+ {
+   "date": "15/03/2020",
+   "World": 11236,
+   "Africa": 65,
+   "Asia": 1948,
+   "Europe": 8754,
+   "North America": 354,
+   "Oceania": 49,
+   "South America": 66
+ },
+ {
+   "date": "16/03/2020",
+   "World": 14570,
+   "Africa": 87,
+   "Asia": 1713,
+   "Europe": 10780,
+   "North America": 1675,
+   "Oceania": 80,
+   "South America": 235
+ },
+ {
+   "date": "17/03/2020",
+   "World": 15181,
+   "Africa": 88,
+   "Asia": 2005,
+   "Europe": 10675,
+   "North America": 2043,
+   "Oceania": 79,
+   "South America": 291
+ },
+ {
+   "date": "18/03/2020",
+   "World": 17568,
+   "Africa": 118,
+   "Asia": 2133,
+   "Europe": 11988,
+   "North America": 2959,
+   "Oceania": 124,
+   "South America": 240
+ },
+ {
+   "date": "19/03/2020",
+   "World": 27095,
+   "Africa": 178,
+   "Asia": 2140,
+   "Europe": 19304,
+   "North America": 4873,
+   "Oceania": 127,
+   "South America": 473
+ },
+ {
+   "date": "20/03/2020",
+   "World": 29543,
+   "Africa": 182,
+   "Asia": 2699,
+   "Europe": 19032,
+   "North America": 6859,
+   "Oceania": 127,
+   "South America": 644
+ },
+ {
+   "date": "21/03/2020",
+   "World": 32450,
+   "Africa": 206,
+   "Asia": 2556,
+   "Europe": 21946,
+   "North America": 6732,
+   "Oceania": 299,
+   "South America": 711
+ },
+ {
+   "date": "22/03/2020",
+   "World": 34216,
+   "Africa": 253,
+   "Asia": 3240,
+   "Europe": 19357,
+   "North America": 9702,
+   "Oceania": 532,
+   "South America": 1132
+ },
+ {
+   "date": "23/03/2020",
+   "World": 42558,
+   "Africa": 383,
+   "Asia": 3069,
+   "Europe": 26181,
+   "North America": 11970,
+   "Oceania": 138,
+   "South America": 817
+ },
+ {
+   "date": "24/03/2020",
+   "World": 41908,
+   "Africa": 438,
+   "Asia": 3620,
+   "Europe": 25095,
+   "North America": 11474,
+   "Oceania": 425,
+   "South America": 856
+ },
+ {
+   "date": "25/03/2020",
+   "World": 51497,
+   "Africa": 523,
+   "Asia": 5412,
+   "Europe": 31351,
+   "North America": 13019,
+   "Oceania": 375,
+   "South America": 817
+ },
+ {
+   "date": "26/03/2020",
+   "World": 60816,
+   "Africa": 526,
+   "Asia": 5726,
+   "Europe": 33723,
+   "North America": 19192,
+   "Oceania": 529,
+   "South America": 1120
+ },
+ {
+   "date": "27/03/2020",
+   "World": 63943,
+   "Africa": 580,
+   "Asia": 7087,
+   "Europe": 34795,
+   "North America": 19886,
+   "Oceania": 419,
+   "South America": 1176
+ },
+ {
+   "date": "28/03/2020",
+   "World": 69588,
+   "Africa": 343,
+   "Asia": 7189,
+   "Europe": 36521,
+   "North America": 23622,
+   "Oceania": 580,
+   "South America": 1331
+ },
+ {
+   "date": "29/03/2020",
+   "World": 56521,
+   "Africa": 564,
+   "Asia": 7208,
+   "Europe": 29758,
+   "North America": 17553,
+   "Oceania": 407,
+   "South America": 1031
+ },
+ {
+   "date": "30/03/2020",
+   "World": 65036,
+   "Africa": 395,
+   "Asia": 7233,
+   "Europe": 32228,
+   "North America": 23738,
+   "Oceania": 458,
+   "South America": 984
+ },
+ {
+   "date": "31/03/2020",
+   "World": 78413,
+   "Africa": 586,
+   "Asia": 10572,
+   "Europe": 36599,
+   "North America": 28200,
+   "Oceania": 257,
+   "South America": 2199
+ },
+ {
+   "date": "01/04/2020",
+   "World": 81707,
+   "Africa": 599,
+   "Asia": 8724,
+   "Europe": 36693,
+   "North America": 32938,
+   "Oceania": 365,
+   "South America": 2381
+ },
+ {
+   "date": "02/04/2020",
+   "World": 82439,
+   "Africa": 656,
+   "Asia": 9196,
+   "Europe": 35423,
+   "North America": 34510,
+   "Oceania": 347,
+   "South America": 2307
+ },
+ {
+   "date": "03/04/2020",
+   "World": 84156,
+   "Africa": 881,
+   "Asia": 8796,
+   "Europe": 37918,
+   "North America": 34264,
+   "Oceania": 287,
+   "South America": 2010
+ },
+ {
+   "date": "04/04/2020",
+   "World": 77344,
+   "Africa": 682,
+   "Asia": 9025,
+   "Europe": 31189,
+   "North America": 33719,
+   "Oceania": 308,
+   "South America": 2421
+ },
+ {
+   "date": "05/04/2020",
+   "World": 72166,
+   "Africa": 685,
+   "Asia": 9953,
+   "Europe": 28242,
+   "North America": 31144,
+   "Oceania": 228,
+   "South America": 1914
+ },
+ {
+   "date": "06/04/2020",
+   "World": 74518,
+   "Africa": 716,
+   "Asia": 10083,
+   "Europe": 27567,
+   "North America": 33968,
+   "Oceania": 181,
+   "South America": 2003
+ },
+ {
+   "date": "07/04/2020",
+   "World": 72314,
+   "Africa": 628,
+   "Asia": 9570,
+   "Europe": 26960,
+   "North America": 32130,
+   "Oceania": 158,
+   "South America": 2868
+ },
+ {
+   "date": "08/04/2020",
+   "World": 82000,
+   "Africa": 806,
+   "Asia": 10065,
+   "Europe": 32756,
+   "North America": 33124,
+   "Oceania": 169,
+   "South America": 5080
+ },
+ {
+   "date": "09/04/2020",
+   "World": 86753,
+   "Africa": 793,
+   "Asia": 10244,
+   "Europe": 33544,
+   "North America": 37939,
+   "Oceania": 127,
+   "South America": 4106
+ },
+ {
+   "date": "10/04/2020",
+   "World": 86524,
+   "Africa": 694,
+   "Asia": 11190,
+   "Europe": 32625,
+   "North America": 36492,
+   "Oceania": 152,
+   "South America": 5371
+ },
+ {
+   "date": "11/04/2020",
+   "World": 75444,
+   "Africa": 714,
+   "Asia": 11997,
+   "Europe": 28391,
+   "North America": 31155,
+   "Oceania": 117,
+   "South America": 3070
+ },
+ {
+   "date": "12/04/2020",
+   "World": 119046,
+   "Africa": 869,
+   "Asia": 11661,
+   "Europe": 74892,
+   "North America": 28683,
+   "Oceania": 32,
+   "South America": 2909
+ },
+ {
+   "date": "13/04/2020",
+   "World": 71729,
+   "Africa": 772,
+   "Asia": 11575,
+   "Europe": 25487,
+   "North America": 29765,
+   "Oceania": 57,
+   "South America": 4073
+ },
+ {
+   "date": "14/04/2020",
+   "World": 84450,
+   "Africa": 971,
+   "Asia": 11468,
+   "Europe": 38188,
+   "North America": 30686,
+   "Oceania": 81,
+   "South America": 3056
+ },
+ {
+   "date": "15/04/2020",
+   "World": 77790,
+   "Africa": 965,
+   "Asia": 11465,
+   "Europe": 31417,
+   "North America": 28692,
+   "Oceania": 45,
+   "South America": 5206
+ },
+ {
+   "date": "16/04/2020",
+   "World": 94424,
+   "Africa": 1168,
+   "Asia": 12399,
+   "Europe": 44153,
+   "North America": 32298,
+   "Oceania": 43,
+   "South America": 4363
+ },
+ {
+   "date": "17/04/2020",
+   "World": 87832,
+   "Africa": 1403,
+   "Asia": 12811,
+   "Europe": 31712,
+   "North America": 36568,
+   "Oceania": 68,
+   "South America": 5270
+ },
+ {
+   "date": "18/04/2020",
+   "World": 78225,
+   "Africa": 1309,
+   "Asia": 12201,
+   "Europe": 28914,
+   "North America": 30021,
+   "Oceania": 59,
+   "South America": 5721
+ },
+ {
+   "date": "19/04/2020",
+   "World": 76683,
+   "Africa": 1197,
+   "Asia": 12277,
+   "Europe": 30413,
+   "North America": 28414,
+   "Oceania": 51,
+   "South America": 4331
+ },
+ {
+   "date": "20/04/2020",
+   "World": 75922,
+   "Africa": 1163,
+   "Asia": 14075,
+   "Europe": 23502,
+   "North America": 32955,
+   "Oceania": 24,
+   "South America": 4203
+ },
+ {
+   "date": "21/04/2020",
+   "World": 76242,
+   "Africa": 1076,
+   "Asia": 13676,
+   "Europe": 27921,
+   "North America": 28760,
+   "Oceania": 27,
+   "South America": 4782
+ },
+ {
+   "date": "22/04/2020",
+   "World": 81953,
+   "Africa": 1403,
+   "Asia": 12219,
+   "Europe": 29626,
+   "North America": 33342,
+   "Oceania": 15,
+   "South America": 5348
+ },
+ {
+   "date": "23/04/2020",
+   "World": 84318,
+   "Africa": 1437,
+   "Asia": 12829,
+   "Europe": 26987,
+   "North America": 35626,
+   "Oceania": 15,
+   "South America": 7424
+ },
+ {
+   "date": "24/04/2020",
+   "World": 94074,
+   "Africa": 1705,
+   "Asia": 13002,
+   "Europe": 26501,
+   "North America": 35459,
+   "Oceania": 20,
+   "South America": 17387
+ },
+ {
+   "date": "25/04/2020",
+   "World": 83490,
+   "Africa": 1244,
+   "Asia": 12005,
+   "Europe": 25323,
+   "North America": 34029,
+   "Oceania": 26,
+   "South America": 10863
+ },
+ {
+   "date": "26/04/2020",
+   "World": 70875,
+   "Africa": 1532,
+   "Asia": 11599,
+   "Europe": 22243,
+   "North America": 28600,
+   "Oceania": 20,
+   "South America": 6881
+ },
+ {
+   "date": "27/04/2020",
+   "World": 70936,
+   "Africa": 1337,
+   "Asia": 11006,
+   "Europe": 23951,
+   "North America": 27688,
+   "Oceania": 10,
+   "South America": 6944
+ },
+ {
+   "date": "28/04/2020",
+   "World": 75808,
+   "Africa": 1619,
+   "Asia": 11995,
+   "Europe": 24225,
+   "North America": 27564,
+   "Oceania": 26,
+   "South America": 10379
+ },
+ {
+   "date": "29/04/2020",
+   "World": 78824,
+   "Africa": 2023,
+   "Asia": 12975,
+   "Europe": 22838,
+   "North America": 30356,
+   "Oceania": 10,
+   "South America": 10622
+ },
+ {
+   "date": "30/04/2020",
+   "World": 83840,
+   "Africa": 1946,
+   "Asia": 12909,
+   "Europe": 23083,
+   "North America": 33405,
+   "Oceania": 17,
+   "South America": 12480
+ },
+ {
+   "date": "01/05/2020",
+   "World": 89023,
+   "Africa": 1715,
+   "Asia": 13371,
+   "Europe": 23411,
+   "North America": 38884,
+   "Oceania": 18,
+   "South America": 11624
+ },
+ {
+   "date": "02/05/2020",
+   "World": 78547,
+   "Africa": 2243,
+   "Asia": 12159,
+   "Europe": 22253,
+   "North America": 30522,
+   "Oceania": 23,
+   "South America": 11347
+ },
+ {
+   "date": "03/05/2020",
+   "World": 74175,
+   "Africa": 1592,
+   "Asia": 12429,
+   "Europe": 21146,
+   "North America": 26913,
+   "Oceania": 23,
+   "South America": 12072
+ },
+ {
+   "date": "04/05/2020",
+   "World": 77395,
+   "Africa": 2654,
+   "Asia": 14016,
+   "Europe": 21371,
+   "North America": 27241,
+   "Oceania": 25,
+   "South America": 12088
+ },
+ {
+   "date": "05/05/2020",
+   "World": 79622,
+   "Africa": 2042,
+   "Asia": 14927,
+   "Europe": 22360,
+   "North America": 27308,
+   "Oceania": 32,
+   "South America": 12953
+ },
+ {
+   "date": "06/05/2020",
+   "World": 90530,
+   "Africa": 2542,
+   "Asia": 16006,
+   "Europe": 27036,
+   "North America": 28462,
+   "Oceania": 20,
+   "South America": 16464
+ },
+ {
+   "date": "07/05/2020",
+   "World": 90250,
+   "Africa": 2487,
+   "Asia": 15673,
+   "Europe": 24996,
+   "North America": 31780,
+   "Oceania": 20,
+   "South America": 15294
+ },
+ {
+   "date": "08/05/2020",
+   "World": 91937,
+   "Africa": 3625,
+   "Asia": 16800,
+   "Europe": 23529,
+   "North America": 31004,
+   "Oceania": 7,
+   "South America": 16972
+ },
+ {
+   "date": "09/05/2020",
+   "World": 84554,
+   "Africa": 2860,
+   "Asia": 15138,
+   "Europe": 21093,
+   "North America": 28466,
+   "Oceania": 23,
+   "South America": 16974
+ },
+ {
+   "date": "10/05/2020",
+   "World": 75265,
+   "Africa": 2579,
+   "Asia": 18491,
+   "Europe": 19759,
+   "North America": 22363,
+   "Oceania": 12,
+   "South America": 12061
+ },
+ {
+   "date": "11/05/2020",
+   "World": 76052,
+   "Africa": 3066,
+   "Asia": 16556,
+   "Europe": 23545,
+   "North America": 22159,
+   "Oceania": 22,
+   "South America": 10704
+ },
+ {
+   "date": "12/05/2020",
+   "World": 85313,
+   "Africa": 3167,
+   "Asia": 17040,
+   "Europe": 22456,
+   "North America": 27114,
+   "Oceania": 10,
+   "South America": 15526
+ },
+ {
+   "date": "13/05/2020",
+   "World": 84364,
+   "Africa": 2914,
+   "Asia": 16977,
+   "Europe": 20428,
+   "North America": 23976,
+   "Oceania": 9,
+   "South America": 20060
+ },
+ {
+   "date": "14/05/2020",
+   "World": 95647,
+   "Africa": 3118,
+   "Asia": 20621,
+   "Europe": 20590,
+   "North America": 30076,
+   "Oceania": 31,
+   "South America": 21211
+ },
+ {
+   "date": "15/05/2020",
+   "World": 96352,
+   "Africa": 2926,
+   "Asia": 17779,
+   "Europe": 20435,
+   "North America": 29536,
+   "Oceania": 16,
+   "South America": 25660
+ },
+ {
+   "date": "16/05/2020",
+   "World": 94073,
+   "Africa": 3003,
+   "Asia": 19775,
+   "Europe": 17646,
+   "North America": 28228,
+   "Oceania": 10,
+   "South America": 25411
+ },
+ {
+   "date": "17/05/2020",
+   "World": 78448,
+   "Africa": 3314,
+   "Asia": 20804,
+   "Europe": 16452,
+   "North America": 22589,
+   "Oceania": 10,
+   "South America": 15279
+ },
+ {
+   "date": "18/05/2020",
+   "World": 89056,
+   "Africa": 3668,
+   "Asia": 20663,
+   "Europe": 17019,
+   "North America": 26777,
+   "Oceania": 14,
+   "South America": 20915
+ },
+ {
+   "date": "19/05/2020",
+   "World": 95997,
+   "Africa": 3220,
+   "Asia": 22170,
+   "Europe": 18285,
+   "North America": 25688,
+   "Oceania": 8,
+   "South America": 26626
+ },
+ {
+   "date": "20/05/2020",
+   "World": 105415,
+   "Africa": 3791,
+   "Asia": 22600,
+   "Europe": 18232,
+   "North America": 27015,
+   "Oceania": 9,
+   "South America": 33768
+ },
+ {
+   "date": "21/05/2020",
+   "World": 105885,
+   "Africa": 4799,
+   "Asia": 24248,
+   "Europe": 17655,
+   "North America": 30241,
+   "Oceania": 15,
+   "South America": 28927
+ },
+ {
+   "date": "22/05/2020",
+   "World": 107243,
+   "Africa": 3868,
+   "Asia": 24228,
+   "Europe": 18575,
+   "North America": 29055,
+   "Oceania": 4,
+   "South America": 31513
+ },
+ {
+   "date": "23/05/2020",
+   "World": 104414,
+   "Africa": 3865,
+   "Asia": 24387,
+   "Europe": 16969,
+   "North America": 25678,
+   "Oceania": 15,
+   "South America": 33500
+ },
+ {
+   "date": "24/05/2020",
+   "World": 93704,
+   "Africa": 4120,
+   "Asia": 24067,
+   "Europe": 14766,
+   "North America": 25666,
+   "Oceania": 0,
+   "South America": 25085
+ },
+ {
+   "date": "25/05/2020",
+   "World": 88507,
+   "Africa": 4128,
+   "Asia": 21801,
+   "Europe": 14605,
+   "North America": 23806,
+   "Oceania": 12,
+   "South America": 24155
+ },
+ {
+   "date": "26/05/2020",
+   "World": 92869,
+   "Africa": 3711,
+   "Asia": 20302,
+   "Europe": 16153,
+   "North America": 24479,
+   "Oceania": 13,
+   "South America": 28211
+ },
+ {
+   "date": "27/05/2020",
+   "World": 102517,
+   "Africa": 5080,
+   "Asia": 23867,
+   "Europe": 15135,
+   "North America": 24501,
+   "Oceania": 11,
+   "South America": 33923
+ },
+ {
+   "date": "28/05/2020",
+   "World": 119650,
+   "Africa": 4916,
+   "Asia": 25937,
+   "Europe": 20059,
+   "North America": 26724,
+   "Oceania": 16,
+   "South America": 41998
+ },
+ {
+   "date": "29/05/2020",
+   "World": 121653,
+   "Africa": 5746,
+   "Asia": 28857,
+   "Europe": 16607,
+   "North America": 30783,
+   "Oceania": 19,
+   "South America": 39641
+ },
+ {
+   "date": "30/05/2020",
+   "World": 135405,
+   "Africa": 6118,
+   "Asia": 27575,
+   "Europe": 17102,
+   "North America": 28358,
+   "Oceania": 8,
+   "South America": 56244
+ },
+ {
+   "date": "31/05/2020",
+   "World": 103016,
+   "Africa": 5247,
+   "Asia": 29204,
+   "Europe": 14534,
+   "North America": 24377,
+   "Oceania": 10,
+   "South America": 29644
+ },
+ {
+   "date": "01/06/2020",
+   "World": 100265,
+   "Africa": 5785,
+   "Asia": 28132,
+   "Europe": 14837,
+   "North America": 22902,
+   "Oceania": 20,
+   "South America": 28589
+ },
+ {
+   "date": "02/06/2020",
+   "World": 123783,
+   "Africa": 4878,
+   "Asia": 30561,
+   "Europe": 14613,
+   "North America": 26186,
+   "Oceania": 8,
+   "South America": 47537
+ },
+ {
+   "date": "03/06/2020",
+   "World": 114485,
+   "Africa": 5097,
+   "Asia": 33402,
+   "Europe": 15201,
+   "North America": 25117,
+   "Oceania": 11,
+   "South America": 35657
+ },
+ {
+   "date": "04/06/2020",
+   "World": 138094,
+   "Africa": 7106,
+   "Asia": 32145,
+   "Europe": 19802,
+   "North America": 34667,
+   "Oceania": 7,
+   "South America": 44367
+ },
+ {
+   "date": "05/06/2020",
+   "World": 133662,
+   "Africa": 7186,
+   "Asia": 33116,
+   "Europe": 16564,
+   "North America": 32765,
+   "Oceania": 5,
+   "South America": 44026
+ },
+ {
+   "date": "06/06/2020",
+   "World": 129444,
+   "Africa": 6599,
+   "Asia": 34439,
+   "Europe": 15804,
+   "North America": 26103,
+   "Oceania": 7,
+   "South America": 46492
+ },
+ {
+   "date": "07/06/2020",
+   "World": 111032,
+   "Africa": 6334,
+   "Asia": 34598,
+   "Europe": 14732,
+   "North America": 23424,
+   "Oceania": 6,
+   "South America": 31938
+ },
+ {
+   "date": "08/06/2020",
+   "World": 103037,
+   "Africa": 6651,
+   "Asia": 31146,
+   "Europe": 14885,
+   "North America": 22153,
+   "Oceania": 2,
+   "South America": 28200
+ },
+ {
+   "date": "09/06/2020",
+   "World": 126326,
+   "Africa": 6470,
+   "Asia": 33720,
+   "Europe": 15314,
+   "North America": 27216,
+   "Oceania": 8,
+   "South America": 43598
+ },
+ {
+   "date": "10/06/2020",
+   "World": 137122,
+   "Africa": 6545,
+   "Asia": 36770,
+   "Europe": 15795,
+   "North America": 29308,
+   "Oceania": 11,
+   "South America": 48693
+ },
+ {
+   "date": "11/06/2020",
+   "World": 135826,
+   "Africa": 7403,
+   "Asia": 37847,
+   "Europe": 16574,
+   "North America": 29775,
+   "Oceania": 4,
+   "South America": 44223
+ },
+ {
+   "date": "12/06/2020",
+   "World": 127476,
+   "Africa": 8079,
+   "Asia": 32692,
+   "Europe": 16761,
+   "North America": 33655,
+   "Oceania": 5,
+   "South America": 36284
+ },
+ {
+   "date": "13/06/2020",
+   "World": 133934,
+   "Africa": 8087,
+   "Asia": 38924,
+   "Europe": 16013,
+   "North America": 30560,
+   "Oceania": 26,
+   "South America": 40324
+ },
+ {
+   "date": "14/06/2020",
+   "World": 131892,
+   "Africa": 8780,
+   "Asia": 44961,
+   "Europe": 14771,
+   "North America": 26044,
+   "Oceania": 15,
+   "South America": 37321
+ },
+ {
+   "date": "15/06/2020",
+   "World": 124817,
+   "Africa": 9593,
+   "Asia": 37282,
+   "Europe": 14039,
+   "North America": 26244,
+   "Oceania": 14,
+   "South America": 37645
+ },
+ {
+   "date": "16/06/2020",
+   "World": 144181,
+   "Africa": 7642,
+   "Asia": 37861,
+   "Europe": 15641,
+   "North America": 32066,
+   "Oceania": 23,
+   "South America": 50948
+ },
+ {
+   "date": "17/06/2020",
+   "World": 143170,
+   "Africa": 8736,
+   "Asia": 41703,
+   "Europe": 16055,
+   "North America": 34954,
+   "Oceania": 22,
+   "South America": 41700
+ },
+ {
+   "date": "18/06/2020",
+   "World": 142722,
+   "Africa": 8235,
+   "Asia": 40936,
+   "Europe": 16379,
+   "North America": 36981,
+   "Oceania": 18,
+   "South America": 40173
+ },
+ {
+   "date": "19/06/2020",
+   "World": 181208,
+   "Africa": 9813,
+   "Asia": 43051,
+   "Europe": 16196,
+   "North America": 39395,
+   "Oceania": 4,
+   "South America": 72749
+ },
+ {
+   "date": "20/06/2020",
+   "World": 185840,
+   "Africa": 11349,
+   "Asia": 41783,
+   "Europe": 14836,
+   "North America": 40262,
+   "Oceania": 52,
+   "South America": 77558
+ },
+ {
+   "date": "21/06/2020",
+   "World": 112835,
+   "Africa": 9437,
+   "Asia": 39878,
+   "Europe": 13386,
+   "North America": 34355,
+   "Oceania": 15,
+   "South America": 15764
+ },
+ {
+   "date": "22/06/2020",
+   "World": 142147,
+   "Africa": 8987,
+   "Asia": 40566,
+   "Europe": 13592,
+   "North America": 37712,
+   "Oceania": 21,
+   "South America": 41269
+ },
+ {
+   "date": "23/06/2020",
+   "World": 168373,
+   "Africa": 9076,
+   "Asia": 42397,
+   "Europe": 14877,
+   "North America": 48566,
+   "Oceania": 30,
+   "South America": 53427
+ },
+ {
+   "date": "24/06/2020",
+   "World": 171408,
+   "Africa": 11349,
+   "Asia": 43820,
+   "Europe": 15341,
+   "North America": 44666,
+   "Oceania": 41,
+   "South America": 56191
+ },
+ {
+   "date": "25/06/2020",
+   "World": 179458,
+   "Africa": 11942,
+   "Asia": 44332,
+   "Europe": 14916,
+   "North America": 49319,
+   "Oceania": 38,
+   "South America": 58911
+ },
+ {
+   "date": "26/06/2020",
+   "World": 192449,
+   "Africa": 11598,
+   "Asia": 46174,
+   "Europe": 15402,
+   "North America": 57589,
+   "Oceania": 9,
+   "South America": 61677
+ },
+ {
+   "date": "27/06/2020",
+   "World": 176331,
+   "Africa": 12237,
+   "Asia": 46469,
+   "Europe": 14150,
+   "North America": 49234,
+   "Oceania": 89,
+   "South America": 54152
+ },
+ {
+   "date": "28/06/2020",
+   "World": 168875,
+   "Africa": 10608,
+   "Asia": 46977,
+   "Europe": 12164,
+   "North America": 51239,
+   "Oceania": 82,
+   "South America": 47805
+ },
+ {
+   "date": "29/06/2020",
+   "World": 152460,
+   "Africa": 11130,
+   "Asia": 44463,
+   "Europe": 12789,
+   "North America": 48559,
+   "Oceania": 70,
+   "South America": 35449
+ },
+ {
+   "date": "30/06/2020",
+   "World": 183887,
+   "Africa": 11608,
+   "Asia": 46546,
+   "Europe": 12966,
+   "North America": 59473,
+   "Oceania": 86,
+   "South America": 53208
+ },
+ {
+   "date": "01/07/2020",
+   "World": 214917,
+   "Africa": 13213,
+   "Asia": 66722,
+   "Europe": 13125,
+   "North America": 59073,
+   "Oceania": 83,
+   "South America": 62701
+ },
+ {
+   "date": "02/07/2020",
+   "World": 204664,
+   "Africa": 14202,
+   "Asia": 50629,
+   "Europe": 13585,
+   "North America": 66128,
+   "Oceania": 65,
+   "South America": 60055
+ },
+ {
+   "date": "03/07/2020",
+   "World": 202484,
+   "Africa": 15160,
+   "Asia": 50802,
+   "Europe": 13964,
+   "North America": 63127,
+   "Oceania": 194,
+   "South America": 59237
+ },
+ {
+   "date": "04/07/2020",
+   "World": 189632,
+   "Africa": 15485,
+   "Asia": 53728,
+   "Europe": 12797,
+   "North America": 57753,
+   "Oceania": 186,
+   "South America": 49683
+ },
+ {
+   "date": "05/07/2020",
+   "World": 185998,
+   "Africa": 13635,
+   "Asia": 56186,
+   "Europe": 11687,
+   "North America": 63531,
+   "Oceania": 142,
+   "South America": 40817
+ },
+ {
+   "date": "06/07/2020",
+   "World": 167808,
+   "Africa": 13740,
+   "Asia": 50063,
+   "Europe": 13305,
+   "North America": 52328,
+   "Oceania": 176,
+   "South America": 38196
+ },
+ {
+   "date": "07/07/2020",
+   "World": 209713,
+   "Africa": 17466,
+   "Asia": 50241,
+   "Europe": 12125,
+   "North America": 67556,
+   "Oceania": 132,
+   "South America": 62193
+ },
+ {
+   "date": "08/07/2020",
+   "World": 215090,
+   "Africa": 14743,
+   "Asia": 53896,
+   "Europe": 14157,
+   "North America": 71580,
+   "Oceania": 173,
+   "South America": 60541
+ },
+ {
+   "date": "09/07/2020",
+   "World": 224191,
+   "Africa": 19190,
+   "Asia": 57629,
+   "Europe": 13740,
+   "North America": 72090,
+   "Oceania": 325,
+   "South America": 61217
+ },
+ {
+   "date": "10/07/2020",
+   "World": 233215,
+   "Africa": 17705,
+   "Asia": 56448,
+   "Europe": 14684,
+   "North America": 80639,
+   "Oceania": 180,
+   "South America": 63559
+ },
+ {
+   "date": "11/07/2020",
+   "World": 212818,
+   "Africa": 18786,
+   "Asia": 55351,
+   "Europe": 13750,
+   "North America": 71313,
+   "Oceania": 245,
+   "South America": 53373
+ },
+ {
+   "date": "12/07/2020",
+   "World": 192846,
+   "Africa": 16717,
+   "Asia": 54854,
+   "Europe": 11760,
+   "North America": 69506,
+   "Oceania": 183,
+   "South America": 39826
+ },
+ {
+   "date": "13/07/2020",
+   "World": 194219,
+   "Africa": 16069,
+   "Asia": 56413,
+   "Europe": 14452,
+   "North America": 68806,
+   "Oceania": 272,
+   "South America": 38207
+ },
+ {
+   "date": "14/07/2020",
+   "World": 221229,
+   "Africa": 14450,
+   "Asia": 54987,
+   "Europe": 12984,
+   "North America": 77640,
+   "Oceania": 238,
+   "South America": 60930
+ },
+ {
+   "date": "15/07/2020",
+   "World": 229212,
+   "Africa": 18032,
+   "Asia": 60506,
+   "Europe": 14313,
+   "North America": 78086,
+   "Oceania": 325,
+   "South America": 57950
+ },
+ {
+   "date": "16/07/2020",
+   "World": 244953,
+   "Africa": 20445,
+   "Asia": 60908,
+   "Europe": 15268,
+   "North America": 82593,
+   "Oceania": 424,
+   "South America": 65315
+ },
+ {
+   "date": "17/07/2020",
+   "World": 237469,
+   "Africa": 19539,
+   "Asia": 64072,
+   "Europe": 16171,
+   "North America": 79180,
+   "Oceania": 213,
+   "South America": 58294
+ },
+ {
+   "date": "18/07/2020",
+   "World": 235331,
+   "Africa": 19012,
+   "Asia": 74203,
+   "Europe": 13523,
+   "North America": 80812,
+   "Oceania": 365,
+   "South America": 47416
+ },
+ {
+   "date": "19/07/2020",
+   "World": 211832,
+   "Africa": 18569,
+   "Asia": 68567,
+   "Europe": 11725,
+   "North America": 69685,
+   "Oceania": 269,
+   "South America": 43017
+ },
+ {
+   "date": "20/07/2020",
+   "World": 207958,
+   "Africa": 15512,
+   "Asia": 61481,
+   "Europe": 17625,
+   "North America": 70741,
+   "Oceania": 363,
+   "South America": 42236
+ },
+ {
+   "date": "21/07/2020",
+   "World": 243319,
+   "Africa": 13879,
+   "Asia": 65543,
+   "Europe": 14512,
+   "North America": 79989,
+   "Oceania": 474,
+   "South America": 68922
+ },
+ {
+   "date": "22/07/2020",
+   "World": 275160,
+   "Africa": 19609,
+   "Asia": 71699,
+   "Europe": 15831,
+   "North America": 78638,
+   "Oceania": 411,
+   "South America": 88972
+ },
+ {
+   "date": "23/07/2020",
+   "World": 279774,
+   "Africa": 18470,
+   "Asia": 79862,
+   "Europe": 17500,
+   "North America": 82693,
+   "Oceania": 295,
+   "South America": 80954
+ },
+ {
+   "date": "24/07/2020",
+   "World": 283726,
+   "Africa": 22095,
+   "Asia": 75080,
+   "Europe": 17671,
+   "North America": 88587,
+   "Oceania": 356,
+   "South America": 79937
+ },
+ {
+   "date": "25/07/2020",
+   "World": 250012,
+   "Africa": 18144,
+   "Asia": 74403,
+   "Europe": 13952,
+   "North America": 77488,
+   "Oceania": 460,
+   "South America": 65565
+ },
+ {
+   "date": "26/07/2020",
+   "World": 212020,
+   "Africa": 18308,
+   "Asia": 72899,
+   "Europe": 12857,
+   "North America": 67615,
+   "Oceania": 555,
+   "South America": 39786
+ },
+ {
+   "date": "27/07/2020",
+   "World": 234124,
+   "Africa": 13454,
+   "Asia": 69254,
+   "Europe": 21617,
+   "North America": 69594,
+   "Oceania": 369,
+   "South America": 59836
+ },
+ {
+   "date": "28/07/2020",
+   "World": 264390,
+   "Africa": 13501,
+   "Asia": 77989,
+   "Europe": 15350,
+   "North America": 76853,
+   "Oceania": 282,
+   "South America": 80415
+ },
+ {
+   "date": "29/07/2020",
+   "World": 270228,
+   "Africa": 17640,
+   "Asia": 77892,
+   "Europe": 18229,
+   "North America": 75517,
+   "Oceania": 717,
+   "South America": 80233
+ },
+ {
+   "date": "30/07/2020",
+   "World": 281762,
+   "Africa": 17417,
+   "Asia": 80915,
+   "Europe": 19802,
+   "North America": 82737,
+   "Oceania": 605,
+   "South America": 80286
+ },
+ {
+   "date": "31/07/2020",
+   "World": 287668,
+   "Africa": 19002,
+   "Asia": 88553,
+   "Europe": 19765,
+   "North America": 78877,
+   "Oceania": 388,
+   "South America": 81083
+ },
+ {
+   "date": "01/08/2020",
+   "World": 246427,
+   "Africa": 16922,
+   "Asia": 77552,
+   "Europe": 14785,
+   "North America": 73047,
+   "Oceania": 637,
+   "South America": 63484
+ },
+ {
+   "date": "02/08/2020",
+   "World": 230830,
+   "Africa": 12734,
+   "Asia": 81768,
+   "Europe": 12936,
+   "North America": 56182,
+   "Oceania": 444,
+   "South America": 66766
+ },
+ {
+   "date": "03/08/2020",
+   "World": 205849,
+   "Africa": 10864,
+   "Asia": 75189,
+   "Europe": 24700,
+   "North America": 50363,
+   "Oceania": 413,
+   "South America": 44320
+ },
+ {
+   "date": "04/08/2020",
+   "World": 265573,
+   "Africa": 9920,
+   "Asia": 79338,
+   "Europe": 20599,
+   "North America": 73162,
+   "Oceania": 722,
+   "South America": 81832
+ },
+ {
+   "date": "05/08/2020",
+   "World": 275173,
+   "Africa": 15359,
+   "Asia": 85832,
+   "Europe": 19938,
+   "North America": 66172,
+   "Oceania": 484,
+   "South America": 87388
+ },
+ {
+   "date": "06/08/2020",
+   "World": 286841,
+   "Africa": 14330,
+   "Asia": 90727,
+   "Europe": 21842,
+   "North America": 71986,
+   "Oceania": 392,
+   "South America": 87564
+ },
+ {
+   "date": "07/08/2020",
+   "World": 282585,
+   "Africa": 13489,
+   "Asia": 90716,
+   "Europe": 23515,
+   "North America": 73377,
+   "Oceania": 456,
+   "South America": 81032
+ },
+ {
+   "date": "08/08/2020",
+   "World": 265395,
+   "Africa": 14222,
+   "Asia": 91079,
+   "Europe": 15567,
+   "North America": 75865,
+   "Oceania": 387,
+   "South America": 68275
+ },
+ {
+   "date": "09/08/2020",
+   "World": 233102,
+   "Africa": 12357,
+   "Asia": 86617,
+   "Europe": 13858,
+   "North America": 62726,
+   "Oceania": 339,
+   "South America": 57205
+ },
+ {
+   "date": "10/08/2020",
+   "World": 233189,
+   "Africa": 9132,
+   "Asia": 81338,
+   "Europe": 26420,
+   "North America": 61516,
+   "Oceania": 360,
+   "South America": 54423
+ },
+ {
+   "date": "11/08/2020",
+   "World": 265849,
+   "Africa": 7875,
+   "Asia": 85846,
+   "Europe": 20437,
+   "North America": 68662,
+   "Oceania": 414,
+   "South America": 82615
+ },
+ {
+   "date": "12/08/2020",
+   "World": 274937,
+   "Africa": 9256,
+   "Asia": 95428,
+   "Europe": 22546,
+   "North America": 66060,
+   "Oceania": 350,
+   "South America": 81297
+ },
+ {
+   "date": "13/08/2020",
+   "World": 290325,
+   "Africa": 10405,
+   "Asia": 92513,
+   "Europe": 27389,
+   "North America": 64977,
+   "Oceania": 398,
+   "South America": 94643
+ },
+ {
+   "date": "14/08/2020",
+   "World": 307113,
+   "Africa": 12544,
+   "Asia": 94784,
+   "Europe": 26780,
+   "North America": 81473,
+   "Oceania": 327,
+   "South America": 91205
+ },
+ {
+   "date": "15/08/2020",
+   "World": 249094,
+   "Africa": 11812,
+   "Asia": 91431,
+   "Europe": 20241,
+   "North America": 64211,
+   "Oceania": 265,
+   "South America": 61134
+ },
+ {
+   "date": "16/08/2020",
+   "World": 210166,
+   "Africa": 9958,
+   "Asia": 83777,
+   "Europe": 17293,
+   "North America": 43431,
+   "Oceania": 332,
+   "South America": 55375
+ },
+ {
+   "date": "17/08/2020",
+   "World": 212724,
+   "Africa": 8852,
+   "Asia": 77885,
+   "Europe": 29525,
+   "North America": 44642,
+   "Oceania": 282,
+   "South America": 51538
+ },
+ {
+   "date": "18/08/2020",
+   "World": 259550,
+   "Africa": 8652,
+   "Asia": 93051,
+   "Europe": 22731,
+   "North America": 54867,
+   "Oceania": 236,
+   "South America": 80013
+ },
+ {
+   "date": "19/08/2020",
+   "World": 277300,
+   "Africa": 10890,
+   "Asia": 98372,
+   "Europe": 27859,
+   "North America": 57176,
+   "Oceania": 252,
+   "South America": 82751
+ },
+ {
+   "date": "20/08/2020",
+   "World": 271467,
+   "Africa": 10612,
+   "Asia": 97004,
+   "Europe": 30230,
+   "North America": 56189,
+   "Oceania": 196,
+   "South America": 77236
+ },
+ {
+   "date": "21/08/2020",
+   "World": 261651,
+   "Africa": 10273,
+   "Asia": 97247,
+   "Europe": 31724,
+   "North America": 58890,
+   "Oceania": 201,
+   "South America": 63316
+ },
+ {
+   "date": "22/08/2020",
+   "World": 263920,
+   "Africa": 10433,
+   "Asia": 95142,
+   "Europe": 22481,
+   "North America": 57139,
+   "Oceania": 212,
+   "South America": 78513
+ },
+ {
+   "date": "23/08/2020",
+   "World": 202762,
+   "Africa": 9053,
+   "Asia": 84079,
+   "Europe": 20375,
+   "North America": 40373,
+   "Oceania": 153,
+   "South America": 48729
+ },
+ {
+   "date": "24/08/2020",
+   "World": 228048,
+   "Africa": 7612,
+   "Asia": 86302,
+   "Europe": 35719,
+   "North America": 41735,
+   "Oceania": 145,
+   "South America": 56535
+ },
+ {
+   "date": "25/08/2020",
+   "World": 245502,
+   "Africa": 7537,
+   "Asia": 82122,
+   "Europe": 26745,
+   "North America": 52593,
+   "Oceania": 335,
+   "South America": 76170
+ },
+ {
+   "date": "26/08/2020",
+   "World": 281443,
+   "Africa": 8856,
+   "Asia": 112995,
+   "Europe": 25717,
+   "North America": 52420,
+   "Oceania": 168,
+   "South America": 81287
+ },
+ {
+   "date": "27/08/2020",
+   "World": 287336,
+   "Africa": 8548,
+   "Asia": 103599,
+   "Europe": 39994,
+   "North America": 62023,
+   "Oceania": 143,
+   "South America": 73029
+ },
+ {
+   "date": "28/08/2020",
+   "World": 285459,
+   "Africa": 8109,
+   "Asia": 103952,
+   "Europe": 36551,
+   "North America": 57982,
+   "Oceania": 208,
+   "South America": 78657
+ },
+ {
+   "date": "29/08/2020",
+   "World": 260759,
+   "Africa": 8364,
+   "Asia": 104671,
+   "Europe": 24286,
+   "North America": 53897,
+   "Oceania": 125,
+   "South America": 69416
+ },
+ {
+   "date": "30/08/2020",
+   "World": 219700,
+   "Africa": 8470,
+   "Asia": 103460,
+   "Europe": 22374,
+   "North America": 41096,
+   "Oceania": 91,
+   "South America": 44209
+ },
+ {
+   "date": "31/08/2020",
+   "World": 264158,
+   "Africa": 6813,
+   "Asia": 94198,
+   "Europe": 41947,
+   "North America": 42542,
+   "Oceania": 178,
+   "South America": 78480
+ },
+ {
+   "date": "01/09/2020",
+   "World": 267065,
+   "Africa": 7163,
+   "Asia": 103863,
+   "Europe": 29936,
+   "North America": 52884,
+   "Oceania": 111,
+   "South America": 73108
+ },
+ {
+   "date": "02/09/2020",
+   "World": 281629,
+   "Africa": 8714,
+   "Asia": 110464,
+   "Europe": 35103,
+   "North America": 49973,
+   "Oceania": 188,
+   "South America": 77187
+ },
+ {
+   "date": "03/09/2020",
+   "World": 285353,
+   "Africa": 7746,
+   "Asia": 111539,
+   "Europe": 36724,
+   "North America": 56733,
+   "Oceania": 95,
+   "South America": 72516
+ },
+ {
+   "date": "04/09/2020",
+   "World": 301399,
+   "Africa": 8579,
+   "Asia": 115319,
+   "Europe": 41374,
+   "North America": 58818,
+   "Oceania": 154,
+   "South America": 77155
+ },
+ {
+   "date": "05/09/2020",
+   "World": 274102,
+   "Africa": 7392,
+   "Asia": 115192,
+   "Europe": 30416,
+   "North America": 56091,
+   "Oceania": 87,
+   "South America": 64924
+ },
+ {
+   "date": "06/09/2020",
+   "World": 229041,
+   "Africa": 7822,
+   "Asia": 117039,
+   "Europe": 26818,
+   "North America": 36341,
+   "Oceania": 56,
+   "South America": 40965
+ },
+ {
+   "date": "07/09/2020",
+   "World": 225102,
+   "Africa": 6873,
+   "Asia": 101123,
+   "Europe": 49877,
+   "North America": 32112,
+   "Oceania": 137,
+   "South America": 34980
+ },
+ {
+   "date": "08/09/2020",
+   "World": 246305,
+   "Africa": 7679,
+   "Asia": 118472,
+   "Europe": 37333,
+   "North America": 37800,
+   "Oceania": 104,
+   "South America": 44917
+ },
+ {
+   "date": "09/09/2020",
+   "World": 284984,
+   "Africa": 8294,
+   "Asia": 125606,
+   "Europe": 40171,
+   "North America": 43448,
+   "Oceania": 87,
+   "South America": 67378
+ },
+ {
+   "date": "10/09/2020",
+   "World": 304216,
+   "Africa": 8048,
+   "Asia": 127973,
+   "Europe": 46073,
+   "North America": 49637,
+   "Oceania": 106,
+   "South America": 72379
+ },
+ {
+   "date": "11/09/2020",
+   "World": 316157,
+   "Africa": 8695,
+   "Asia": 129083,
+   "Europe": 48891,
+   "North America": 55432,
+   "Oceania": 142,
+   "South America": 73914
+ },
+ {
+   "date": "12/09/2020",
+   "World": 288680,
+   "Africa": 7408,
+   "Asia": 124323,
+   "Europe": 37921,
+   "North America": 57381,
+   "Oceania": 46,
+   "South America": 61601
+ },
+ {
+   "date": "13/09/2020",
+   "World": 248805,
+   "Africa": 6745,
+   "Asia": 120952,
+   "Europe": 30114,
+   "North America": 47848,
+   "Oceania": 44,
+   "South America": 43102
+ },
+ {
+   "date": "14/09/2020",
+   "World": 266837,
+   "Africa": 6481,
+   "Asia": 115865,
+   "Europe": 55156,
+   "North America": 41666,
+   "Oceania": 197,
+   "South America": 47472
+ },
+ {
+   "date": "15/09/2020",
+   "World": 280419,
+   "Africa": 6556,
+   "Asia": 122381,
+   "Europe": 43053,
+   "North America": 46147,
+   "Oceania": 40,
+   "South America": 62242
+ },
+ {
+   "date": "16/09/2020",
+   "World": 304781,
+   "Africa": 7327,
+   "Asia": 131145,
+   "Europe": 51144,
+   "North America": 48407,
+   "Oceania": 47,
+   "South America": 66711
+ },
+ {
+   "date": "17/09/2020",
+   "World": 315451,
+   "Africa": 8602,
+   "Asia": 129602,
+   "Europe": 55226,
+   "North America": 54100,
+   "Oceania": 48,
+   "South America": 67873
+ },
+ {
+   "date": "18/09/2020",
+   "World": 326577,
+   "Africa": 8168,
+   "Asia": 126626,
+   "Europe": 60546,
+   "North America": 61105,
+   "Oceania": 38,
+   "South America": 70094
+ },
+ {
+   "date": "19/09/2020",
+   "World": 293243,
+   "Africa": 8728,
+   "Asia": 123848,
+   "Europe": 45020,
+   "North America": 56877,
+   "Oceania": 177,
+   "South America": 58593
+ },
+ {
+   "date": "20/09/2020",
+   "World": 255128,
+   "Africa": 8420,
+   "Asia": 117444,
+   "Europe": 39537,
+   "North America": 48763,
+   "Oceania": 15,
+   "South America": 40949
+ },
+ {
+   "date": "21/09/2020",
+   "World": 259716,
+   "Africa": 6146,
+   "Asia": 105958,
+   "Europe": 65308,
+   "North America": 40985,
+   "Oceania": 30,
+   "South America": 41289
+ },
+ {
+   "date": "22/09/2020",
+   "World": 284408,
+   "Africa": 6838,
+   "Asia": 117729,
+   "Europe": 53353,
+   "North America": 48127,
+   "Oceania": 172,
+   "South America": 58189
+ },
+ {
+   "date": "23/09/2020",
+   "World": 311398,
+   "Africa": 8726,
+   "Asia": 123849,
+   "Europe": 61076,
+   "North America": 51903,
+   "Oceania": 86,
+   "South America": 65758
+ },
+ {
+   "date": "24/09/2020",
+   "World": 320842,
+   "Africa": 8186,
+   "Asia": 123644,
+   "Europe": 65362,
+   "North America": 59958,
+   "Oceania": 26,
+   "South America": 63666
+ },
+ {
+   "date": "25/09/2020",
+   "World": 330153,
+   "Africa": 7978,
+   "Asia": 122540,
+   "Europe": 69661,
+   "North America": 59161,
+   "Oceania": 129,
+   "South America": 70684
+ },
+ {
+   "date": "26/09/2020",
+   "World": 285729,
+   "Africa": 6412,
+   "Asia": 121977,
+   "Europe": 53242,
+   "North America": 54972,
+   "Oceania": 27,
+   "South America": 49099
+ },
+ {
+   "date": "27/09/2020",
+   "World": 247118,
+   "Africa": 8368,
+   "Asia": 113387,
+   "Europe": 44844,
+   "North America": 40740,
+   "Oceania": 4,
+   "South America": 39775
+ },
+ {
+   "date": "28/09/2020",
+   "World": 262469,
+   "Africa": 5667,
+   "Asia": 98546,
+   "Europe": 67652,
+   "North America": 47693,
+   "Oceania": 13,
+   "South America": 42898
+ },
+ {
+   "date": "29/09/2020",
+   "World": 282659,
+   "Africa": 7511,
+   "Asia": 114151,
+   "Europe": 48621,
+   "North America": 52181,
+   "Oceania": 175,
+   "South America": 60020
+ },
+ {
+   "date": "30/09/2020",
+   "World": 324151,
+   "Africa": 8430,
+   "Asia": 125716,
+   "Europe": 78531,
+   "North America": 50186,
+   "Oceania": 154,
+   "South America": 61134
+ },
+ {
+   "date": "01/10/2020",
+   "World": 318943,
+   "Africa": 7265,
+   "Asia": 119460,
+   "Europe": 70704,
+   "North America": 57278,
+   "Oceania": 18,
+   "South America": 64218
+ },
+ {
+   "date": "02/10/2020",
+   "World": 329439,
+   "Africa": 8849,
+   "Asia": 117052,
+   "Europe": 76616,
+   "North America": 64579,
+   "Oceania": 125,
+   "South America": 62218
+ },
+ {
+   "date": "03/10/2020",
+   "World": 297260,
+   "Africa": 8828,
+   "Asia": 107550,
+   "Europe": 71922,
+   "North America": 60229,
+   "Oceania": 20,
+   "South America": 48711
+ },
+ {
+   "date": "04/10/2020",
+   "World": 260271,
+   "Africa": 8093,
+   "Asia": 108166,
+   "Europe": 75162,
+   "North America": 41175,
+   "Oceania": 14,
+   "South America": 27661
+ },
+ {
+   "date": "05/10/2020",
+   "World": 310754,
+   "Africa": 4707,
+   "Asia": 97356,
+   "Europe": 81886,
+   "North America": 72062,
+   "Oceania": 292,
+   "South America": 54451
+ },
+ {
+   "date": "06/10/2020",
+   "World": 315739,
+   "Africa": 6595,
+   "Asia": 108636,
+   "Europe": 84991,
+   "North America": 55477,
+   "Oceania": 12,
+   "South America": 60028
+ },
+ {
+   "date": "07/10/2020",
+   "World": 348728,
+   "Africa": 10554,
+   "Asia": 116824,
+   "Europe": 98247,
+   "North America": 60364,
+   "Oceania": 158,
+   "South America": 62581
+ },
+ {
+   "date": "08/10/2020",
+   "World": 359021,
+   "Africa": 10904,
+   "Asia": 108853,
+   "Europe": 110482,
+   "North America": 70247,
+   "Oceania": 92,
+   "South America": 58443
+ },
+ {
+   "date": "09/10/2020",
+   "World": 360073,
+   "Africa": 8563,
+   "Asia": 107186,
+   "Europe": 118143,
+   "North America": 67403,
+   "Oceania": 356,
+   "South America": 58422
+ },
+ {
+   "date": "10/10/2020",
+   "World": 355652,
+   "Africa": 13531,
+   "Asia": 108118,
+   "Europe": 111221,
+   "North America": 66099,
+   "Oceania": 20,
+   "South America": 56663
+ },
+ {
+   "date": "11/10/2020",
+   "World": 289517,
+   "Africa": 8978,
+   "Asia": 98891,
+   "Europe": 88987,
+   "North America": 54688,
+   "Oceania": 27,
+   "South America": 37946
+ },
+ {
+   "date": "12/10/2020",
+   "World": 289153,
+   "Africa": 5877,
+   "Asia": 90485,
+   "Europe": 110588,
+   "North America": 50709,
+   "Oceania": 536,
+   "South America": 30958
+ },
+ {
+   "date": "13/10/2020",
+   "World": 318998,
+   "Africa": 7840,
+   "Asia": 99787,
+   "Europe": 111761,
+   "North America": 60999,
+   "Oceania": 29,
+   "South America": 38582
+ },
+ {
+   "date": "14/10/2020",
+   "World": 379876,
+   "Africa": 11512,
+   "Asia": 104802,
+   "Europe": 140869,
+   "North America": 69928,
+   "Oceania": 357,
+   "South America": 52408
+ },
+ {
+   "date": "15/10/2020",
+   "World": 406681,
+   "Africa": 9107,
+   "Asia": 101865,
+   "Europe": 155557,
+   "North America": 76157,
+   "Oceania": 19,
+   "South America": 63976
+ },
+ {
+   "date": "16/10/2020",
+   "World": 410386,
+   "Africa": 10680,
+   "Asia": 100651,
+   "Europe": 157373,
+   "North America": 83419,
+   "Oceania": 234,
+   "South America": 58029
+ },
+ {
+   "date": "17/10/2020",
+   "World": 372056,
+   "Africa": 14267,
+   "Asia": 96574,
+   "Europe": 146952,
+   "North America": 66378,
+   "Oceania": 18,
+   "South America": 47867
+ },
+ {
+   "date": "18/10/2020",
+   "World": 331092,
+   "Africa": 8193,
+   "Asia": 91367,
+   "Europe": 133814,
+   "North America": 60962,
+   "Oceania": 9,
+   "South America": 36747
+ },
+ {
+   "date": "19/10/2020",
+   "World": 374092,
+   "Africa": 9685,
+   "Asia": 82372,
+   "Europe": 161094,
+   "North America": 78595,
+   "Oceania": 759,
+   "South America": 41587
+ },
+ {
+   "date": "20/10/2020",
+   "World": 388115,
+   "Africa": 9787,
+   "Asia": 90814,
+   "Europe": 159359,
+   "North America": 73786,
+   "Oceania": 63,
+   "South America": 54306
+ },
+ {
+   "date": "21/10/2020",
+   "World": 438676,
+   "Africa": 10479,
+   "Asia": 98313,
+   "Europe": 195683,
+   "North America": 74488,
+   "Oceania": 631,
+   "South America": 59082
+ },
+ {
+   "date": "22/10/2020",
+   "World": 481438,
+   "Africa": 10966,
+   "Asia": 97091,
+   "Europe": 221114,
+   "North America": 93023,
+   "Oceania": 30,
+   "South America": 59214
+ },
+ {
+   "date": "23/10/2020",
+   "World": 493406,
+   "Africa": 10418,
+   "Asia": 97601,
+   "Europe": 231014,
+   "North America": 94481,
+   "Oceania": 666,
+   "South America": 59226
+ },
+ {
+   "date": "24/10/2020",
+   "World": 456551,
+   "Africa": 11761,
+   "Asia": 88708,
+   "Europe": 210857,
+   "North America": 91797,
+   "Oceania": 19,
+   "South America": 53409
+ },
+ {
+   "date": "25/10/2020",
+   "World": 359437,
+   "Africa": 9096,
+   "Asia": 85163,
+   "Europe": 155567,
+   "North America": 69585,
+   "Oceania": 79,
+   "South America": 39947
+ },
+ {
+   "date": "26/10/2020",
+   "World": 483282,
+   "Africa": 10691,
+   "Asia": 72768,
+   "Europe": 280168,
+   "North America": 76365,
+   "Oceania": 592,
+   "South America": 42698
+ },
+ {
+   "date": "27/10/2020",
+   "World": 466766,
+   "Africa": 8672,
+   "Asia": 84826,
+   "Europe": 226409,
+   "North America": 89524,
+   "Oceania": 20,
+   "South America": 57315
+ },
+ {
+   "date": "28/10/2020",
+   "World": 519554,
+   "Africa": 11903,
+   "Asia": 93180,
+   "Europe": 257139,
+   "North America": 99356,
+   "Oceania": 851,
+   "South America": 57125
+ },
+ {
+   "date": "29/10/2020",
+   "World": 550123,
+   "Africa": 11066,
+   "Asia": 93190,
+   "Europe": 283670,
+   "North America": 104262,
+   "Oceania": 17,
+   "South America": 57918
+ },
+ {
+   "date": "30/10/2020",
+   "World": 570762,
+   "Africa": 13604,
+   "Asia": 92112,
+   "Europe": 297424,
+   "North America": 113726,
+   "Oceania": 14,
+   "South America": 53882
+ },
+ {
+   "date": "31/10/2020",
+   "World": 472766,
+   "Africa": 11074,
+   "Asia": 86837,
+   "Europe": 234909,
+   "North America": 99468,
+   "Oceania": 12,
+   "South America": 40466
+ },
+ {
+   "date": "01/11/2020",
+   "World": 438584,
+   "Africa": 10293,
+   "Asia": 87586,
+   "Europe": 221091,
+   "North America": 87725,
+   "Oceania": 10,
+   "South America": 31879
+ },
+ {
+   "date": "02/11/2020",
+   "World": 546453,
+   "Africa": 7576,
+   "Asia": 83120,
+   "Europe": 332399,
+   "North America": 91641,
+   "Oceania": 1404,
+   "South America": 30313
+ },
+ {
+   "date": "03/11/2020",
+   "World": 563523,
+   "Africa": 10875,
+   "Asia": 93069,
+   "Europe": 286006,
+   "North America": 137795,
+   "Oceania": 325,
+   "South America": 35453
+ },
+ {
+   "date": "04/11/2020",
+   "World": 536634,
+   "Africa": 14009,
+   "Asia": 97370,
+   "Europe": 257544,
+   "North America": 111988,
+   "Oceania": 348,
+   "South America": 55375
+ },
+ {
+   "date": "05/11/2020",
+   "World": 617048,
+   "Africa": 15391,
+   "Asia": 96522,
+   "Europe": 312377,
+   "North America": 141376,
+   "Oceania": 483,
+   "South America": 50899
+ },
+ {
+   "date": "06/11/2020",
+   "World": 621327,
+   "Africa": 11718,
+   "Asia": 101636,
+   "Europe": 320293,
+   "North America": 141798,
+   "Oceania": 251,
+   "South America": 45631
+ },
+ {
+   "date": "07/11/2020",
+   "World": 599290,
+   "Africa": 15019,
+   "Asia": 93778,
+   "Europe": 307953,
+   "North America": 141645,
+   "Oceania": 12,
+   "South America": 40883
+ },
+ {
+   "date": "08/11/2020",
+   "World": 491534,
+   "Africa": 12504,
+   "Asia": 94763,
+   "Europe": 222786,
+   "North America": 131697,
+   "Oceania": 13,
+   "South America": 29771
+ },
+ {
+   "date": "09/11/2020",
+   "World": 507085,
+   "Africa": 8897,
+   "Asia": 85576,
+   "Europe": 249981,
+   "North America": 130255,
+   "Oceania": 693,
+   "South America": 31683
+ },
+ {
+   "date": "10/11/2020",
+   "World": 568314,
+   "Africa": 13164,
+   "Asia": 95440,
+   "Europe": 239982,
+   "North America": 151058,
+   "Oceania": 295,
+   "South America": 68375
+ },
+ {
+   "date": "11/11/2020",
+   "World": 622599,
+   "Africa": 14017,
+   "Asia": 100932,
+   "Europe": 291794,
+   "North America": 163482,
+   "Oceania": 353,
+   "South America": 52021
+ },
+ {
+   "date": "12/11/2020",
+   "World": 639360,
+   "Africa": 15757,
+   "Asia": 99133,
+   "Europe": 290325,
+   "North America": 173914,
+   "Oceania": 175,
+   "South America": 60056
+ },
+ {
+   "date": "13/11/2020",
+   "World": 661857,
+   "Africa": 14663,
+   "Asia": 99526,
+   "Europe": 286869,
+   "North America": 194944,
+   "Oceania": 231,
+   "South America": 65624
+ },
+ {
+   "date": "14/11/2020",
+   "World": 587911,
+   "Africa": 14087,
+   "Asia": 94159,
+   "Europe": 251149,
+   "North America": 178362,
+   "Oceania": 32,
+   "South America": 50122
+ },
+ {
+   "date": "15/11/2020",
+   "World": 491434,
+   "Africa": 12560,
+   "Asia": 81724,
+   "Europe": 214765,
+   "North America": 150073,
+   "Oceania": 40,
+   "South America": 32272
+ },
+ {
+   "date": "16/11/2020",
+   "World": 523032,
+   "Africa": 10317,
+   "Asia": 80714,
+   "Europe": 231133,
+   "North America": 165345,
+   "Oceania": 428,
+   "South America": 35095
+ },
+ {
+   "date": "17/11/2020",
+   "World": 599536,
+   "Africa": 12873,
+   "Asia": 94254,
+   "Europe": 261339,
+   "North America": 174796,
+   "Oceania": 267,
+   "South America": 56007
+ },
+ {
+   "date": "18/11/2020",
+   "World": 620728,
+   "Africa": 15285,
+   "Asia": 106689,
+   "Europe": 256825,
+   "North America": 184680,
+   "Oceania": 238,
+   "South America": 57011
+ },
+ {
+   "date": "19/11/2020",
+   "World": 654327,
+   "Africa": 13926,
+   "Asia": 106966,
+   "Europe": 269339,
+   "North America": 206458,
+   "Oceania": 239,
+   "South America": 57399
+ },
+ {
+   "date": "20/11/2020",
+   "World": 674568,
+   "Africa": 15744,
+   "Asia": 108661,
+   "Europe": 269018,
+   "North America": 217331,
+   "Oceania": 182,
+   "South America": 63632
+ },
+ {
+   "date": "21/11/2020",
+   "World": 594667,
+   "Africa": 13357,
+   "Asia": 103716,
+   "Europe": 229206,
+   "North America": 195727,
+   "Oceania": 26,
+   "South America": 52635
+ },
+ {
+   "date": "22/11/2020",
+   "World": 499562,
+   "Africa": 12795,
+   "Asia": 104892,
+   "Europe": 185280,
+   "North America": 163031,
+   "Oceania": 15,
+   "South America": 33549
+ },
+ {
+   "date": "23/11/2020",
+   "World": 531291,
+   "Africa": 10075,
+   "Asia": 96793,
+   "Europe": 189506,
+   "North America": 201212,
+   "Oceania": 344,
+   "South America": 33361
+ },
+ {
+   "date": "24/11/2020",
+   "World": 589269,
+   "Africa": 12504,
+   "Asia": 107342,
+   "Europe": 222692,
+   "North America": 193448,
+   "Oceania": 253,
+   "South America": 53030
+ },
+ {
+   "date": "25/11/2020",
+   "World": 615891,
+   "Africa": 14646,
+   "Asia": 109732,
+   "Europe": 222672,
+   "North America": 201542,
+   "Oceania": 295,
+   "South America": 67004
+ },
+ {
+   "date": "26/11/2020",
+   "World": 593598,
+   "Africa": 13933,
+   "Asia": 138447,
+   "Europe": 240294,
+   "North America": 137585,
+   "Oceania": 115,
+   "South America": 63224
+ },
+ {
+   "date": "27/11/2020",
+   "World": 694727,
+   "Africa": 16039,
+   "Asia": 146148,
+   "Europe": 234817,
+   "North America": 237675,
+   "Oceania": 230,
+   "South America": 59818
+ },
+ {
+   "date": "28/11/2020",
+   "World": 608305,
+   "Africa": 13401,
+   "Asia": 127577,
+   "Europe": 203537,
+   "North America": 188738,
+   "Oceania": 6,
+   "South America": 75046
+ },
+ {
+   "date": "29/11/2020",
+   "World": 496347,
+   "Africa": 13077,
+   "Asia": 125294,
+   "Europe": 161906,
+   "North America": 154660,
+   "Oceania": 16,
+   "South America": 41394
+ },
+ {
+   "date": "30/11/2020",
+   "World": 502897,
+   "Africa": 10341,
+   "Asia": 115540,
+   "Europe": 161719,
+   "North America": 174131,
+   "Oceania": 305,
+   "South America": 40861
+ },
+ {
+   "date": "01/12/2020",
+   "World": 613172,
+   "Africa": 10837,
+   "Asia": 122871,
+   "Europe": 191089,
+   "North America": 215396,
+   "Oceania": 212,
+   "South America": 72767
+ },
+ {
+   "date": "02/12/2020",
+   "World": 639220,
+   "Africa": 16411,
+   "Asia": 127193,
+   "Europe": 206038,
+   "North America": 219992,
+   "Oceania": 182,
+   "South America": 69404
+ },
+ {
+   "date": "03/12/2020",
+   "World": 691234,
+   "Africa": 15642,
+   "Asia": 131348,
+   "Europe": 224393,
+   "North America": 244691,
+   "Oceania": 194,
+   "South America": 74966
+ },
+ {
+   "date": "04/12/2020",
+   "World": 696663,
+   "Africa": 17968,
+   "Asia": 126534,
+   "Europe": 223876,
+   "North America": 260035,
+   "Oceania": 229,
+   "South America": 68021
+ },
+ {
+   "date": "05/12/2020",
+   "World": 644432,
+   "Africa": 14768,
+   "Asia": 123391,
+   "Europe": 198800,
+   "North America": 244659,
+   "Oceania": 9,
+   "South America": 62805
+ },
+ {
+   "date": "06/12/2020",
+   "World": 545044,
+   "Africa": 13476,
+   "Asia": 119612,
+   "Europe": 170583,
+   "North America": 197248,
+   "Oceania": 8,
+   "South America": 44117
+ },
+ {
+   "date": "07/12/2020",
+   "World": 534031,
+   "Africa": 10634,
+   "Asia": 108473,
+   "Europe": 158450,
+   "North America": 215406,
+   "Oceania": 21,
+   "South America": 41047
+ },
+ {
+   "date": "08/12/2020",
+   "World": 630302,
+   "Africa": 13255,
+   "Asia": 118482,
+   "Europe": 185944,
+   "North America": 249886,
+   "Oceania": 247,
+   "South America": 62488
+ },
+ {
+   "date": "09/12/2020",
+   "World": 665432,
+   "Africa": 19397,
+   "Asia": 118324,
+   "Europe": 213291,
+   "North America": 240743,
+   "Oceania": 87,
+   "South America": 73590
+ },
+ {
+   "date": "10/12/2020",
+   "World": 673431,
+   "Africa": 19135,
+   "Asia": 85320,
+   "Europe": 230731,
+   "North America": 262450,
+   "Oceania": 139,
+   "South America": 75656
+ },
+ {
+   "date": "11/12/2020",
+   "World": 707830,
+   "Africa": 19079,
+   "Asia": 114577,
+   "Europe": 236775,
+   "North America": 264392,
+   "Oceania": 133,
+   "South America": 72874
+ },
+ {
+   "date": "12/12/2020",
+   "World": 650055,
+   "Africa": 18137,
+   "Asia": 110011,
+   "Europe": 211390,
+   "North America": 248382,
+   "Oceania": 9,
+   "South America": 62126
+ },
+ {
+   "date": "13/12/2020",
+   "World": 539685,
+   "Africa": 16226,
+   "Asia": 99274,
+   "Europe": 174285,
+   "North America": 210893,
+   "Oceania": 14,
+   "South America": 38993
+ },
+ {
+   "date": "14/12/2020",
+   "World": 551167,
+   "Africa": 11405,
+   "Asia": 94482,
+   "Europe": 166771,
+   "North America": 229649,
+   "Oceania": 140,
+   "South America": 48720
+ },
+ {
+   "date": "15/12/2020",
+   "World": 647148,
+   "Africa": 17987,
+   "Asia": 107511,
+   "Europe": 201693,
+   "North America": 249535,
+   "Oceania": 144,
+   "South America": 70278
+ },
+ {
+   "date": "16/12/2020",
+   "World": 718331,
+   "Africa": 21162,
+   "Asia": 106664,
+   "Europe": 242083,
+   "North America": 258749,
+   "Oceania": 117,
+   "South America": 89556
+ },
+ {
+   "date": "17/12/2020",
+   "World": 739448,
+   "Africa": 20519,
+   "Asia": 101897,
+   "Europe": 254211,
+   "North America": 266048,
+   "Oceania": 206,
+   "South America": 96567
+ },
+ {
+   "date": "18/12/2020",
+   "World": 722646,
+   "Africa": 19320,
+   "Asia": 100483,
+   "Europe": 249709,
+   "North America": 274103,
+   "Oceania": 97,
+   "South America": 78934
+ },
+ {
+   "date": "19/12/2020",
+   "World": 635708,
+   "Africa": 21268,
+   "Asia": 95683,
+   "Europe": 215252,
+   "North America": 229737,
+   "Oceania": 48,
+   "South America": 73720
+ },
+ {
+   "date": "20/12/2020",
+   "World": 548336,
+   "Africa": 18426,
+   "Asia": 87491,
+   "Europe": 186119,
+   "North America": 205804,
+   "Oceania": 35,
+   "South America": 50461
+ },
+ {
+   "date": "21/12/2020",
+   "World": 546033,
+   "Africa": 16787,
+   "Asia": 79428,
+   "Europe": 183187,
+   "North America": 215837,
+   "Oceania": 185,
+   "South America": 50609
+ },
+ {
+   "date": "22/12/2020",
+   "World": 651335,
+   "Africa": 19987,
+   "Asia": 89945,
+   "Europe": 227321,
+   "North America": 231888,
+   "Oceania": 91,
+   "South America": 82103
+ },
+ {
+   "date": "23/12/2020",
+   "World": 682711,
+   "Africa": 25747,
+   "Asia": 90046,
+   "Europe": 244919,
+   "North America": 246453,
+   "Oceania": 81,
+   "South America": 75465
+ },
+ {
+   "date": "24/12/2020",
+   "World": 695062,
+   "Africa": 27045,
+   "Asia": 88785,
+   "Europe": 259805,
+   "North America": 238930,
+   "Oceania": 115,
+   "South America": 80382
+ },
+ {
+   "date": "25/12/2020",
+   "World": 520084,
+   "Africa": 25785,
+   "Asia": 86079,
+   "Europe": 204609,
+   "North America": 148579,
+   "Oceania": 23,
+   "South America": 55009
+ },
+ {
+   "date": "26/12/2020",
+   "World": 507177,
+   "Africa": 21383,
+   "Asia": 75865,
+   "Europe": 140494,
+   "North America": 231584,
+   "Oceania": 27,
+   "South America": 37824
+ },
+ {
+   "date": "27/12/2020",
+   "World": 412835,
+   "Africa": 18675,
+   "Asia": 71538,
+   "Europe": 134944,
+   "North America": 151946,
+   "Oceania": 29,
+   "South America": 35703
+ },
+ {
+   "date": "28/12/2020",
+   "World": 498068,
+   "Africa": 15199,
+   "Asia": 69972,
+   "Europe": 168897,
+   "North America": 192794,
+   "Oceania": 165,
+   "South America": 51041
+ },
+ {
+   "date": "29/12/2020",
+   "World": 670653,
+   "Africa": 20128,
+   "Asia": 81717,
+   "Europe": 246105,
+   "North America": 236732,
+   "Oceania": 134,
+   "South America": 85837
+ },
+ {
+   "date": "30/12/2020",
+   "World": 725316,
+   "Africa": 30593,
+   "Asia": 83781,
+   "Europe": 275866,
+   "North America": 247057,
+   "Oceania": 91,
+   "South America": 87928
+ },
+ {
+   "date": "31/12/2020",
+   "World": 840099,
+   "Africa": 29789,
+   "Asia": 85117,
+   "Europe": 288029,
+   "North America": 343192,
+   "Oceania": 95,
+   "South America": 93877
+ },
+ {
+   "date": "01/01/2021",
+   "World": 588664,
+   "Africa": 27749,
+   "Asia": 75399,
+   "Europe": 236850,
+   "North America": 202729,
+   "Oceania": 35,
+   "South America": 45902
+ },
+ {
+   "date": "02/01/2021",
+   "World": 581371,
+   "Africa": 22890,
+   "Asia": 70826,
+   "Europe": 160737,
+   "North America": 288052,
+   "Oceania": 43,
+   "South America": 38823
+ },
+ {
+   "date": "03/01/2021",
+   "World": 520359,
+   "Africa": 21995,
+   "Asia": 69200,
+   "Europe": 167885,
+   "North America": 221687,
+   "Oceania": 41,
+   "South America": 39551
+ },
+ {
+   "date": "04/01/2021",
+   "World": 556397,
+   "Africa": 21775,
+   "Asia": 72437,
+   "Europe": 201044,
+   "North America": 210522,
+   "Oceania": 80,
+   "South America": 50539
+ },
+ {
+   "date": "05/01/2021",
+   "World": 741260,
+   "Africa": 26845,
+   "Asia": 82714,
+   "Europe": 276873,
+   "North America": 258924,
+   "Oceania": 123,
+   "South America": 95781
+ },
+ {
+   "date": "06/01/2021",
+   "World": 790915,
+   "Africa": 35789,
+   "Asia": 87836,
+   "Europe": 272351,
+   "North America": 292031,
+   "Oceania": 55,
+   "South America": 102853
+ },
+ {
+   "date": "07/01/2021",
+   "World": 871251,
+   "Africa": 35437,
+   "Asia": 87806,
+   "Europe": 301679,
+   "North America": 317768,
+   "Oceania": 89,
+   "South America": 128472
+ },
+ {
+   "date": "08/01/2021",
+   "World": 836710,
+   "Africa": 36440,
+   "Asia": 67594,
+   "Europe": 291957,
+   "North America": 335985,
+   "Oceania": 69,
+   "South America": 104665
+ },
+ {
+   "date": "09/01/2021",
+   "World": 757562,
+   "Africa": 35072,
+   "Asia": 105022,
+   "Europe": 232514,
+   "North America": 297121,
+   "Oceania": 44,
+   "South America": 87789
+ },
+ {
+   "date": "10/01/2021",
+   "World": 602481,
+   "Africa": 31638,
+   "Asia": 76501,
+   "Europe": 200228,
+   "North America": 233270,
+   "Oceania": 22,
+   "South America": 60822
+ },
+ {
+   "date": "11/01/2021",
+   "World": 614077,
+   "Africa": 27998,
+   "Asia": 74361,
+   "Europe": 213841,
+   "North America": 226535,
+   "Oceania": 127,
+   "South America": 71215
+ },
+ {
+   "date": "12/01/2021",
+   "World": 691794,
+   "Africa": 26070,
+   "Asia": 82211,
+   "Europe": 227185,
+   "North America": 253415,
+   "Oceania": 89,
+   "South America": 102824
+ },
+ {
+   "date": "13/01/2021",
+   "World": 743865,
+   "Africa": 34061,
+   "Asia": 87302,
+   "Europe": 259838,
+   "North America": 261780,
+   "Oceania": 100,
+   "South America": 100784
+ },
+ {
+   "date": "14/01/2021",
+   "World": 759870,
+   "Africa": 34247,
+   "Asia": 86391,
+   "Europe": 261797,
+   "North America": 267224,
+   "Oceania": 135,
+   "South America": 110076
+ },
+ {
+   "date": "15/01/2021",
+   "World": 784553,
+   "Africa": 31558,
+   "Asia": 82619,
+   "Europe": 260825,
+   "North America": 280565,
+   "Oceania": 66,
+   "South America": 128920
+ },
+ {
+   "date": "16/01/2021",
+   "World": 657667,
+   "Africa": 27528,
+   "Asia": 85635,
+   "Europe": 191449,
+   "North America": 252305,
+   "Oceania": 34,
+   "South America": 100716
+ },
+ {
+   "date": "17/01/2021",
+   "World": 528061,
+   "Africa": 26628,
+   "Asia": 75258,
+   "Europe": 158835,
+   "North America": 198369,
+   "Oceania": 19,
+   "South America": 68952
+ },
+ {
+   "date": "18/01/2021",
+   "World": 516819,
+   "Africa": 22417,
+   "Asia": 64850,
+   "Europe": 208426,
+   "North America": 161913,
+   "Oceania": 72,
+   "South America": 59141
+ },
+ {
+   "date": "19/01/2021",
+   "World": 592753,
+   "Africa": 23484,
+   "Asia": 74824,
+   "Europe": 206168,
+   "North America": 189221,
+   "Oceania": 14,
+   "South America": 99042
+ },
+ {
+   "date": "20/01/2021",
+   "World": 686903,
+   "Africa": 28336,
+   "Asia": 81729,
+   "Europe": 237756,
+   "North America": 221285,
+   "Oceania": 10,
+   "South America": 117787
+ },
+ {
+   "date": "21/01/2021",
+   "World": 669309,
+   "Africa": 27950,
+   "Asia": 76528,
+   "Europe": 239279,
+   "North America": 228325,
+   "Oceania": 139,
+   "South America": 97088
+ },
+ {
+   "date": "22/01/2021",
+   "World": 663915,
+   "Africa": 25980,
+   "Asia": 75819,
+   "Europe": 233890,
+   "North America": 225567,
+   "Oceania": 37,
+   "South America": 102622
+ },
+ {
+   "date": "23/01/2021",
+   "World": 577542,
+   "Africa": 27364,
+   "Asia": 73224,
+   "Europe": 175905,
+   "North America": 209346,
+   "Oceania": 13,
+   "South America": 91690
+ },
+ {
+   "date": "24/01/2021",
+   "World": 462340,
+   "Africa": 20181,
+   "Asia": 66994,
+   "Europe": 147561,
+   "North America": 160086,
+   "Oceania": 16,
+   "South America": 67502
+ },
+ {
+   "date": "25/01/2021",
+   "World": 481160,
+   "Africa": 16634,
+   "Asia": 58697,
+   "Europe": 198206,
+   "North America": 149465,
+   "Oceania": 66,
+   "South America": 58092
+ },
+ {
+   "date": "26/01/2021",
+   "World": 561056,
+   "Africa": 18607,
+   "Asia": 76190,
+   "Europe": 179350,
+   "North America": 179442,
+   "Oceania": 75,
+   "South America": 107392
+ },
+ {
+   "date": "27/01/2021",
+   "World": 601199,
+   "Africa": 20861,
+   "Asia": 80057,
+   "Europe": 216153,
+   "North America": 184916,
+   "Oceania": 48,
+   "South America": 99164
+ },
+ {
+   "date": "28/01/2021",
+   "World": 615173,
+   "Africa": 20778,
+   "Asia": 82905,
+   "Europe": 214303,
+   "North America": 196676,
+   "Oceania": 48,
+   "South America": 100463
+ },
+ {
+   "date": "29/01/2021",
+   "World": 589450,
+   "Africa": 19206,
+   "Asia": 75885,
+   "Europe": 207091,
+   "North America": 192006,
+   "Oceania": 37,
+   "South America": 95225
+ },
+ {
+   "date": "30/01/2021",
+   "World": 515217,
+   "Africa": 17868,
+   "Asia": 74402,
+   "Europe": 152702,
+   "North America": 176512,
+   "Oceania": 6,
+   "South America": 93727
+ },
+ {
+   "date": "31/01/2021",
+   "World": 396905,
+   "Africa": 15762,
+   "Asia": 67451,
+   "Europe": 130643,
+   "North America": 128241,
+   "Oceania": 7,
+   "South America": 54801
+ },
+ {
+   "date": "01/02/2021",
+   "World": 442533,
+   "Africa": 12690,
+   "Asia": 65898,
+   "Europe": 172872,
+   "North America": 139494,
+   "Oceania": 65,
+   "South America": 51514
+ },
+ {
+   "date": "02/02/2021",
+   "World": 465085,
+   "Africa": 14824,
+   "Asia": 69339,
+   "Europe": 161937,
+   "North America": 131152,
+   "Oceania": 7,
+   "South America": 87826
+ },
+ {
+   "date": "03/02/2021",
+   "World": 525246,
+   "Africa": 15462,
+   "Asia": 77146,
+   "Europe": 187205,
+   "North America": 147423,
+   "Oceania": 59,
+   "South America": 97951
+ },
+ {
+   "date": "04/02/2021",
+   "World": 472144,
+   "Africa": 16466,
+   "Asia": 72842,
+   "Europe": 163215,
+   "North America": 135527,
+   "Oceania": 26,
+   "South America": 84068
+ },
+ {
+   "date": "05/02/2021",
+   "World": 537161,
+   "Africa": 15932,
+   "Asia": 68277,
+   "Europe": 201581,
+   "North America": 167810,
+   "Oceania": 50,
+   "South America": 83511
+ },
+ {
+   "date": "06/02/2021",
+   "World": 435785,
+   "Africa": 13340,
+   "Asia": 69996,
+   "Europe": 135289,
+   "North America": 138919,
+   "Oceania": 10,
+   "South America": 78231
+ },
+ {
+   "date": "07/02/2021",
+   "World": 351863,
+   "Africa": 11941,
+   "Asia": 66095,
+   "Europe": 114658,
+   "North America": 102316,
+   "Oceania": 10,
+   "South America": 56843
+ },
+ {
+   "date": "08/02/2021",
+   "World": 339515,
+   "Africa": 11351,
+   "Asia": 59623,
+   "Europe": 128639,
+   "North America": 95165,
+   "Oceania": 36,
+   "South America": 44701
+ },
+ {
+   "date": "09/02/2021",
+   "World": 406941,
+   "Africa": 11292,
+   "Asia": 68022,
+   "Europe": 131712,
+   "North America": 113871,
+   "Oceania": 29,
+   "South America": 82015
+ },
+ {
+   "date": "10/02/2021",
+   "World": 440081,
+   "Africa": 13127,
+   "Asia": 70879,
+   "Europe": 158708,
+   "North America": 115532,
+   "Oceania": 31,
+   "South America": 81804
+ },
+ {
+   "date": "11/02/2021",
+   "World": 444782,
+   "Africa": 11918,
+   "Asia": 65022,
+   "Europe": 157945,
+   "North America": 126832,
+   "Oceania": 37,
+   "South America": 83028
+ },
+ {
+   "date": "12/02/2021",
+   "World": 430663,
+   "Africa": 13901,
+   "Asia": 66952,
+   "Europe": 151096,
+   "North America": 119672,
+   "Oceania": 15,
+   "South America": 79027
+ },
+ {
+   "date": "13/02/2021",
+   "World": 380858,
+   "Africa": 10931,
+   "Asia": 63054,
+   "Europe": 125626,
+   "North America": 108065,
+   "Oceania": 8,
+   "South America": 73174
+ },
+ {
+   "date": "14/02/2021",
+   "World": 308910,
+   "Africa": 10415,
+   "Asia": 58728,
+   "Europe": 99591,
+   "North America": 77965,
+   "Oceania": 8,
+   "South America": 62203
+ },
+ {
+   "date": "15/02/2021",
+   "World": 280163,
+   "Africa": 9840,
+   "Asia": 59366,
+   "Europe": 103981,
+   "North America": 65065,
+   "Oceania": 37,
+   "South America": 41874
+ },
+ {
+   "date": "16/02/2021",
+   "World": 359161,
+   "Africa": 9994,
+   "Asia": 68763,
+   "Europe": 124920,
+   "North America": 76784,
+   "Oceania": 56,
+   "South America": 78644
+ },
+ {
+   "date": "17/02/2021",
+   "World": 386275,
+   "Africa": 12166,
+   "Asia": 69461,
+   "Europe": 149307,
+   "North America": 85509,
+   "Oceania": 27,
+   "South America": 69805
+ },
+ {
+   "date": "18/02/2021",
+   "World": 410989,
+   "Africa": 14048,
+   "Asia": 66741,
+   "Europe": 157447,
+   "North America": 90440,
+   "Oceania": 27,
+   "South America": 82286
+ },
+ {
+   "date": "19/02/2021",
+   "World": 410028,
+   "Africa": 11044,
+   "Asia": 67263,
+   "Europe": 157892,
+   "North America": 91208,
+   "Oceania": 15,
+   "South America": 82606
+ },
+ {
+   "date": "20/02/2021",
+   "World": 375482,
+   "Africa": 9539,
+   "Asia": 62696,
+   "Europe": 134210,
+   "North America": 88777,
+   "Oceania": 21,
+   "South America": 80239
+ },
+ {
+   "date": "21/02/2021",
+   "World": 319508,
+   "Africa": 9511,
+   "Asia": 67390,
+   "Europe": 118467,
+   "North America": 65056,
+   "Oceania": 11,
+   "South America": 59073
+ },
+ {
+   "date": "22/02/2021",
+   "World": 295038,
+   "Africa": 9019,
+   "Asia": 67372,
+   "Europe": 105634,
+   "North America": 65594,
+   "Oceania": 107,
+   "South America": 47312
+ },
+ {
+   "date": "23/02/2021",
+   "World": 392805,
+   "Africa": 7752,
+   "Asia": 73593,
+   "Europe": 136396,
+   "North America": 89965,
+   "Oceania": 67,
+   "South America": 85032
+ },
+ {
+   "date": "24/02/2021",
+   "World": 444924,
+   "Africa": 10486,
+   "Asia": 76531,
+   "Europe": 172627,
+   "North America": 91586,
+   "Oceania": 48,
+   "South America": 93646
+ },
+ {
+   "date": "25/02/2021",
+   "World": 453170,
+   "Africa": 12366,
+   "Asia": 75999,
+   "Europe": 173544,
+   "North America": 93116,
+   "Oceania": 113,
+   "South America": 98032
+ },
+ {
+   "date": "26/02/2021",
+   "World": 442419,
+   "Africa": 11079,
+   "Asia": 74901,
+   "Europe": 168568,
+   "North America": 90433,
+   "Oceania": 20,
+   "South America": 97418
+ },
+ {
+   "date": "27/02/2021",
+   "World": 397285,
+   "Africa": 7832,
+   "Asia": 69956,
+   "Europe": 150254,
+   "North America": 85323,
+   "Oceania": 56,
+   "South America": 83864
+ },
+ {
+   "date": "28/02/2021",
+   "World": 309201,
+   "Africa": 9414,
+   "Asia": 67983,
+   "Europe": 124358,
+   "North America": 59879,
+   "Oceania": 10,
+   "South America": 47557
+ },
+ {
+   "date": "01/03/2021",
+   "World": 305848,
+   "Africa": 8789,
+   "Asia": 69107,
+   "Europe": 104899,
+   "North America": 60243,
+   "Oceania": 129,
+   "South America": 62681
+ },
+ {
+   "date": "02/03/2021",
+   "World": 387404,
+   "Africa": 7551,
+   "Asia": 76536,
+   "Europe": 144040,
+   "North America": 74091,
+   "Oceania": 27,
+   "South America": 85159
+ },
+ {
+   "date": "03/03/2021",
+   "World": 441834,
+   "Africa": 10864,
+   "Asia": 80715,
+   "Europe": 174860,
+   "North America": 82201,
+   "Oceania": 43,
+   "South America": 93151
+ },
+ {
+   "date": "04/03/2021",
+   "World": 458921,
+   "Africa": 12578,
+   "Asia": 81080,
+   "Europe": 178960,
+   "North America": 83848,
+   "Oceania": 21,
+   "South America": 102434
+ },
+ {
+   "date": "05/03/2021",
+   "World": 449755,
+   "Africa": 8537,
+   "Asia": 81141,
+   "Europe": 179024,
+   "North America": 81743,
+   "Oceania": 144,
+   "South America": 99166
+ },
+ {
+   "date": "06/03/2021",
+   "World": 414304,
+   "Africa": 9955,
+   "Asia": 77423,
+   "Europe": 158488,
+   "North America": 74183,
+   "Oceania": 6,
+   "South America": 94249
+ },
+ {
+   "date": "07/03/2021",
+   "World": 374474,
+   "Africa": 8473,
+   "Asia": 77361,
+   "Europe": 133794,
+   "North America": 50460,
+   "Oceania": 119,
+   "South America": 104267
+ },
+ {
+   "date": "08/03/2021",
+   "World": 304787,
+   "Africa": 9287,
+   "Asia": 79423,
+   "Europe": 104335,
+   "North America": 53069,
+   "Oceania": 161,
+   "South America": 58512
+ },
+ {
+   "date": "09/03/2021",
+   "World": 413780,
+   "Africa": 7805,
+   "Asia": 83092,
+   "Europe": 152353,
+   "North America": 70984,
+   "Oceania": 138,
+   "South America": 99408
+ },
+ {
+   "date": "10/03/2021",
+   "World": 458908,
+   "Africa": 10421,
+   "Asia": 89908,
+   "Europe": 183990,
+   "North America": 72261,
+   "Oceania": 56,
+   "South America": 102272
+ },
+ {
+   "date": "11/03/2021",
+   "World": 489772,
+   "Africa": 15221,
+   "Asia": 91771,
+   "Europe": 197362,
+   "North America": 76448,
+   "Oceania": 150,
+   "South America": 108820
+ },
+ {
+   "date": "12/03/2021",
+   "World": 489524,
+   "Africa": 9869,
+   "Asia": 93760,
+   "Europe": 193694,
+   "North America": 78598,
+   "Oceania": 52,
+   "South America": 113551
+ },
+ {
+   "date": "13/03/2021",
+   "World": 456199,
+   "Africa": 10330,
+   "Asia": 88662,
+   "Europe": 187664,
+   "North America": 69191,
+   "Oceania": 10,
+   "South America": 100342
+ },
+ {
+   "date": "14/03/2021",
+   "World": 365719,
+   "Africa": 8558,
+   "Asia": 90727,
+   "Europe": 151990,
+   "North America": 47275,
+   "Oceania": 397,
+   "South America": 66772
+ },
+ {
+   "date": "15/03/2021",
+   "World": 353583,
+   "Africa": 8518,
+   "Asia": 93783,
+   "Europe": 124152,
+   "North America": 59555,
+   "Oceania": 135,
+   "South America": 67440
+ },
+ {
+   "date": "16/03/2021",
+   "World": 466104,
+   "Africa": 9043,
+   "Asia": 102250,
+   "Europe": 176704,
+   "North America": 64542,
+   "Oceania": 126,
+   "South America": 113439
+ },
+ {
+   "date": "17/03/2021",
+   "World": 545066,
+   "Africa": 10987,
+   "Asia": 115454,
+   "Europe": 214560,
+   "North America": 74076,
+   "Oceania": 64,
+   "South America": 129925
+ },
+ {
+   "date": "18/03/2021",
+   "World": 548126,
+   "Africa": 11302,
+   "Asia": 120266,
+   "Europe": 222603,
+   "North America": 77349,
+   "Oceania": 199,
+   "South America": 116407
+ },
+ {
+   "date": "19/03/2021",
+   "World": 563220,
+   "Africa": 12621,
+   "Asia": 121670,
+   "Europe": 219198,
+   "North America": 77671,
+   "Oceania": 218,
+   "South America": 131842
+ },
+ {
+   "date": "20/03/2021",
+   "World": 499092,
+   "Africa": 9247,
+   "Asia": 119757,
+   "Europe": 196791,
+   "North America": 72348,
+   "Oceania": 456,
+   "South America": 100493
+ },
+ {
+   "date": "21/03/2021",
+   "World": 440376,
+   "Africa": 9135,
+   "Asia": 125149,
+   "Europe": 176988,
+   "North America": 44047,
+   "Oceania": 30,
+   "South America": 85027
+ },
+ {
+   "date": "22/03/2021",
+   "World": 422398,
+   "Africa": 9709,
+   "Asia": 120678,
+   "Europe": 154591,
+   "North America": 57250,
+   "Oceania": 296,
+   "South America": 79874
+ },
+ {
+   "date": "23/03/2021",
+   "World": 506106,
+   "Africa": 8597,
+   "Asia": 134199,
+   "Europe": 168942,
+   "North America": 68494,
+   "Oceania": 435,
+   "South America": 125439
+ },
+ {
+   "date": "24/03/2021",
+   "World": 631521,
+   "Africa": 10822,
+   "Asia": 146519,
+   "Europe": 251232,
+   "North America": 102946,
+   "Oceania": 384,
+   "South America": 119618
+ },
+ {
+   "date": "25/03/2021",
+   "World": 652425,
+   "Africa": 12574,
+   "Asia": 154956,
+   "Europe": 255315,
+   "North America": 82969,
+   "Oceania": 32,
+   "South America": 146579
+ },
+ {
+   "date": "26/03/2021",
+   "World": 640236,
+   "Africa": 18432,
+   "Asia": 156540,
+   "Europe": 241692,
+   "North America": 93505,
+   "Oceania": 579,
+   "South America": 129488
+ },
+ {
+   "date": "27/03/2021",
+   "World": 584781,
+   "Africa": 9599,
+   "Asia": 152979,
+   "Europe": 220874,
+   "North America": 77342,
+   "Oceania": 14,
+   "South America": 123973
+ },
+ {
+   "date": "28/03/2021",
+   "World": 492601,
+   "Africa": 8909,
+   "Asia": 162439,
+   "Europe": 180311,
+   "North America": 55452,
+   "Oceania": 561,
+   "South America": 84929
+ },
+ {
+   "date": "29/03/2021",
+   "World": 458538,
+   "Africa": 9745,
+   "Asia": 152987,
+   "Europe": 138360,
+   "North America": 76471,
+   "Oceania": 199,
+   "South America": 80776
+ },
+ {
+   "date": "30/03/2021",
+   "World": 561772,
+   "Africa": 9784,
+   "Asia": 161275,
+   "Europe": 194115,
+   "North America": 77104,
+   "Oceania": 302,
+   "South America": 119192
+ },
+ {
+   "date": "31/03/2021",
+   "World": 673997,
+   "Africa": 12699,
+   "Asia": 183318,
+   "Europe": 247846,
+   "North America": 85665,
+   "Oceania": 406,
+   "South America": 144063
+ },
+ {
+   "date": "01/04/2021",
+   "World": 709807,
+   "Africa": 22279,
+   "Asia": 198573,
+   "Europe": 252904,
+   "North America": 93287,
+   "Oceania": 149,
+   "South America": 142615
+ },
+ {
+   "date": "02/04/2021",
+   "World": 644974,
+   "Africa": 13071,
+   "Asia": 210212,
+   "Europe": 223674,
+   "North America": 85124,
+   "Oceania": 377,
+   "South America": 112516
+ },
+ {
+   "date": "03/04/2021",
+   "World": 540725,
+   "Africa": 8803,
+   "Asia": 209025,
+   "Europe": 166925,
+   "North America": 76099,
+   "Oceania": 152,
+   "South America": 79721
+ },
+ {
+   "date": "04/04/2021",
+   "World": 559908,
+   "Africa": 9551,
+   "Asia": 223965,
+   "Europe": 201745,
+   "North America": 46723,
+   "Oceania": 440,
+   "South America": 77484
+ },
+ {
+   "date": "05/04/2021",
+   "World": 495758,
+   "Africa": 9223,
+   "Asia": 209385,
+   "Europe": 111110,
+   "North America": 78774,
+   "Oceania": 393,
+   "South America": 86873
+ },
+ {
+   "date": "06/04/2021",
+   "World": 606988,
+   "Africa": 9612,
+   "Asia": 246446,
+   "Europe": 131888,
+   "North America": 86845,
+   "Oceania": 32,
+   "South America": 132165
+ },
+ {
+   "date": "07/04/2021",
+   "World": 663184,
+   "Africa": 11659,
+   "Asia": 268500,
+   "Europe": 143346,
+   "North America": 93174,
+   "Oceania": 263,
+   "South America": 146242
+ },
+ {
+   "date": "08/04/2021",
+   "World": 836302,
+   "Africa": 16813,
+   "Asia": 279767,
+   "Europe": 276722,
+   "North America": 99780,
+   "Oceania": 221,
+   "South America": 162999
+ },
+ {
+   "date": "09/04/2021",
+   "World": 752511,
+   "Africa": 12561,
+   "Asia": 293212,
+   "Europe": 182497,
+   "North America": 106501,
+   "Oceania": 28,
+   "South America": 157712
+ },
+ {
+   "date": "10/04/2021",
+   "World": 670755,
+   "Africa": 9714,
+   "Asia": 289575,
+   "Europe": 151558,
+   "North America": 89982,
+   "Oceania": 516,
+   "South America": 129410
+ },
+ {
+   "date": "11/04/2021",
+   "World": 709731,
+   "Africa": 9742,
+   "Asia": 305973,
+   "Europe": 237113,
+   "North America": 60450,
+   "Oceania": 125,
+   "South America": 96328
+ },
+ {
+   "date": "12/04/2021",
+   "World": 612754,
+   "Africa": 10212,
+   "Asia": 302262,
+   "Europe": 128504,
+   "North America": 76713,
+   "Oceania": 188,
+   "South America": 94875
+ },
+ {
+   "date": "13/04/2021",
+   "World": 764075,
+   "Africa": 9773,
+   "Asia": 332476,
+   "Europe": 173806,
+   "North America": 101776,
+   "Oceania": 259,
+   "South America": 145985
+ },
+ {
+   "date": "14/04/2021",
+   "World": 811901,
+   "Africa": 13922,
+   "Asia": 356166,
+   "Europe": 206039,
+   "North America": 95739,
+   "Oceania": 186,
+   "South America": 139849
+ },
+ {
+   "date": "15/04/2021",
+   "World": 820966,
+   "Africa": 12644,
+   "Asia": 372419,
+   "Europe": 206363,
+   "North America": 94833,
+   "Oceania": 219,
+   "South America": 134488
+ },
+ {
+   "date": "16/04/2021",
+   "World": 860503,
+   "Africa": 12054,
+   "Asia": 388746,
+   "Europe": 196787,
+   "North America": 102712,
+   "Oceania": 179,
+   "South America": 160025
+ },
+ {
+   "date": "17/04/2021",
+   "World": 794142,
+   "Africa": 13359,
+   "Asia": 408503,
+   "Europe": 163007,
+   "North America": 72251,
+   "Oceania": 39,
+   "South America": 136983
+ },
+ {
+   "date": "18/04/2021",
+   "World": 700127,
+   "Africa": 9351,
+   "Asia": 415208,
+   "Europe": 130137,
+   "North America": 56010,
+   "Oceania": 411,
+   "South America": 89010
+ },
+ {
+   "date": "19/04/2021",
+   "World": 689654,
+   "Africa": 8749,
+   "Asia": 399993,
+   "Europe": 110340,
+   "North America": 75044,
+   "Oceania": 250,
+   "South America": 95278
+ },
+ {
+   "date": "20/04/2021",
+   "World": 839697,
+   "Africa": 10122,
+   "Asia": 448106,
+   "Europe": 157792,
+   "North America": 80616,
+   "Oceania": 39,
+   "South America": 143022
+ },
+ {
+   "date": "21/04/2021",
+   "World": 888777,
+   "Africa": 11867,
+   "Asia": 472672,
+   "Europe": 188706,
+   "North America": 82880,
+   "Oceania": 24,
+   "South America": 132628
+ },
+ {
+   "date": "22/04/2021",
+   "World": 900008,
+   "Africa": 12470,
+   "Asia": 482726,
+   "Europe": 187794,
+   "North America": 88170,
+   "Oceania": 442,
+   "South America": 128406
+ },
+ {
+   "date": "23/04/2021",
+   "World": 907829,
+   "Africa": 12065,
+   "Asia": 486087,
+   "Europe": 176661,
+   "North America": 81869,
+   "Oceania": 15,
+   "South America": 151132
+ },
+ {
+   "date": "24/04/2021",
+   "World": 824951,
+   "Africa": 10152,
+   "Asia": 473423,
+   "Europe": 143570,
+   "North America": 71336,
+   "Oceania": 285,
+   "South America": 126185
+ },
+ {
+   "date": "25/04/2021",
+   "World": 728676,
+   "Africa": 9459,
+   "Asia": 473472,
+   "Europe": 111600,
+   "North America": 47509,
+   "Oceania": 89,
+   "South America": 86547
+ },
+ {
+   "date": "26/04/2021",
+   "World": 688099,
+   "Africa": 6861,
+   "Asia": 441896,
+   "Europe": 97005,
+   "North America": 57037,
+   "Oceania": 227,
+   "South America": 85073
+ },
+ {
+   "date": "27/04/2021",
+   "World": 839461,
+   "Africa": 9799,
+   "Asia": 490012,
+   "Europe": 138739,
+   "North America": 69177,
+   "Oceania": 46,
+   "South America": 131688
+ },
+ {
+   "date": "28/04/2021",
+   "World": 898201,
+   "Africa": 9498,
+   "Asia": 508676,
+   "Europe": 154362,
+   "North America": 74530,
+   "Oceania": 112,
+   "South America": 151023
+ },
+ {
+   "date": "29/04/2021",
+   "World": 895070,
+   "Africa": 15598,
+   "Asia": 511878,
+   "Europe": 156338,
+   "North America": 82373,
+   "Oceania": 121,
+   "South America": 128762
+ },
+ {
+   "date": "30/04/2021",
+   "World": 891802,
+   "Africa": 9440,
+   "Asia": 518443,
+   "Europe": 141100,
+   "North America": 77692,
+   "Oceania": 18,
+   "South America": 145109
+ },
+ {
+   "date": "01/05/2021",
+   "World": 795461,
+   "Africa": 7975,
+   "Asia": 498588,
+   "Europe": 115933,
+   "North America": 63181,
+   "Oceania": 142,
+   "South America": 109642
+ },
+ {
+   "date": "02/05/2021",
+   "World": 687219,
+   "Africa": 6224,
+   "Asia": 476473,
+   "Europe": 81537,
+   "North America": 40380,
+   "Oceania": 105,
+   "South America": 82500
+ },
+ {
+   "date": "03/05/2021",
+   "World": 689621,
+   "Africa": 6908,
+   "Asia": 459438,
+   "Europe": 77466,
+   "North America": 63493,
+   "Oceania": 78,
+   "South America": 82238
+ },
+ {
+   "date": "04/05/2021",
+   "World": 785369,
+   "Africa": 7271,
+   "Asia": 486835,
+   "Europe": 104837,
+   "North America": 58969,
+   "Oceania": 38,
+   "South America": 127419
+ },
+ {
+   "date": "05/05/2021",
+   "World": 842172,
+   "Africa": 9627,
+   "Asia": 519141,
+   "Europe": 120198,
+   "North America": 64394,
+   "Oceania": 31,
+   "South America": 128781
+ },
+ {
+   "date": "06/05/2021",
+   "World": 873056,
+   "Africa": 13277,
+   "Asia": 524384,
+   "Europe": 132153,
+   "North America": 64165,
+   "Oceania": 372,
+   "South America": 138705
+ },
+ {
+   "date": "07/05/2021",
+   "World": 835051,
+   "Africa": 9370,
+   "Asia": 505039,
+   "Europe": 122162,
+   "North America": 66693,
+   "Oceania": 28,
+   "South America": 131759
+ },
+ {
+   "date": "08/05/2021",
+   "World": 789093,
+   "Africa": 6392,
+   "Asia": 498754,
+   "Europe": 98846,
+   "North America": 49876,
+   "Oceania": 31,
+   "South America": 135194
+ },
+ {
+   "date": "09/05/2021",
+   "World": 649436,
+   "Africa": 9725,
+   "Asia": 456188,
+   "Europe": 72245,
+   "North America": 32700,
+   "Oceania": 14,
+   "South America": 78564
+ },
+ {
+   "date": "10/05/2021",
+   "World": 625162,
+   "Africa": 6989,
+   "Asia": 419374,
+   "Europe": 68927,
+   "North America": 49455,
+   "Oceania": 471,
+   "South America": 79946
+ },
+ {
+   "date": "11/05/2021",
+   "World": 726064,
+   "Africa": 7272,
+   "Asia": 443263,
+   "Europe": 95784,
+   "North America": 51369,
+   "Oceania": 427,
+   "South America": 127949
+ },
+ {
+   "date": "12/05/2021",
+   "World": 767663,
+   "Africa": 9031,
+   "Asia": 452256,
+   "Europe": 106191,
+   "North America": 55205,
+   "Oceania": 523,
+   "South America": 144457
+ },
+ {
+   "date": "13/05/2021",
+   "World": 735529,
+   "Africa": 8638,
+   "Asia": 430889,
+   "Europe": 96826,
+   "North America": 56021,
+   "Oceania": 252,
+   "South America": 142903
+ },
+ {
+   "date": "14/05/2021",
+   "World": 710035,
+   "Africa": 8168,
+   "Asia": 399288,
+   "Europe": 89449,
+   "North America": 59957,
+   "Oceania": 491,
+   "South America": 152682
+ },
+ {
+   "date": "15/05/2021",
+   "World": 632025,
+   "Africa": 6991,
+   "Asia": 382899,
+   "Europe": 72196,
+   "North America": 45189,
+   "Oceania": 12,
+   "South America": 124738
+ },
+ {
+   "date": "16/05/2021",
+   "World": 546538,
+   "Africa": 7153,
+   "Asia": 355918,
+   "Europe": 60617,
+   "North America": 27345,
+   "Oceania": 14,
+   "South America": 95491
+ },
+ {
+   "date": "17/05/2021",
+   "World": 543270,
+   "Africa": 7329,
+   "Asia": 347055,
+   "Europe": 56648,
+   "North America": 40654,
+   "Oceania": 10,
+   "South America": 91574
+ },
+ {
+   "date": "18/05/2021",
+   "World": 622071,
+   "Africa": 10676,
+   "Asia": 352248,
+   "Europe": 75443,
+   "North America": 43786,
+   "Oceania": 531,
+   "South America": 139387
+ },
+ {
+   "date": "19/05/2021",
+   "World": 672535,
+   "Africa": 10184,
+   "Asia": 364244,
+   "Europe": 89242,
+   "North America": 45179,
+   "Oceania": 444,
+   "South America": 163242
+ },
+ {
+   "date": "20/05/2021",
+   "World": 631246,
+   "Africa": 11508,
+   "Asia": 346569,
+   "Europe": 69066,
+   "North America": 46699,
+   "Oceania": 296,
+   "South America": 157108
+ },
+ {
+   "date": "21/05/2021",
+   "World": 626411,
+   "Africa": 10166,
+   "Asia": 344412,
+   "Europe": 72580,
+   "North America": 44617,
+   "Oceania": 14,
+   "South America": 154622
+ },
+ {
+   "date": "22/05/2021",
+   "World": 572723,
+   "Africa": 9988,
+   "Asia": 320826,
+   "Europe": 60447,
+   "North America": 32240,
+   "Oceania": 39,
+   "South America": 149183
+ },
+ {
+   "date": "23/05/2021",
+   "World": 481589,
+   "Africa": 8139,
+   "Asia": 295838,
+   "Europe": 47752,
+   "North America": 22145,
+   "Oceania": 18,
+   "South America": 107697
+ },
+ {
+   "date": "24/05/2021",
+   "World": 450843,
+   "Africa": 8498,
+   "Asia": 276645,
+   "Europe": 41667,
+   "North America": 33763,
+   "Oceania": 297,
+   "South America": 89973
+ },
+ {
+   "date": "25/05/2021",
+   "World": 534282,
+   "Africa": 5823,
+   "Asia": 292337,
+   "Europe": 50650,
+   "North America": 38976,
+   "Oceania": 73,
+   "South America": 146423
+ },
+ {
+   "date": "26/05/2021",
+   "World": 568550,
+   "Africa": 14206,
+   "Asia": 291554,
+   "Europe": 60206,
+   "North America": 39087,
+   "Oceania": 202,
+   "South America": 163295
+ },
+ {
+   "date": "27/05/2021",
+   "World": 547076,
+   "Africa": 11693,
+   "Asia": 270752,
+   "Europe": 66681,
+   "North America": 41247,
+   "Oceania": 86,
+   "South America": 156617
+ },
+ {
+   "date": "28/05/2021",
+   "World": 505683,
+   "Africa": 12448,
+   "Asia": 257599,
+   "Europe": 62776,
+   "North America": 37154,
+   "Oceania": 418,
+   "South America": 135288
+ },
+ {
+   "date": "29/05/2021",
+   "World": 480599,
+   "Africa": 11867,
+   "Asia": 241087,
+   "Europe": 50552,
+   "North America": 23435,
+   "Oceania": 16,
+   "South America": 153642
+ },
+ {
+   "date": "30/05/2021",
+   "World": 390143,
+   "Africa": 5964,
+   "Asia": 227727,
+   "Europe": 40851,
+   "North America": 14606,
+   "Oceania": 127,
+   "South America": 100868
+ },
+ {
+   "date": "31/05/2021",
+   "World": 386981,
+   "Africa": 13186,
+   "Asia": 203511,
+   "Europe": 37918,
+   "North America": 19223,
+   "Oceania": 122,
+   "South America": 113021
+ },
+ {
+   "date": "01/06/2021",
+   "World": 460000,
+   "Africa": 10120,
+   "Asia": 206374,
+   "Europe": 47249,
+   "North America": 37776,
+   "Oceania": 43,
+   "South America": 158438
+ },
+ {
+   "date": "02/06/2021",
+   "World": 487604,
+   "Africa": 13822,
+   "Asia": 211976,
+   "Europe": 44365,
+   "North America": 30674,
+   "Oceania": 63,
+   "South America": 186704
+ },
+ {
+   "date": "03/06/2021",
+   "World": 480994,
+   "Africa": 14831,
+   "Asia": 210728,
+   "Europe": 66196,
+   "North America": 32661,
+   "Oceania": 313,
+   "South America": 156265
+ },
+ {
+   "date": "04/06/2021",
+   "World": 425209,
+   "Africa": 14937,
+   "Asia": 194864,
+   "Europe": 48295,
+   "North America": 30820,
+   "Oceania": 56,
+   "South America": 136237
+ },
+ {
+   "date": "05/06/2021",
+   "World": 397019,
+   "Africa": 12708,
+   "Asia": 181831,
+   "Europe": 38088,
+   "North America": 24939,
+   "Oceania": 122,
+   "South America": 139331
+ },
+ {
+   "date": "06/06/2021",
+   "World": 323145,
+   "Africa": 12729,
+   "Asia": 165034,
+   "Europe": 33174,
+   "North America": 13491,
+   "Oceania": 170,
+   "South America": 98547
+ },
+ {
+   "date": "07/06/2021",
+   "World": 321732,
+   "Africa": 11406,
+   "Asia": 148164,
+   "Europe": 36414,
+   "North America": 24388,
+   "Oceania": 145,
+   "South America": 101215
+ },
+ {
+   "date": "08/06/2021",
+   "World": 370866,
+   "Africa": 12994,
+   "Asia": 160590,
+   "Europe": 42682,
+   "North America": 26662,
+   "Oceania": 130,
+   "South America": 127808
+ },
+ {
+   "date": "09/06/2021",
+   "World": 418480,
+   "Africa": 18517,
+   "Asia": 166855,
+   "Europe": 46091,
+   "North America": 32704,
+   "Oceania": 245,
+   "South America": 154068
+ },
+ {
+   "date": "10/06/2021",
+   "World": 453569,
+   "Africa": 21743,
+   "Asia": 165480,
+   "Europe": 55189,
+   "North America": 28430,
+   "Oceania": 96,
+   "South America": 182631
+ },
+ {
+   "date": "11/06/2021",
+   "World": 422629,
+   "Africa": 19898,
+   "Asia": 158488,
+   "Europe": 43291,
+   "North America": 38743,
+   "Oceania": 65,
+   "South America": 162144
+ },
+ {
+   "date": "12/06/2021",
+   "World": 368625,
+   "Africa": 20859,
+   "Asia": 146869,
+   "Europe": 37221,
+   "North America": 21028,
+   "Oceania": 104,
+   "South America": 142544
+ },
+ {
+   "date": "13/06/2021",
+   "World": 302962,
+   "Africa": 16913,
+   "Asia": 139589,
+   "Europe": 34264,
+   "North America": 12476,
+   "Oceania": 140,
+   "South America": 99580
+ },
+ {
+   "date": "14/06/2021",
+   "World": 309554,
+   "Africa": 15622,
+   "Asia": 131058,
+   "Europe": 38008,
+   "North America": 22016,
+   "Oceania": 108,
+   "South America": 102742
+ },
+ {
+   "date": "15/06/2021",
+   "World": 374906,
+   "Africa": 19851,
+   "Asia": 133305,
+   "Europe": 39261,
+   "North America": 25256,
+   "Oceania": 139,
+   "South America": 157094
+ },
+ {
+   "date": "16/06/2021",
+   "World": 388971,
+   "Africa": 26299,
+   "Asia": 139850,
+   "Europe": 40735,
+   "North America": 25374,
+   "Oceania": 252,
+   "South America": 156461
+ },
+ {
+   "date": "17/06/2021",
+   "World": 396302,
+   "Africa": 27278,
+   "Asia": 142901,
+   "Europe": 41922,
+   "North America": 24758,
+   "Oceania": 112,
+   "South America": 159331
+ },
+ {
+   "date": "18/06/2021",
+   "World": 403473,
+   "Africa": 24105,
+   "Asia": 137084,
+   "Europe": 43985,
+   "North America": 34819,
+   "Oceania": 134,
+   "South America": 163346
+ },
+ {
+   "date": "19/06/2021",
+   "World": 348460,
+   "Africa": 23740,
+   "Asia": 127923,
+   "Europe": 39687,
+   "North America": 18020,
+   "Oceania": 297,
+   "South America": 138793
+ },
+ {
+   "date": "20/06/2021",
+   "World": 303490,
+   "Africa": 23008,
+   "Asia": 130772,
+   "Europe": 35111,
+   "North America": 16012,
+   "Oceania": 193,
+   "South America": 98394
+ },
+ {
+   "date": "21/06/2021",
+   "World": 296620,
+   "Africa": 23799,
+   "Asia": 119098,
+   "Europe": 41246,
+   "North America": 20473,
+   "Oceania": 226,
+   "South America": 91778
+ },
+ {
+   "date": "22/06/2021",
+   "World": 410352,
+   "Africa": 22756,
+   "Asia": 133434,
+   "Europe": 44419,
+   "North America": 23960,
+   "Oceania": 206,
+   "South America": 185577
+ },
+ {
+   "date": "23/06/2021",
+   "World": 397039,
+   "Africa": 32879,
+   "Asia": 136889,
+   "Europe": 50524,
+   "North America": 27801,
+   "Oceania": 379,
+   "South America": 148567
+ },
+ {
+   "date": "24/06/2021",
+   "World": 409406,
+   "Africa": 34062,
+   "Asia": 142943,
+   "Europe": 52822,
+   "North America": 29697,
+   "Oceania": 322,
+   "South America": 149560
+ },
+ {
+   "date": "25/06/2021",
+   "World": 418000,
+   "Africa": 35083,
+   "Asia": 135773,
+   "Europe": 51210,
+   "North America": 41462,
+   "Oceania": 254,
+   "South America": 154218
+ },
+ {
+   "date": "26/06/2021",
+   "World": 363124,
+   "Africa": 34609,
+   "Asia": 130844,
+   "Europe": 49208,
+   "North America": 22922,
+   "Oceania": 327,
+   "South America": 125214
+ },
+ {
+   "date": "27/06/2021",
+   "World": 311093,
+   "Africa": 27510,
+   "Asia": 136871,
+   "Europe": 43109,
+   "North America": 13618,
+   "Oceania": 300,
+   "South America": 89685
+ },
+ {
+   "date": "28/06/2021",
+   "World": 333078,
+   "Africa": 24928,
+   "Asia": 130782,
+   "Europe": 61235,
+   "North America": 25182,
+   "Oceania": 285,
+   "South America": 90666
+ },
+ {
+   "date": "29/06/2021",
+   "World": 381471,
+   "Africa": 28374,
+   "Asia": 141401,
+   "Europe": 60722,
+   "North America": 23946,
+   "Oceania": 355,
+   "South America": 126673
+ },
+ {
+   "date": "30/06/2021",
+   "World": 399476,
+   "Africa": 38802,
+   "Asia": 149193,
+   "Europe": 68132,
+   "North America": 30980,
+   "Oceania": 319,
+   "South America": 112050
+ },
+ {
+   "date": "01/07/2021",
+   "World": 435734,
+   "Africa": 42918,
+   "Asia": 155052,
+   "Europe": 78970,
+   "North America": 32291,
+   "Oceania": 472,
+   "South America": 126031
+ },
+ {
+   "date": "02/07/2021",
+   "World": 442390,
+   "Africa": 43159,
+   "Asia": 150260,
+   "Europe": 76999,
+   "North America": 48242,
+   "Oceania": 458,
+   "South America": 123272
+ },
+ {
+   "date": "03/07/2021",
+   "World": 374575,
+   "Africa": 43476,
+   "Asia": 140567,
+   "Europe": 63089,
+   "North America": 22906,
+   "Oceania": 414,
+   "South America": 104123
+ },
+ {
+   "date": "04/07/2021",
+   "World": 328254,
+   "Africa": 31743,
+   "Asia": 145243,
+   "Europe": 60936,
+   "North America": 14043,
+   "Oceania": 580,
+   "South America": 75709
+ },
+ {
+   "date": "05/07/2021",
+   "World": 376669,
+   "Africa": 28288,
+   "Asia": 150688,
+   "Europe": 96125,
+   "North America": 21472,
+   "Oceania": 385,
+   "South America": 79711
+ },
+ {
+   "date": "06/07/2021",
+   "World": 450615,
+   "Africa": 36870,
+   "Asia": 164341,
+   "Europe": 85273,
+   "North America": 42420,
+   "Oceania": 674,
+   "South America": 121037
+ },
+ {
+   "date": "07/07/2021",
+   "World": 465038,
+   "Africa": 44424,
+   "Asia": 172866,
+   "Europe": 98256,
+   "North America": 40103,
+   "Oceania": 1030,
+   "South America": 108359
+ },
+ {
+   "date": "08/07/2021",
+   "World": 481812,
+   "Africa": 47314,
+   "Asia": 180785,
+   "Europe": 100910,
+   "North America": 43817,
+   "Oceania": 774,
+   "South America": 108212
+ },
+ {
+   "date": "09/07/2021",
+   "World": 513875,
+   "Africa": 46609,
+   "Asia": 179417,
+   "Europe": 113337,
+   "North America": 71943,
+   "Oceania": 924,
+   "South America": 101645
+ },
+ {
+   "date": "10/07/2021",
+   "World": 422084,
+   "Africa": 45466,
+   "Asia": 169000,
+   "Europe": 84511,
+   "North America": 32748,
+   "Oceania": 593,
+   "South America": 89766
+ },
+ {
+   "date": "11/07/2021",
+   "World": 370578,
+   "Africa": 35453,
+   "Asia": 173100,
+   "Europe": 79901,
+   "North America": 27241,
+   "Oceania": 655,
+   "South America": 54228
+ },
+ {
+   "date": "12/07/2021",
+   "World": 432212,
+   "Africa": 34505,
+   "Asia": 176970,
+   "Europe": 116419,
+   "North America": 42618,
+   "Oceania": 1001,
+   "South America": 60699
+ },
+ {
+   "date": "13/07/2021",
+   "World": 525933,
+   "Africa": 38475,
+   "Asia": 196591,
+   "Europe": 139397,
+   "North America": 54645,
+   "Oceania": 765,
+   "South America": 96060
+ },
+ {
+   "date": "14/07/2021",
+   "World": 537863,
+   "Africa": 44209,
+   "Asia": 209046,
+   "Europe": 125613,
+   "North America": 58484,
+   "Oceania": 88,
+   "South America": 100423
+ },
+ {
+   "date": "15/07/2021",
+   "World": 576398,
+   "Africa": 48610,
+   "Asia": 221004,
+   "Europe": 143978,
+   "North America": 59749,
+   "Oceania": 1992,
+   "South America": 101065
+ },
+ {
+   "date": "16/07/2021",
+   "World": 595979,
+   "Africa": 41398,
+   "Asia": 210409,
+   "Europe": 150569,
+   "North America": 105904,
+   "Oceania": 1577,
+   "South America": 86122
+ },
+ {
+   "date": "17/07/2021",
+   "World": 490459,
+   "Africa": 39048,
+   "Asia": 201503,
+   "Europe": 119481,
+   "North America": 37603,
+   "Oceania": 1319,
+   "South America": 91505
+ },
+ {
+   "date": "18/07/2021",
+   "World": 421422,
+   "Africa": 36013,
+   "Asia": 192777,
+   "Europe": 109812,
+   "North America": 33495,
+   "Oceania": 1163,
+   "South America": 48162
+ },
+ {
+   "date": "19/07/2021",
+   "World": 486324,
+   "Africa": 30235,
+   "Asia": 180853,
+   "Europe": 154677,
+   "North America": 68712,
+   "Oceania": 1062,
+   "South America": 50785
+ },
+ {
+   "date": "20/07/2021",
+   "World": 532509,
+   "Africa": 33568,
+   "Asia": 220405,
+   "Europe": 144843,
+   "North America": 67936,
+   "Oceania": 1290,
+   "South America": 64467
+ },
+ {
+   "date": "21/07/2021",
+   "World": 555684,
+   "Africa": 33399,
+   "Asia": 201695,
+   "Europe": 149078,
+   "North America": 79694,
+   "Oceania": 1301,
+   "South America": 90517
+ },
+ {
+   "date": "22/07/2021",
+   "World": 565239,
+   "Africa": 38632,
+   "Asia": 204233,
+   "Europe": 148761,
+   "North America": 89744,
+   "Oceania": 1190,
+   "South America": 82679
+ },
+ {
+   "date": "23/07/2021",
+   "World": 728235,
+   "Africa": 31666,
+   "Asia": 276808,
+   "Europe": 139285,
+   "North America": 137591,
+   "Oceania": 639,
+   "South America": 142246
+ },
+ {
+   "date": "24/07/2021",
+   "World": 492552,
+   "Africa": 35576,
+   "Asia": 210010,
+   "Europe": 108008,
+   "North America": 74500,
+   "Oceania": 963,
+   "South America": 63495
+ },
+ {
+   "date": "25/07/2021",
+   "World": 446282,
+   "Africa": 33032,
+   "Asia": 235316,
+   "Europe": 88525,
+   "North America": 46743,
+   "Oceania": 791,
+   "South America": 41875
+ },
+ {
+   "date": "26/07/2021",
+   "World": 538134,
+   "Africa": 33802,
+   "Asia": 215050,
+   "Europe": 139026,
+   "North America": 100304,
+   "Oceania": 1576,
+   "South America": 48376
+ },
+ {
+   "date": "27/07/2021",
+   "World": 606622,
+   "Africa": 31442,
+   "Asia": 267974,
+   "Europe": 127155,
+   "North America": 101481,
+   "Oceania": 1045,
+   "South America": 77525
+ },
+ {
+   "date": "28/07/2021",
+   "World": 649820,
+   "Africa": 48624,
+   "Asia": 273807,
+   "Europe": 135026,
+   "North America": 111656,
+   "Oceania": 1470,
+   "South America": 79237
+ },
+ {
+   "date": "29/07/2021",
+   "World": 643069,
+   "Africa": 47636,
+   "Asia": 274918,
+   "Europe": 137562,
+   "North America": 110216,
+   "Oceania": 1729,
+   "South America": 71008
+ },
+ {
+   "date": "30/07/2021",
+   "World": 732559,
+   "Africa": 43023,
+   "Asia": 257564,
+   "Europe": 132745,
+   "North America": 230656,
+   "Oceania": 1385,
+   "South America": 67186
+ },
+ {
+   "date": "31/07/2021",
+   "World": 518857,
+   "Africa": 36215,
+   "Asia": 242391,
+   "Europe": 98836,
+   "North America": 77407,
+   "Oceania": 1594,
+   "South America": 62414
+ },
+ {
+   "date": "01/08/2021",
+   "World": 484252,
+   "Africa": 34210,
+   "Asia": 256861,
+   "Europe": 87519,
+   "North America": 64349,
+   "Oceania": 865,
+   "South America": 40448
+ },
+ {
+   "date": "02/08/2021",
+   "World": 567535,
+   "Africa": 34166,
+   "Asia": 227018,
+   "Europe": 133058,
+   "North America": 130476,
+   "Oceania": 1813,
+   "South America": 41004
+ },
+ {
+   "date": "03/08/2021",
+   "World": 634478,
+   "Africa": 32704,
+   "Asia": 284213,
+   "Europe": 116928,
+   "North America": 137992,
+   "Oceania": 1854,
+   "South America": 60787
+ },
+ {
+   "date": "04/08/2021",
+   "World": 680137,
+   "Africa": 45181,
+   "Asia": 284192,
+   "Europe": 137022,
+   "North America": 144654,
+   "Oceania": 1947,
+   "South America": 67141
+ },
+ {
+   "date": "05/08/2021",
+   "World": 685413,
+   "Africa": 47809,
+   "Asia": 283821,
+   "Europe": 135221,
+   "North America": 150660,
+   "Oceania": 1764,
+   "South America": 66138
+ },
+ {
+   "date": "06/08/2021",
+   "World": 819584,
+   "Africa": 41995,
+   "Asia": 279782,
+   "Europe": 134662,
+   "North America": 293021,
+   "Oceania": 1759,
+   "South America": 68365
+ },
+ {
+   "date": "07/08/2021",
+   "World": 563521,
+   "Africa": 36319,
+   "Asia": 260016,
+   "Europe": 105733,
+   "North America": 99783,
+   "Oceania": 965,
+   "South America": 60705
+ },
+ {
+   "date": "08/08/2021",
+   "World": 469925,
+   "Africa": 34061,
+   "Asia": 256183,
+   "Europe": 94927,
+   "North America": 56012,
+   "Oceania": 963,
+   "South America": 27779
+ },
+ {
+   "date": "09/08/2021",
+   "World": 614167,
+   "Africa": 33177,
+   "Asia": 240859,
+   "Europe": 121038,
+   "North America": 183158,
+   "Oceania": 2438,
+   "South America": 33497
+ },
+ {
+   "date": "10/08/2021",
+   "World": 645609,
+   "Africa": 34503,
+   "Asia": 271416,
+   "Europe": 123881,
+   "North America": 158477,
+   "Oceania": 1708,
+   "South America": 55624
+ },
+ {
+   "date": "11/08/2021",
+   "World": 730321,
+   "Africa": 34605,
+   "Asia": 292960,
+   "Europe": 141447,
+   "North America": 201916,
+   "Oceania": 1897,
+   "South America": 57496
+ },
+ {
+   "date": "12/08/2021",
+   "World": 705996,
+   "Africa": 46340,
+   "Asia": 266390,
+   "Europe": 143611,
+   "North America": 188445,
+   "Oceania": 1958,
+   "South America": 59252
+ },
+ {
+   "date": "13/08/2021",
+   "World": 801801,
+   "Africa": 40479,
+   "Asia": 295047,
+   "Europe": 139992,
+   "North America": 272826,
+   "Oceania": 2431,
+   "South America": 51026
+ },
+ {
+   "date": "14/08/2021",
+   "World": 557390,
+   "Africa": 33881,
+   "Asia": 253742,
+   "Europe": 112196,
+   "North America": 113204,
+   "Oceania": 758,
+   "South America": 43609
+ },
+ {
+   "date": "15/08/2021",
+   "World": 470252,
+   "Africa": 29266,
+   "Asia": 256938,
+   "Europe": 98878,
+   "North America": 59894,
+   "Oceania": 525,
+   "South America": 24751
+ },
+ {
+   "date": "16/08/2021",
+   "World": 654995,
+   "Africa": 29032,
+   "Asia": 240884,
+   "Europe": 120147,
+   "North America": 234424,
+   "Oceania": 3516,
+   "South America": 26992
+ },
+ {
+   "date": "17/08/2021",
+   "World": 682071,
+   "Africa": 32277,
+   "Asia": 276031,
+   "Europe": 128241,
+   "North America": 186750,
+   "Oceania": 3441,
+   "South America": 55331
+ },
+ {
+   "date": "18/08/2021",
+   "World": 735622,
+   "Africa": 43954,
+   "Asia": 263367,
+   "Europe": 146553,
+   "North America": 220496,
+   "Oceania": 3042,
+   "South America": 58210
+ },
+ {
+   "date": "19/08/2021",
+   "World": 711957,
+   "Africa": 39337,
+   "Asia": 268505,
+   "Europe": 144371,
+   "North America": 202110,
+   "Oceania": 2936,
+   "South America": 54698
+ },
+ {
+   "date": "20/08/2021",
+   "World": 785273,
+   "Africa": 37147,
+   "Asia": 264448,
+   "Europe": 144597,
+   "North America": 286902,
+   "Oceania": 2029,
+   "South America": 50150
+ },
+ {
+   "date": "21/08/2021",
+   "World": 565849,
+   "Africa": 31232,
+   "Asia": 243423,
+   "Europe": 119245,
+   "North America": 130343,
+   "Oceania": 1130,
+   "South America": 40476
+ },
+ {
+   "date": "22/08/2021",
+   "World": 453928,
+   "Africa": 27793,
+   "Asia": 233053,
+   "Europe": 104431,
+   "North America": 65532,
+   "Oceania": 1236,
+   "South America": 21883
+ },
+ {
+   "date": "23/08/2021",
+   "World": 670968,
+   "Africa": 48277,
+   "Asia": 228892,
+   "Europe": 121495,
+   "North America": 240332,
+   "Oceania": 4218,
+   "South America": 27754
+ },
+ {
+   "date": "24/08/2021",
+   "World": 676568,
+   "Africa": 29802,
+   "Asia": 265747,
+   "Europe": 134984,
+   "North America": 196727,
+   "Oceania": 2398,
+   "South America": 46910
+ },
+ {
+   "date": "25/08/2021",
+   "World": 736787,
+   "Africa": 36083,
+   "Asia": 282764,
+   "Europe": 148336,
+   "North America": 224090,
+   "Oceania": 1438,
+   "South America": 44076
+ },
+ {
+   "date": "26/08/2021",
+   "World": 736450,
+   "Africa": 38576,
+   "Asia": 278109,
+   "Europe": 144879,
+   "North America": 229102,
+   "Oceania": 1469,
+   "South America": 44315
+ },
+ {
+   "date": "27/08/2021",
+   "World": 751384,
+   "Africa": 34014,
+   "Asia": 272094,
+   "Europe": 125954,
+   "North America": 279627,
+   "Oceania": 1407,
+   "South America": 38288
+ },
+ {
+   "date": "28/08/2021",
+   "World": 566259,
+   "Africa": 29276,
+   "Asia": 253974,
+   "Europe": 134348,
+   "North America": 113292,
+   "Oceania": 1664,
+   "South America": 33705
+ },
+ {
+   "date": "29/08/2021",
+   "World": 453938,
+   "Africa": 21397,
+   "Asia": 239370,
+   "Europe": 103602,
+   "North America": 69955,
+   "Oceania": 1806,
+   "South America": 17808
+ },
+ {
+   "date": "30/08/2021",
+   "World": 654464,
+   "Africa": 21452,
+   "Asia": 236441,
+   "Europe": 111349,
+   "North America": 258775,
+   "Oceania": 1441,
+   "South America": 25006
+ },
+ {
+   "date": "31/08/2021",
+   "World": 621114,
+   "Africa": 22708,
+   "Asia": 239579,
+   "Europe": 109176,
+   "North America": 210473,
+   "Oceania": 1780,
+   "South America": 37398
+ },
+ {
+   "date": "01/09/2021",
+   "World": 718765,
+   "Africa": 30793,
+   "Asia": 261677,
+   "Europe": 155529,
+   "North America": 232397,
+   "Oceania": 1921,
+   "South America": 36448
+ },
+ {
+   "date": "02/09/2021",
+   "World": 678368,
+   "Africa": 28451,
+   "Asia": 246910,
+   "Europe": 141056,
+   "North America": 219366,
+   "Oceania": 1982,
+   "South America": 40603
+ },
+ {
+   "date": "03/09/2021",
+   "World": 723924,
+   "Africa": 26115,
+   "Asia": 247312,
+   "Europe": 141796,
+   "North America": 274433,
+   "Oceania": 2013,
+   "South America": 32255
+ },
+ {
+   "date": "04/09/2021",
+   "World": 506055,
+   "Africa": 21285,
+   "Asia": 220000,
+   "Europe": 116443,
+   "North America": 117292,
+   "Oceania": 1890,
+   "South America": 29145
+ },
+ {
+   "date": "05/09/2021",
+   "World": 456087,
+   "Africa": 18194,
+   "Asia": 226466,
+   "Europe": 105623,
+   "North America": 85165,
+   "Oceania": 1716,
+   "South America": 18923
+ },
+ {
+   "date": "06/09/2021",
+   "World": 460229,
+   "Africa": 16836,
+   "Asia": 198689,
+   "Europe": 107468,
+   "North America": 118225,
+   "Oceania": 1615,
+   "South America": 17396
+ },
+ {
+   "date": "07/09/2021",
+   "World": 656192,
+   "Africa": 19011,
+   "Asia": 218140,
+   "Europe": 138949,
+   "North America": 253959,
+   "Oceania": 1965,
+   "South America": 24168
+ },
+ {
+   "date": "08/09/2021",
+   "World": 636562,
+   "Africa": 23622,
+   "Asia": 238042,
+   "Europe": 133559,
+   "North America": 216737,
+   "Oceania": 1992,
+   "South America": 22610
+ },
+ {
+   "date": "09/09/2021",
+   "World": 639870,
+   "Africa": 21752,
+   "Asia": 224247,
+   "Europe": 144425,
+   "North America": 203495,
+   "Oceania": 2445,
+   "South America": 43506
+ },
+ {
+   "date": "10/09/2021",
+   "World": 659064,
+   "Africa": 19874,
+   "Asia": 212043,
+   "Europe": 132890,
+   "North America": 267081,
+   "Oceania": 2293,
+   "South America": 24883
+ },
+ {
+   "date": "11/09/2021",
+   "World": 478250,
+   "Africa": 15485,
+   "Asia": 200416,
+   "Europe": 107059,
+   "North America": 131688,
+   "Oceania": 1972,
+   "South America": 21630
+ },
+ {
+   "date": "12/09/2021",
+   "World": 377355,
+   "Africa": 13101,
+   "Asia": 185704,
+   "Europe": 96689,
+   "North America": 66748,
+   "Oceania": 2184,
+   "South America": 12929
+ },
+ {
+   "date": "13/09/2021",
+   "World": 562455,
+   "Africa": 12374,
+   "Asia": 188182,
+   "Europe": 105964,
+   "North America": 239224,
+   "Oceania": 2009,
+   "South America": 14702
+ },
+ {
+   "date": "14/09/2021",
+   "World": 550346,
+   "Africa": 25179,
+   "Asia": 194635,
+   "Europe": 120783,
+   "North America": 185062,
+   "Oceania": 2310,
+   "South America": 22377
+ },
+ {
+   "date": "15/09/2021",
+   "World": 567564,
+   "Africa": 17315,
+   "Asia": 197646,
+   "Europe": 119928,
+   "North America": 209370,
+   "Oceania": 2023,
+   "South America": 21282
+ },
+ {
+   "date": "16/09/2021",
+   "World": 587514,
+   "Africa": 21379,
+   "Asia": 199706,
+   "Europe": 134856,
+   "North America": 184897,
+   "Oceania": 3124,
+   "South America": 43552
+ },
+ {
+   "date": "17/09/2021",
+   "World": 623354,
+   "Africa": 16028,
+   "Asia": 191516,
+   "Europe": 129456,
+   "North America": 239457,
+   "Oceania": 2395,
+   "South America": 44502
+ },
+ {
+   "date": "18/09/2021",
+   "World": 406470,
+   "Africa": 11494,
+   "Asia": 181368,
+   "Europe": 112605,
+   "North America": 91516,
+   "Oceania": 2313,
+   "South America": 7174
+ },
+ {
+   "date": "19/09/2021",
+   "World": 369353,
+   "Africa": 9418,
+   "Asia": 172787,
+   "Europe": 96672,
+   "North America": 74732,
+   "Oceania": 1731,
+   "South America": 14013
+ },
+ {
+   "date": "20/09/2021",
+   "World": 516349,
+   "Africa": 10929,
+   "Asia": 170591,
+   "Europe": 110326,
+   "North America": 205397,
+   "Oceania": 2093,
+   "South America": 17013
+ },
+ {
+   "date": "21/09/2021",
+   "World": 489419,
+   "Africa": 11480,
+   "Asia": 178443,
+   "Europe": 119197,
+   "North America": 156506,
+   "Oceania": 2577,
+   "South America": 21216
+ },
+ {
+   "date": "22/09/2021",
+   "World": 534059,
+   "Africa": 16021,
+   "Asia": 178775,
+   "Europe": 130758,
+   "North America": 164347,
+   "Oceania": 2580,
+   "South America": 41578
+ },
+ {
+   "date": "23/09/2021",
+   "World": 548124,
+   "Africa": 39078,
+   "Asia": 178314,
+   "Europe": 134186,
+   "North America": 161953,
+   "Oceania": 3028,
+   "South America": 31565
+ },
+ {
+   "date": "24/09/2021",
+   "World": 549358,
+   "Africa": 12063,
+   "Asia": 169547,
+   "Europe": 131826,
+   "North America": 207386,
+   "Oceania": 2072,
+   "South America": 26464
+ },
+ {
+   "date": "25/09/2021",
+   "World": 379812,
+   "Africa": 9925,
+   "Asia": 159823,
+   "Europe": 112172,
+   "North America": 73920,
+   "Oceania": 2088,
+   "South America": 21884
+ },
+ {
+   "date": "26/09/2021",
+   "World": 362143,
+   "Africa": 6021,
+   "Asia": 157642,
+   "Europe": 105059,
+   "North America": 78434,
+   "Oceania": 2008,
+   "South America": 12979
+ },
+ {
+   "date": "27/09/2021",
+   "World": 469872,
+   "Africa": 8889,
+   "Asia": 142674,
+   "Europe": 114479,
+   "North America": 186475,
+   "Oceania": 2136,
+   "South America": 15219
+ },
+ {
+   "date": "28/09/2021",
+   "World": 451216,
+   "Africa": 8775,
+   "Asia": 140296,
+   "Europe": 130769,
+   "North America": 142661,
+   "Oceania": 2380,
+   "South America": 26335
+ },
+ {
+   "date": "29/09/2021",
+   "World": 489931,
+   "Africa": 16022,
+   "Asia": 151965,
+   "Europe": 143858,
+   "North America": 150093,
+   "Oceania": 3224,
+   "South America": 24769
+ },
+ {
+   "date": "30/09/2021",
+   "World": 489954,
+   "Africa": 13595,
+   "Asia": 160807,
+   "Europe": 148767,
+   "North America": 135449,
+   "Oceania": 2716,
+   "South America": 28620
+ },
+ {
+   "date": "01/10/2021",
+   "World": 522283,
+   "Africa": 17344,
+   "Asia": 152979,
+   "Europe": 142474,
+   "North America": 181168,
+   "Oceania": 2895,
+   "South America": 25423
+ },
+ {
+   "date": "02/10/2021",
+   "World": 357478,
+   "Africa": 6361,
+   "Asia": 136468,
+   "Europe": 126619,
+   "North America": 66568,
+   "Oceania": 2473,
+   "South America": 18989
+ },
+ {
+   "date": "03/10/2021",
+   "World": 313675,
+   "Africa": 5455,
+   "Asia": 127549,
+   "Europe": 109594,
+   "North America": 52664,
+   "Oceania": 2142,
+   "South America": 16271
+ },
+ {
+   "date": "04/10/2021",
+   "World": 434671,
+   "Africa": 4939,
+   "Asia": 124327,
+   "Europe": 118507,
+   "North America": 168509,
+   "Oceania": 2952,
+   "South America": 15437
+ },
+ {
+   "date": "05/10/2021",
+   "World": 423166,
+   "Africa": 9000,
+   "Asia": 131803,
+   "Europe": 138541,
+   "North America": 110752,
+   "Oceania": 2814,
+   "South America": 30256
+ },
+ {
+   "date": "06/10/2021",
+   "World": 506207,
+   "Africa": 12375,
+   "Asia": 164972,
+   "Europe": 157819,
+   "North America": 137661,
+   "Oceania": 7729,
+   "South America": 25651
+ },
+ {
+   "date": "07/10/2021",
+   "World": 462159,
+   "Africa": 8063,
+   "Asia": 133005,
+   "Europe": 163554,
+   "North America": 132093,
+   "Oceania": 3089,
+   "South America": 22355
+ },
+ {
+   "date": "08/10/2021",
+   "World": 476240,
+   "Africa": 6108,
+   "Asia": 133769,
+   "Europe": 156293,
+   "North America": 151425,
+   "Oceania": 3437,
+   "South America": 25208
+ },
+ {
+   "date": "09/10/2021",
+   "World": 347437,
+   "Africa": 4792,
+   "Asia": 120802,
+   "Europe": 150001,
+   "North America": 48017,
+   "Oceania": 2597,
+   "South America": 21228
+ },
+ {
+   "date": "10/10/2021",
+   "World": 322589,
+   "Africa": 4702,
+   "Asia": 120147,
+   "Europe": 125144,
+   "North America": 56076,
+   "Oceania": 2826,
+   "South America": 13694
+ },
+ {
+   "date": "11/10/2021",
+   "World": 374926,
+   "Africa": 5316,
+   "Asia": 112202,
+   "Europe": 135431,
+   "North America": 108181,
+   "Oceania": 1949,
+   "South America": 11847
+ },
+ {
+   "date": "12/10/2021",
+   "World": 438309,
+   "Africa": 5616,
+   "Asia": 127308,
+   "Europe": 157085,
+   "North America": 133570,
+   "Oceania": 2654,
+   "South America": 12076
+ },
+ {
+   "date": "13/10/2021",
+   "World": 456103,
+   "Africa": 9688,
+   "Asia": 128171,
+   "Europe": 172751,
+   "North America": 125628,
+   "Oceania": 3441,
+   "South America": 16424
+ },
+ {
+   "date": "14/10/2021",
+   "World": 455189,
+   "Africa": 6366,
+   "Asia": 127417,
+   "Europe": 188284,
+   "North America": 106221,
+   "Oceania": 3195,
+   "South America": 23706
+ },
+ {
+   "date": "15/10/2021",
+   "World": 458492,
+   "Africa": 6019,
+   "Asia": 122016,
+   "Europe": 179433,
+   "North America": 125726,
+   "Oceania": 2500,
+   "South America": 22798
+ },
+ {
+   "date": "16/10/2021",
+   "World": 350794,
+   "Africa": 4666,
+   "Asia": 109193,
+   "Europe": 166577,
+   "North America": 52476,
+   "Oceania": 2297,
+   "South America": 15585
+ },
+ {
+   "date": "17/10/2021",
+   "World": 320294,
+   "Africa": 3983,
+   "Asia": 109844,
+   "Europe": 151073,
+   "North America": 39408,
+   "Oceania": 2167,
+   "South America": 13819
+ },
+ {
+   "date": "18/10/2021",
+   "World": 410436,
+   "Africa": 6802,
+   "Asia": 105576,
+   "Europe": 166627,
+   "North America": 112405,
+   "Oceania": 3190,
+   "South America": 15836
+ },
+ {
+   "date": "19/10/2021",
+   "World": 431637,
+   "Africa": 6054,
+   "Asia": 117281,
+   "Europe": 189661,
+   "North America": 96520,
+   "Oceania": 2749,
+   "South America": 19372
+ },
+ {
+   "date": "20/10/2021",
+   "World": 475235,
+   "Africa": 4586,
+   "Asia": 117628,
+   "Europe": 220417,
+   "North America": 106226,
+   "Oceania": 3172,
+   "South America": 23206
+ },
+ {
+   "date": "21/10/2021",
+   "World": 462772,
+   "Africa": 5700,
+   "Asia": 112087,
+   "Europe": 228052,
+   "North America": 90302,
+   "Oceania": 3225,
+   "South America": 23406
+ },
+ {
+   "date": "22/10/2021",
+   "World": 492915,
+   "Africa": 4648,
+   "Asia": 116631,
+   "Europe": 233574,
+   "North America": 112500,
+   "Oceania": 2725,
+   "South America": 22837
+ },
+ {
+   "date": "23/10/2021",
+   "World": 383257,
+   "Africa": 4015,
+   "Asia": 103482,
+   "Europe": 209315,
+   "North America": 43344,
+   "Oceania": 2324,
+   "South America": 20777
+ },
+ {
+   "date": "24/10/2021",
+   "World": 320929,
+   "Africa": 3297,
+   "Asia": 102280,
+   "Europe": 178133,
+   "North America": 23766,
+   "Oceania": 2719,
+   "South America": 10734
+ },
+ {
+   "date": "25/10/2021",
+   "World": 426912,
+   "Africa": 6701,
+   "Asia": 94041,
+   "Europe": 186709,
+   "North America": 123321,
+   "Oceania": 2249,
+   "South America": 13891
+ },
+ {
+   "date": "26/10/2021",
+   "World": 425573,
+   "Africa": 5043,
+   "Asia": 105815,
+   "Europe": 217346,
+   "North America": 75697,
+   "Oceania": 2375,
+   "South America": 19297
+ },
+ {
+   "date": "27/10/2021",
+   "World": 513865,
+   "Africa": 7609,
+   "Asia": 111940,
+   "Europe": 250190,
+   "North America": 114978,
+   "Oceania": 2546,
+   "South America": 26602
+ },
+ {
+   "date": "28/10/2021",
+   "World": 483428,
+   "Africa": 5895,
+   "Asia": 108456,
+   "Europe": 251618,
+   "North America": 93137,
+   "Oceania": 2466,
+   "South America": 21856
+ },
+ {
+   "date": "29/10/2021",
+   "World": 494571,
+   "Africa": 4911,
+   "Asia": 107716,
+   "Europe": 251823,
+   "North America": 106484,
+   "Oceania": 2159,
+   "South America": 21478
+ },
+ {
+   "date": "30/10/2021",
+   "World": 393922,
+   "Africa": 3641,
+   "Asia": 95838,
+   "Europe": 230253,
+   "North America": 43486,
+   "Oceania": 1367,
+   "South America": 19337
+ },
+ {
+   "date": "31/10/2021",
+   "World": 363843,
+   "Africa": 4084,
+   "Asia": 115023,
+   "Europe": 192065,
+   "North America": 37725,
+   "Oceania": 2259,
+   "South America": 12687
+ },
+ {
+   "date": "01/11/2021",
+   "World": 422260,
+   "Africa": 4677,
+   "Asia": 92862,
+   "Europe": 192029,
+   "North America": 119592,
+   "Oceania": 1418,
+   "South America": 11682
+ },
+ {
+   "date": "02/11/2021",
+   "World": 403493,
+   "Africa": 4850,
+   "Asia": 106579,
+   "Europe": 203429,
+   "North America": 75790,
+   "Oceania": 1509,
+   "South America": 11336
+ },
+ {
+   "date": "03/11/2021",
+   "World": 523214,
+   "Africa": 5595,
+   "Asia": 109745,
+   "Europe": 284838,
+   "North America": 96232,
+   "Oceania": 2758,
+   "South America": 24046
+ },
+ {
+   "date": "04/11/2021",
+   "World": 517898,
+   "Africa": 5001,
+   "Asia": 107527,
+   "Europe": 290149,
+   "North America": 91351,
+   "Oceania": 1799,
+   "South America": 22071
+ },
+ {
+   "date": "05/11/2021",
+   "World": 523866,
+   "Africa": 10810,
+   "Asia": 99557,
+   "Europe": 280164,
+   "North America": 107826,
+   "Oceania": 2138,
+   "South America": 23371
+ },
+ {
+   "date": "06/11/2021",
+   "World": 437287,
+   "Africa": 4408,
+   "Asia": 96626,
+   "Europe": 265121,
+   "North America": 49922,
+   "Oceania": 1560,
+   "South America": 19650
+ },
+ {
+   "date": "07/11/2021",
+   "World": 361917,
+   "Africa": 3954,
+   "Asia": 91322,
+   "Europe": 209633,
+   "North America": 41880,
+   "Oceania": 1660,
+   "South America": 13468
+ },
+ {
+   "date": "08/11/2021",
+   "World": 470972,
+   "Africa": 5370,
+   "Asia": 90868,
+   "Europe": 239014,
+   "North America": 119192,
+   "Oceania": 1826,
+   "South America": 14702
+ },
+ {
+   "date": "09/11/2021",
+   "World": 467648,
+   "Africa": 5742,
+   "Asia": 100592,
+   "Europe": 252571,
+   "North America": 89043,
+   "Oceania": 1504,
+   "South America": 18196
+ },
+ {
+   "date": "10/11/2021",
+   "World": 573540,
+   "Africa": 8986,
+   "Asia": 102828,
+   "Europe": 329095,
+   "North America": 103276,
+   "Oceania": 2247,
+   "South America": 27108
+ },
+ {
+   "date": "11/11/2021",
+   "World": 521230,
+   "Africa": 5882,
+   "Asia": 96877,
+   "Europe": 319239,
+   "North America": 71658,
+   "Oceania": 1752,
+   "South America": 25822
+ },
+ {
+   "date": "12/11/2021",
+   "World": 599303,
+   "Africa": 4896,
+   "Asia": 95511,
+   "Europe": 317206,
+   "North America": 151918,
+   "Oceania": 1945,
+   "South America": 27827
+ },
+ {
+   "date": "13/11/2021",
+   "World": 438483,
+   "Africa": 4115,
+   "Asia": 85909,
+   "Europe": 276255,
+   "North America": 52246,
+   "Oceania": 1558,
+   "South America": 18400
+ },
+ {
+   "date": "14/11/2021",
+   "World": 379602,
+   "Africa": 2979,
+   "Asia": 82804,
+   "Europe": 239715,
+   "North America": 39414,
+   "Oceania": 1302,
+   "South America": 13388
+ },
+ {
+   "date": "15/11/2021",
+   "World": 526007,
+   "Africa": 5616,
+   "Asia": 84405,
+   "Europe": 279575,
+   "North America": 143276,
+   "Oceania": 1347,
+   "South America": 11788
+ },
+ {
+   "date": "16/11/2021",
+   "World": 506310,
+   "Africa": 5371,
+   "Asia": 87959,
+   "Europe": 302248,
+   "North America": 93897,
+   "Oceania": 1600,
+   "South America": 15235
+ },
+ {
+   "date": "17/11/2021",
+   "World": 615393,
+   "Africa": 4917,
+   "Asia": 95941,
+   "Europe": 364729,
+   "North America": 123892,
+   "Oceania": 1803,
+   "South America": 24111
+ },
+ {
+   "date": "18/11/2021",
+   "World": 622830,
+   "Africa": 5037,
+   "Asia": 94194,
+   "Europe": 380045,
+   "North America": 120452,
+   "Oceania": 1735,
+   "South America": 21367
+ },
+ {
+   "date": "19/11/2021",
+   "World": 615365,
+   "Africa": 4825,
+   "Asia": 90144,
+   "Europe": 361207,
+   "North America": 134359,
+   "Oceania": 2274,
+   "South America": 22556
+ },
+ {
+   "date": "20/11/2021",
+   "World": 499919,
+   "Africa": 4004,
+   "Asia": 88486,
+   "Europe": 332449,
+   "North America": 54691,
+   "Oceania": 1637,
+   "South America": 18652
+ },
+ {
+   "date": "21/11/2021",
+   "World": 420689,
+   "Africa": 4249,
+   "Asia": 80439,
+   "Europe": 272923,
+   "North America": 46870,
+   "Oceania": 1839,
+   "South America": 14369
+ },
+ {
+   "date": "22/11/2021",
+   "World": 601857,
+   "Africa": 4243,
+   "Asia": 79764,
+   "Europe": 349762,
+   "North America": 154289,
+   "Oceania": 1302,
+   "South America": 12497
+ },
+ {
+   "date": "23/11/2021",
+   "World": 574981,
+   "Africa": 5056,
+   "Asia": 122264,
+   "Europe": 326319,
+   "North America": 97741,
+   "Oceania": 1858,
+   "South America": 21743
+ },
+ {
+   "date": "24/11/2021",
+   "World": 657648,
+   "Africa": 5838,
+   "Asia": 94508,
+   "Europe": 411476,
+   "North America": 121613,
+   "Oceania": 1853,
+   "South America": 22360
+ },
+ {
+   "date": "25/11/2021",
+   "World": 599338,
+   "Africa": 5877,
+   "Asia": 92952,
+   "Europe": 416771,
+   "North America": 55518,
+   "Oceania": 1984,
+   "South America": 26236
+ },
+ {
+   "date": "26/11/2021",
+   "World": 612513,
+   "Africa": 5730,
+   "Asia": 90783,
+   "Europe": 428504,
+   "North America": 63232,
+   "Oceania": 1742,
+   "South America": 22522
+ },
+ {
+   "date": "27/11/2021",
+   "World": 483924,
+   "Africa": 5559,
+   "Asia": 88051,
+   "Europe": 338786,
+   "North America": 31927,
+   "Oceania": 1413,
+   "South America": 18188
+ },
+ {
+   "date": "28/11/2021",
+   "World": 432043,
+   "Africa": 5573,
+   "Asia": 79191,
+   "Europe": 282952,
+   "North America": 50141,
+   "Oceania": 1468,
+   "South America": 12718
+ },
+ {
+   "date": "29/11/2021",
+   "World": 631972,
+   "Africa": 6688,
+   "Asia": 80255,
+   "Europe": 337206,
+   "North America": 193861,
+   "Oceania": 1338,
+   "South America": 12624
+ },
+ {
+   "date": "30/11/2021",
+   "World": 600025,
+   "Africa": 8181,
+   "Asia": 90583,
+   "Europe": 357503,
+   "North America": 122533,
+   "Oceania": 1673,
+   "South America": 19552
+ },
+ {
+   "date": "01/12/2021",
+   "World": 702573,
+   "Africa": 13285,
+   "Asia": 91890,
+   "Europe": 422269,
+   "North America": 149865,
+   "Oceania": 2804,
+   "South America": 22460
+ },
+ {
+   "date": "02/12/2021",
+   "World": 708102,
+   "Africa": 15939,
+   "Asia": 87008,
+   "Europe": 435176,
+   "North America": 144811,
+   "Oceania": 1764,
+   "South America": 23404
+ },
+ {
+   "date": "03/12/2021",
+   "World": 731424,
+   "Africa": 21636,
+   "Asia": 81686,
+   "Europe": 433140,
+   "North America": 171712,
+   "Oceania": 1863,
+   "South America": 21387
+ },
+ {
+   "date": "04/12/2021",
+   "World": 535139,
+   "Africa": 20430,
+   "Asia": 74910,
+   "Europe": 348623,
+   "North America": 70988,
+   "Oceania": 1357,
+   "South America": 18831
+ },
+ {
+   "date": "05/12/2021",
+   "World": 460430,
+   "Africa": 14534,
+   "Asia": 86989,
+   "Europe": 281561,
+   "North America": 63364,
+   "Oceania": 1569,
+   "South America": 12413
+ },
+ {
+   "date": "06/12/2021",
+   "World": 599712,
+   "Africa": 17160,
+   "Asia": 75473,
+   "Europe": 306687,
+   "North America": 185266,
+   "Oceania": 1605,
+   "South America": 13521
+ },
+ {
+   "date": "07/12/2021",
+   "World": 640369,
+   "Africa": 20150,
+   "Asia": 87733,
+   "Europe": 389459,
+   "North America": 118732,
+   "Oceania": 1949,
+   "South America": 22346
+ },
+ {
+   "date": "08/12/2021",
+   "World": 711809,
+   "Africa": 33732,
+   "Asia": 86145,
+   "Europe": 413647,
+   "North America": 159642,
+   "Oceania": 1822,
+   "South America": 16821
+ },
+ {
+   "date": "09/12/2021",
+   "World": 698928,
+   "Africa": 32457,
+   "Asia": 83844,
+   "Europe": 420311,
+   "North America": 138558,
+   "Oceania": 1876,
+   "South America": 21882
+ },
+ {
+   "date": "10/12/2021",
+   "World": 694263,
+   "Africa": 27097,
+   "Asia": 80823,
+   "Europe": 403648,
+   "North America": 163794,
+   "Oceania": 1949,
+   "South America": 16952
+ },
+ {
+   "date": "11/12/2021",
+   "World": 519384,
+   "Africa": 32984,
+   "Asia": 77772,
+   "Europe": 324329,
+   "North America": 67389,
+   "Oceania": 1646,
+   "South America": 15264
+ },
+ {
+   "date": "12/12/2021",
+   "World": 458064,
+   "Africa": 45379,
+   "Asia": 71900,
+   "Europe": 266486,
+   "North America": 61030,
+   "Oceania": 2037,
+   "South America": 11232
+ },
+ {
+   "date": "13/12/2021",
+   "World": 609756,
+   "Africa": 17081,
+   "Asia": 70799,
+   "Europe": 316351,
+   "North America": 193173,
+   "Oceania": 2113,
+   "South America": 10239
+ },
+ {
+   "date": "14/12/2021",
+   "World": 638594,
+   "Africa": 38980,
+   "Asia": 82101,
+   "Europe": 373519,
+   "North America": 124773,
+   "Oceania": 2921,
+   "South America": 16300
+ },
+ {
+   "date": "15/12/2021",
+   "World": 738128,
+   "Africa": 47002,
+   "Asia": 79903,
+   "Europe": 431675,
+   "North America": 158318,
+   "Oceania": 3534,
+   "South America": 17696
+ },
+ {
+   "date": "16/12/2021",
+   "World": 743766,
+   "Africa": 44313,
+   "Asia": 95380,
+   "Europe": 428730,
+   "North America": 154308,
+   "Oceania": 3920,
+   "South America": 17115
+ },
+ {
+   "date": "17/12/2021",
+   "World": 767573,
+   "Africa": 41570,
+   "Asia": 67476,
+   "Europe": 430289,
+   "North America": 205353,
+   "Oceania": 4147,
+   "South America": 18738
+ },
+ {
+   "date": "18/12/2021",
+   "World": 570782,
+   "Africa": 28193,
+   "Asia": 69916,
+   "Europe": 358067,
+   "North America": 92477,
+   "Oceania": 3921,
+   "South America": 18208
+ },
+ {
+   "date": "19/12/2021",
+   "World": 512494,
+   "Africa": 29086,
+   "Asia": 74658,
+   "Europe": 291219,
+   "North America": 101656,
+   "Oceania": 4101,
+   "South America": 11774
+ },
+ {
+   "date": "20/12/2021",
+   "World": 736730,
+   "Africa": 34469,
+   "Asia": 66210,
+   "Europe": 360639,
+   "North America": 258821,
+   "Oceania": 4613,
+   "South America": 11978
+ },
+ {
+   "date": "21/12/2021",
+   "World": 755818,
+   "Africa": 35545,
+   "Asia": 75138,
+   "Europe": 419166,
+   "North America": 196023,
+   "Oceania": 5616,
+   "South America": 24330
+ },
+ {
+   "date": "22/12/2021",
+   "World": 910258,
+   "Africa": 50937,
+   "Asia": 75360,
+   "Europe": 485814,
+   "North America": 269013,
+   "Oceania": 8545,
+   "South America": 20589
+ },
+ {
+   "date": "23/12/2021",
+   "World": 1007422,
+   "Africa": 55955,
+   "Asia": 71920,
+   "Europe": 541131,
+   "North America": 302853,
+   "Oceania": 8340,
+   "South America": 27223
+ },
+ {
+   "date": "24/12/2021",
+   "World": 891646,
+   "Africa": 49308,
+   "Asia": 73792,
+   "Europe": 442668,
+   "North America": 283247,
+   "Oceania": 10015,
+   "South America": 32616
+ },
+ {
+   "date": "25/12/2021",
+   "World": 702311,
+   "Africa": 41085,
+   "Asia": 70520,
+   "Europe": 445433,
+   "North America": 112858,
+   "Oceania": 9595,
+   "South America": 22820
+ },
+ {
+   "date": "26/12/2021",
+   "World": 580506,
+   "Africa": 23634,
+   "Asia": 67415,
+   "Europe": 261342,
+   "North America": 198676,
+   "Oceania": 9928,
+   "South America": 19511
+ },
+ {
+   "date": "27/12/2021",
+   "World": 1268307,
+   "Africa": 32569,
+   "Asia": 74533,
+   "Europe": 586549,
+   "North America": 526184,
+   "Oceania": 12082,
+   "South America": 36390
+ },
+ {
+   "date": "28/12/2021",
+   "World": 1325909,
+   "Africa": 42630,
+   "Asia": 89463,
+   "Europe": 722414,
+   "North America": 397805,
+   "Oceania": 17734,
+   "South America": 55863
+ },
+ {
+   "date": "29/12/2021",
+   "World": 1695774,
+   "Africa": 48937,
+   "Asia": 101075,
+   "Europe": 884008,
+   "North America": 568017,
+   "Oceania": 21867,
+   "South America": 71870
+ },
+ {
+   "date": "30/12/2021",
+   "World": 1942638,
+   "Africa": 60523,
+   "Asia": 117476,
+   "Europe": 996385,
+   "North America": 646268,
+   "Oceania": 33893,
+   "South America": 88093
+ },
+ {
+   "date": "31/12/2021",
+   "World": 1745530,
+   "Africa": 52550,
+   "Asia": 119607,
+   "Europe": 870224,
+   "North America": 585627,
+   "Oceania": 30363,
+   "South America": 87159
+ },
+ {
+   "date": "01/01/2022",
+   "World": 1225839,
+   "Africa": 40559,
+   "Asia": 117975,
+   "Europe": 744874,
+   "North America": 237873,
+   "Oceania": 38413,
+   "South America": 46145
+ },
+ {
+   "date": "02/01/2022",
+   "World": 920461,
+   "Africa": 23037,
+   "Asia": 119364,
+   "Europe": 373091,
+   "North America": 324601,
+   "Oceania": 29692,
+   "South America": 50676
+ },
+ {
+   "date": "03/01/2022",
+   "World": 2358965,
+   "Africa": 27514,
+   "Asia": 141876,
+   "Europe": 963519,
+   "North America": 1093221,
+   "Oceania": 45696,
+   "South America": 87139
+ },
+ {
+   "date": "04/01/2022",
+   "World": 2498093,
+   "Africa": 58091,
+   "Asia": 189351,
+   "Europe": 1158497,
+   "North America": 894521,
+   "Oceania": 71764,
+   "South America": 125869
+ },
+ {
+   "date": "05/01/2022",
+   "World": 2570417,
+   "Africa": 55236,
+   "Asia": 249099,
+   "Europe": 1281611,
+   "North America": 743110,
+   "Oceania": 76176,
+   "South America": 165185
+ },
+ {
+   "date": "06/01/2022",
+   "World": 2659270,
+   "Africa": 57641,
+   "Asia": 301842,
+   "Europe": 1087801,
+   "North America": 929398,
+   "Oceania": 78495,
+   "South America": 204093
+ },
+ {
+   "date": "07/01/2022",
+   "World": 2943883,
+   "Africa": 48460,
+   "Asia": 318448,
+   "Europe": 1270769,
+   "North America": 971038,
+   "Oceania": 98167,
+   "South America": 237001
+ },
+ {
+   "date": "08/01/2022",
+   "World": 2180544,
+   "Africa": 42379,
+   "Asia": 357177,
+   "Europe": 953624,
+   "North America": 480754,
+   "Oceania": 113663,
+   "South America": 232947
+ },
+ {
+   "date": "09/01/2022",
+   "World": 2032841,
+   "Africa": 28697,
+   "Asia": 374404,
+   "Europe": 842263,
+   "North America": 543499,
+   "Oceania": 72925,
+   "South America": 171053
+ },
+ {
+   "date": "10/01/2022",
+   "World": 3188206,
+   "Africa": 31633,
+   "Asia": 404157,
+   "Europe": 1003187,
+   "North America": 1466894,
+   "Oceania": 94514,
+   "South America": 187821
+ },
+ {
+   "date": "11/01/2022",
+   "World": 3031431,
+   "Africa": 38467,
+   "Asia": 424511,
+   "Europe": 1298912,
+   "North America": 895734,
+   "Oceania": 84803,
+   "South America": 289004
+ },
+ {
+   "date": "12/01/2022",
+   "World": 3448743,
+   "Africa": 39883,
+   "Asia": 570309,
+   "Europe": 1383717,
+   "North America": 959190,
+   "Oceania": 176088,
+   "South America": 319556
+ },
+ {
+   "date": "13/01/2022",
+   "World": 3182699,
+   "Africa": 46602,
+   "Asia": 520975,
+   "Europe": 1212326,
+   "North America": 959671,
+   "Oceania": 128384,
+   "South America": 314741
+ },
+ {
+   "date": "14/01/2022",
+   "World": 3315989,
+   "Africa": 40292,
+   "Asia": 531193,
+   "Europe": 1323282,
+   "North America": 966454,
+   "Oceania": 86666,
+   "South America": 368102
+ },
+ {
+   "date": "15/01/2022",
+   "World": 2497093,
+   "Africa": 36976,
+   "Asia": 563882,
+   "Europe": 977445,
+   "North America": 542552,
+   "Oceania": 113862,
+   "South America": 262376
+ },
+ {
+   "date": "16/01/2022",
+   "World": 2179605,
+   "Africa": 17418,
+   "Asia": 505206,
+   "Europe": 826366,
+   "North America": 535384,
+   "Oceania": 59973,
+   "South America": 235258
+ },
+ {
+   "date": "17/01/2022",
+   "World": 2660492,
+   "Africa": 30200,
+   "Asia": 459481,
+   "Europe": 1032817,
+   "North America": 769895,
+   "Oceania": 85247,
+   "South America": 282852
+ },
+ {
+   "date": "18/01/2022",
+   "World": 3760168,
+   "Africa": 26951,
+   "Asia": 572629,
+   "Europe": 1520402,
+   "North America": 1185880,
+   "Oceania": 85220,
+   "South America": 369086
+ },
+ {
+   "date": "19/01/2022",
+   "World": 4079835,
+   "Africa": 35229,
+   "Asia": 849371,
+   "Europe": 1588393,
+   "North America": 1077392,
+   "Oceania": 68819,
+   "South America": 460631
+ },
+ {
+   "date": "20/01/2022",
+   "World": 3731859,
+   "Africa": 49355,
+   "Asia": 715021,
+   "Europe": 1653101,
+   "North America": 796401,
+   "Oceania": 64434,
+   "South America": 453547
+ },
+ {
+   "date": "21/01/2022",
+   "World": 3835525,
+   "Africa": 37422,
+   "Asia": 719319,
+   "Europe": 1601454,
+   "North America": 1002434,
+   "Oceania": 44204,
+   "South America": 430692
+ },
+ {
+   "date": "22/01/2022",
+   "World": 2772098,
+   "Africa": 41068,
+   "Asia": 680941,
+   "Europe": 1261619,
+   "North America": 334227,
+   "Oceania": 67641,
+   "South America": 386602
+ },
+ {
+   "date": "23/01/2022",
+   "World": 2460816,
+   "Africa": 16482,
+   "Asia": 599873,
+   "Europe": 1036702,
+   "North America": 470885,
+   "Oceania": 32428,
+   "South America": 304446
+ },
+ {
+   "date": "24/01/2022",
+   "World": 3420354,
+   "Africa": 26924,
+   "Asia": 754496,
+   "Europe": 1316571,
+   "North America": 970737,
+   "Oceania": 60247,
+   "South America": 291379
+ },
+ {
+   "date": "25/01/2022",
+   "World": 3651170,
+   "Africa": 56070,
+   "Asia": 709569,
+   "Europe": 1806188,
+   "North America": 607797,
+   "Oceania": 54254,
+   "South America": 417292
+ },
+ {
+   "date": "26/01/2022",
+   "World": 3655079,
+   "Africa": 33504,
+   "Asia": 752782,
+   "Europe": 1764334,
+   "North America": 674377,
+   "Oceania": 52307,
+   "South America": 377775
+ },
+ {
+   "date": "27/01/2022",
+   "World": 3751443,
+   "Africa": 37504,
+   "Asia": 702029,
+   "Europe": 1845407,
+   "North America": 614140,
+   "Oceania": 67582,
+   "South America": 484781
+ },
+ {
+   "date": "28/01/2022",
+   "World": 3617211,
+   "Africa": 28556,
+   "Asia": 679482,
+   "Europe": 1682636,
+   "North America": 751904,
+   "Oceania": 67849,
+   "South America": 406784
+ },
+ {
+   "date": "29/01/2022",
+   "World": 2744088,
+   "Africa": 32972,
+   "Asia": 671491,
+   "Europe": 1368993,
+   "North America": 252866,
+   "Oceania": 47475,
+   "South America": 370291
+ },
+ {
+   "date": "30/01/2022",
+   "World": 2323081,
+   "Africa": 16386,
+   "Asia": 677088,
+   "Europe": 1104817,
+   "North America": 232315,
+   "Oceania": 37021,
+   "South America": 255454
+ },
+ {
+   "date": "31/01/2022",
+   "World": 2718317,
+   "Africa": 29410,
+   "Asia": 621090,
+   "Europe": 1250549,
+   "North America": 595573,
+   "Oceania": 3289,
+   "South America": 218406
+ },
+ {
+   "date": "01/02/2022",
+   "World": 3138801,
+   "Africa": 27003,
+   "Asia": 667153,
+   "Europe": 1691310,
+   "North America": 407288,
+   "Oceania": 42911,
+   "South America": 303136
+ },
+ {
+   "date": "02/02/2022",
+   "World": 3175897,
+   "Africa": 19647,
+   "Asia": 708495,
+   "Europe": 1706171,
+   "North America": 361647,
+   "Oceania": 27477,
+   "South America": 352460
+ },
+ {
+   "date": "03/02/2022",
+   "World": 3185548,
+   "Africa": 31865,
+   "Asia": 689387,
+   "Europe": 1638659,
+   "North America": 360312,
+   "Oceania": 35013,
+   "South America": 430312
+ },
+ {
+   "date": "04/02/2022",
+   "World": 2948145,
+   "Africa": 17563,
+   "Asia": 629503,
+   "Europe": 1451516,
+   "North America": 465293,
+   "Oceania": 29383,
+   "South America": 354887
+ },
+ {
+   "date": "05/02/2022",
+   "World": 2312904,
+   "Africa": 22435,
+   "Asia": 577738,
+   "Europe": 1273614,
+   "North America": 137887,
+   "Oceania": 24138,
+   "South America": 277092
+ },
+ {
+   "date": "06/02/2022",
+   "World": 1888548,
+   "Africa": 16589,
+   "Asia": 583543,
+   "Europe": 1003189,
+   "North America": 110125,
+   "Oceania": 25679,
+   "South America": 149423
+ },
+ {
+   "date": "07/02/2022",
+   "World": 2614723,
+   "Africa": 15320,
+   "Asia": 563394,
+   "Europe": 1463848,
+   "North America": 389604,
+   "Oceania": 31858,
+   "South America": 150699
+ },
+ {
+   "date": "08/02/2022",
+   "World": 2610800,
+   "Africa": 17353,
+   "Asia": 634502,
+   "Europe": 1392356,
+   "North America": 250553,
+   "Oceania": 35511,
+   "South America": 280525
+ },
+ {
+   "date": "09/02/2022",
+   "World": 2428259,
+   "Africa": 21429,
+   "Asia": 637505,
+   "Europe": 1231508,
+   "North America": 241956,
+   "Oceania": 15943,
+   "South America": 279918
+ },
+ {
+   "date": "10/02/2022",
+   "World": 2793727,
+   "Africa": 21034,
+   "Asia": 602840,
+   "Europe": 1674249,
+   "North America": 201412,
+   "Oceania": 33656,
+   "South America": 260536
+ },
+ {
+   "date": "11/02/2022",
+   "World": 2429607,
+   "Africa": 18311,
+   "Asia": 577372,
+   "Europe": 1273991,
+   "North America": 267040,
+   "Oceania": 26544,
+   "South America": 266349
+ },
+ {
+   "date": "12/02/2022",
+   "World": 1928016,
+   "Africa": 13909,
+   "Asia": 510910,
+   "Europe": 1037184,
+   "North America": 128950,
+   "Oceania": 26015,
+   "South America": 211048
+ },
+ {
+   "date": "13/02/2022",
+   "World": 1526150,
+   "Africa": 11536,
+   "Asia": 498008,
+   "Europe": 805755,
+   "North America": 66704,
+   "Oceania": 14437,
+   "South America": 129710
+ },
+ {
+   "date": "14/02/2022",
+   "World": 1708416,
+   "Africa": 13865,
+   "Asia": 484257,
+   "Europe": 816125,
+   "North America": 217000,
+   "Oceania": 38534,
+   "South America": 138635
+ },
+ {
+   "date": "15/02/2022",
+   "World": 1874749,
+   "Africa": 13899,
+   "Asia": 585029,
+   "Europe": 917268,
+   "North America": 139364,
+   "Oceania": 27746,
+   "South America": 191443
+ },
+ {
+   "date": "16/02/2022",
+   "World": 2227711,
+   "Africa": 18127,
+   "Asia": 595719,
+   "Europe": 1209788,
+   "North America": 192145,
+   "Oceania": 5011,
+   "South America": 206921
+ },
+ {
+   "date": "17/02/2022",
+   "World": 2069776,
+   "Africa": 17588,
+   "Asia": 608201,
+   "Europe": 1059154,
+   "North America": 144096,
+   "Oceania": 27132,
+   "South America": 213605
+ },
+ {
+   "date": "18/02/2022",
+   "World": 1981315,
+   "Africa": 16751,
+   "Asia": 564136,
+   "Europe": 1003143,
+   "North America": 163676,
+   "Oceania": 28722,
+   "South America": 204887
+ },
+ {
+   "date": "19/02/2022",
+   "World": 1661770,
+   "Africa": 9369,
+   "Asia": 554922,
+   "Europe": 826731,
+   "North America": 81459,
+   "Oceania": 19849,
+   "South America": 169440
+ },
+ {
+   "date": "20/02/2022",
+   "World": 1308536,
+   "Africa": 15250,
+   "Asia": 500703,
+   "Europe": 646338,
+   "North America": 35698,
+   "Oceania": 20894,
+   "South America": 89653
+ },
+ {
+   "date": "21/02/2022",
+   "World": 1400609,
+   "Africa": 11221,
+   "Asia": 483868,
+   "Europe": 674332,
+   "North America": 100037,
+   "Oceania": 31922,
+   "South America": 99229
+ },
+ {
+   "date": "22/02/2022",
+   "World": 1705109,
+   "Africa": 12999,
+   "Asia": 624387,
+   "Europe": 773776,
+   "North America": 112829,
+   "Oceania": 28737,
+   "South America": 152381
+ },
+ {
+   "date": "23/02/2022",
+   "World": 1917537,
+   "Africa": 13590,
+   "Asia": 660824,
+   "Europe": 878729,
+   "North America": 143948,
+   "Oceania": 39531,
+   "South America": 180915
+ },
+ {
+   "date": "24/02/2022",
+   "World": 1782707,
+   "Africa": 12339,
+   "Asia": 604264,
+   "Europe": 866008,
+   "North America": 102612,
+   "Oceania": 41320,
+   "South America": 156164
+ },
+ {
+   "date": "25/02/2022",
+   "World": 1636377,
+   "Africa": 12098,
+   "Asia": 588884,
+   "Europe": 752038,
+   "North America": 107476,
+   "Oceania": 34580,
+   "South America": 141301
+ },
+ {
+   "date": "26/02/2022",
+   "World": 1434736,
+   "Africa": 8749,
+   "Asia": 641664,
+   "Europe": 583537,
+   "North America": 67548,
+   "Oceania": 17714,
+   "South America": 115524
+ },
+ {
+   "date": "27/02/2022",
+   "World": 1152253,
+   "Africa": 8515,
+   "Asia": 565777,
+   "Europe": 446578,
+   "North America": 27742,
+   "Oceania": 36632,
+   "South America": 67009
+ },
+ {
+   "date": "28/02/2022",
+   "World": 1364203,
+   "Africa": 7746,
+   "Asia": 561408,
+   "Europe": 560762,
+   "North America": 124506,
+   "Oceania": 60973,
+   "South America": 48808
+ },
+ {
+   "date": "01/03/2022",
+   "World": 1613613,
+   "Africa": 7355,
+   "Asia": 692811,
+   "Europe": 759667,
+   "North America": 74539,
+   "Oceania": 47742,
+   "South America": 31499
+ },
+ {
+   "date": "02/03/2022",
+   "World": 1651418,
+   "Africa": 6736,
+   "Asia": 715724,
+   "Europe": 713486,
+   "North America": 66259,
+   "Oceania": 64035,
+   "South America": 85178
+ },
+ {
+   "date": "03/03/2022",
+   "World": 1764032,
+   "Africa": 6103,
+   "Asia": 792265,
+   "Europe": 735717,
+   "North America": 76947,
+   "Oceania": 49606,
+   "South America": 103394
+ },
+ {
+   "date": "04/03/2022",
+   "World": 1752608,
+   "Africa": 6862,
+   "Asia": 744679,
+   "Europe": 770191,
+   "North America": 77759,
+   "Oceania": 42445,
+   "South America": 110672
+ },
+ {
+   "date": "05/03/2022",
+   "World": 1472444,
+   "Africa": 7078,
+   "Asia": 717848,
+   "Europe": 587966,
+   "North America": 32509,
+   "Oceania": 33389,
+   "South America": 93654
+ },
+ {
+   "date": "06/03/2022",
+   "World": 1220636,
+   "Africa": 3424,
+   "Asia": 653048,
+   "Europe": 453928,
+   "North America": 27316,
+   "Oceania": 39821,
+   "South America": 43099
+ },
+ {
+   "date": "07/03/2022",
+   "World": 1429446,
+   "Africa": 3882,
+   "Asia": 593558,
+   "Europe": 631248,
+   "North America": 79126,
+   "Oceania": 71223,
+   "South America": 50409
+ },
+ {
+   "date": "08/03/2022",
+   "World": 1737375,
+   "Africa": 15922,
+   "Asia": 790264,
+   "Europe": 729802,
+   "North America": 50449,
+   "Oceania": 53856,
+   "South America": 97082
+ },
+ {
+   "date": "09/03/2022",
+   "World": 1827391,
+   "Africa": 5184,
+   "Asia": 867328,
+   "Europe": 783760,
+   "North America": 58764,
+   "Oceania": 38010,
+   "South America": 74345
+ },
+ {
+   "date": "10/03/2022",
+   "World": 1865998,
+   "Africa": 17036,
+   "Asia": 757490,
+   "Europe": 880586,
+   "North America": 65181,
+   "Oceania": 53597,
+   "South America": 92108
+ },
+ {
+   "date": "11/03/2022",
+   "World": 1865036,
+   "Africa": 5402,
+   "Asia": 797109,
+   "Europe": 838752,
+   "North America": 63436,
+   "Oceania": 74981,
+   "South America": 85356
+ },
+ {
+   "date": "12/03/2022",
+   "World": 1766894,
+   "Africa": 10795,
+   "Asia": 985408,
+   "Europe": 619728,
+   "North America": 30891,
+   "Oceania": 48269,
+   "South America": 71803
+ },
+ {
+   "date": "13/03/2022",
+   "World": 1299957,
+   "Africa": 2495,
+   "Asia": 735818,
+   "Europe": 469945,
+   "North America": 15577,
+   "Oceania": 42849,
+   "South America": 33273
+ },
+ {
+   "date": "14/03/2022",
+   "World": 1609062,
+   "Africa": 2222,
+   "Asia": 824652,
+   "Europe": 645455,
+   "North America": 44885,
+   "Oceania": 51281,
+   "South America": 40567
+ },
+ {
+   "date": "15/03/2022",
+   "World": 1804809,
+   "Africa": 2943,
+   "Asia": 790248,
+   "Europe": 848155,
+   "North America": 39188,
+   "Oceania": 55448,
+   "South America": 68827
+ },
+ {
+   "date": "16/03/2022",
+   "World": 2219850,
+   "Africa": 4012,
+   "Asia": 1102240,
+   "Europe": 884863,
+   "North America": 62679,
+   "Oceania": 96701,
+   "South America": 69355
+ },
+ {
+   "date": "17/03/2022",
+   "World": 2080192,
+   "Africa": 2502,
+   "Asia": 958852,
+   "Europe": 905273,
+   "North America": 78047,
+   "Oceania": 64827,
+   "South America": 70691
+ },
+ {
+   "date": "18/03/2022",
+   "World": 1882505,
+   "Africa": 13503,
+   "Asia": 756569,
+   "Europe": 918847,
+   "North America": 41489,
+   "Oceania": 66011,
+   "South America": 86086
+ },
+ {
+   "date": "19/03/2022",
+   "World": 1730839,
+   "Africa": 1995,
+   "Asia": 928172,
+   "Europe": 668130,
+   "North America": 22051,
+   "Oceania": 53018,
+   "South America": 57473
+ },
+ {
+   "date": "20/03/2022",
+   "World": 1087249,
+   "Africa": 1383,
+   "Asia": 526205,
+   "Europe": 448643,
+   "North America": 19819,
+   "Oceania": 58507,
+   "South America": 32692
+ },
+ {
+   "date": "21/03/2022",
+   "World": 1485024,
+   "Africa": 7285,
+   "Asia": 631588,
+   "Europe": 688552,
+   "North America": 55225,
+   "Oceania": 75126,
+   "South America": 27248
+ },
+ {
+   "date": "22/03/2022",
+   "World": 1976883,
+   "Africa": 5867,
+   "Asia": 894876,
+   "Europe": 902872,
+   "North America": 40069,
+   "Oceania": 79020,
+   "South America": 54179
+ },
+ {
+   "date": "23/03/2022",
+   "World": 1771676,
+   "Africa": 2335,
+   "Asia": 674308,
+   "Europe": 901684,
+   "North America": 52470,
+   "Oceania": 78536,
+   "South America": 62343
+ },
+ {
+   "date": "24/03/2022",
+   "World": 1779659,
+   "Africa": 14578,
+   "Asia": 625144,
+   "Europe": 942373,
+   "North America": 59113,
+   "Oceania": 84854,
+   "South America": 53597
+ },
+ {
+   "date": "25/03/2022",
+   "World": 1782069,
+   "Africa": 2571,
+   "Asia": 685365,
+   "Europe": 910736,
+   "North America": 68511,
+   "Oceania": 64646,
+   "South America": 50240
+ },
+ {
+   "date": "26/03/2022",
+   "World": 1371755,
+   "Africa": 1925,
+   "Asia": 625375,
+   "Europe": 629171,
+   "North America": 16322,
+   "Oceania": 57824,
+   "South America": 41138
+ },
+ {
+   "date": "27/03/2022",
+   "World": 957057,
+   "Africa": 1483,
+   "Asia": 425358,
+   "Europe": 423534,
+   "North America": 21281,
+   "Oceania": 64878,
+   "South America": 20523
+ },
+ {
+   "date": "28/03/2022",
+   "World": 1477008,
+   "Africa": 5648,
+   "Asia": 744963,
+   "Europe": 587617,
+   "North America": 47781,
+   "Oceania": 73956,
+   "South America": 17043
+ },
+ {
+   "date": "29/03/2022",
+   "World": 1751093,
+   "Africa": 4248,
+   "Asia": 699606,
+   "Europe": 883694,
+   "North America": 41116,
+   "Oceania": 82373,
+   "South America": 40056
+ },
+ {
+   "date": "30/03/2022",
+   "World": 1596535,
+   "Africa": 50184,
+   "Asia": 567108,
+   "Europe": 799167,
+   "North America": 56869,
+   "Oceania": 77377,
+   "South America": 45830
+ },
+ {
+   "date": "31/03/2022",
+   "World": 1812626,
+   "Africa": 2794,
+   "Asia": 534231,
+   "Europe": 1090872,
+   "North America": 63325,
+   "Oceania": 79745,
+   "South America": 41659
+ },
+ {
+   "date": "01/04/2022",
+   "World": 1164150,
+   "Africa": 612,
+   "Asia": 500796,
+   "Europe": 505039,
+   "North America": 52137,
+   "Oceania": 67936,
+   "South America": 37630
+ },
+ {
+   "date": "02/04/2022",
+   "World": 1063021,
+   "Africa": 428,
+   "Asia": 438848,
+   "Europe": 517132,
+   "North America": 24047,
+   "Oceania": 57766,
+   "South America": 24800
+ },
+ {
+   "date": "03/04/2022",
+   "World": 804141,
+   "Africa": 4172,
+   "Asia": 364126,
+   "Europe": 360350,
+   "North America": 10445,
+   "Oceania": 51524,
+   "South America": 13524
+ },
+ {
+   "date": "04/04/2022",
+   "World": 908176,
+   "Africa": 4954,
+   "Asia": 428472,
+   "Europe": 350300,
+   "North America": 32246,
+   "Oceania": 70808,
+   "South America": 21396
+ },
+ {
+   "date": "05/04/2022",
+   "World": 1341950,
+   "Africa": 8879,
+   "Asia": 472126,
+   "Europe": 695078,
+   "North America": 43562,
+   "Oceania": 89318,
+   "South America": 32987
+ },
+ {
+   "date": "06/04/2022",
+   "World": 1443806,
+   "Africa": 2532,
+   "Asia": 461233,
+   "Europe": 805058,
+   "North America": 65270,
+   "Oceania": 75163,
+   "South America": 34550
+ },
+ {
+   "date": "07/04/2022",
+   "World": 1223112,
+   "Africa": 2011,
+   "Asia": 424240,
+   "Europe": 607560,
+   "North America": 91589,
+   "Oceania": 61678,
+   "South America": 36034
+ },
+ {
+   "date": "08/04/2022",
+   "World": 1173446,
+   "Africa": 2145,
+   "Asia": 423806,
+   "Europe": 558390,
+   "North America": 82738,
+   "Oceania": 68386,
+   "South America": 37981
+ },
+ {
+   "date": "09/04/2022",
+   "World": 783966,
+   "Africa": 1470,
+   "Asia": 340572,
+   "Europe": 334916,
+   "North America": 33572,
+   "Oceania": 45983,
+   "South America": 27453
+ },
+ {
+   "date": "10/04/2022",
+   "World": 581418,
+   "Africa": 1140,
+   "Asia": 249594,
+   "Europe": 249502,
+   "North America": 11963,
+   "Oceania": 57057,
+   "South America": 12162
+ },
+ {
+   "date": "11/04/2022",
+   "World": 966134,
+   "Africa": 4229,
+   "Asia": 381967,
+   "Europe": 465157,
+   "North America": 41684,
+   "Oceania": 58350,
+   "South America": 14747
+ },
+ {
+   "date": "12/04/2022",
+   "World": 1072134,
+   "Africa": 3284,
+   "Asia": 333092,
+   "Europe": 601840,
+   "North America": 42646,
+   "Oceania": 63684,
+   "South America": 27588
+ },
+ {
+   "date": "13/04/2022",
+   "World": 1056663,
+   "Africa": 2436,
+   "Asia": 342953,
+   "Europe": 491274,
+   "North America": 122763,
+   "Oceania": 64708,
+   "South America": 32529
+ },
+ {
+   "date": "14/04/2022",
+   "World": 979071,
+   "Africa": 6299,
+   "Asia": 289315,
+   "Europe": 525285,
+   "North America": 73016,
+   "Oceania": 54683,
+   "South America": 30473
+ },
+ {
+   "date": "15/04/2022",
+   "World": 702125,
+   "Africa": 2273,
+   "Asia": 305861,
+   "Europe": 295109,
+   "North America": 37340,
+   "Oceania": 43760,
+   "South America": 17782
+ },
+ {
+   "date": "16/04/2022",
+   "World": 587834,
+   "Africa": 1484,
+   "Asia": 232608,
+   "Europe": 268765,
+   "North America": 31626,
+   "Oceania": 45607,
+   "South America": 7744
+ },
+ {
+   "date": "17/04/2022",
+   "World": 423447,
+   "Africa": 1066,
+   "Asia": 168292,
+   "Europe": 197320,
+   "North America": 11310,
+   "Oceania": 39925,
+   "South America": 5534
+ },
+ {
+   "date": "18/04/2022",
+   "World": 478466,
+   "Africa": 1061,
+   "Asia": 253347,
+   "Europe": 95016,
+   "North America": 75124,
+   "Oceania": 42094,
+   "South America": 11824
+ },
+ {
+   "date": "19/04/2022",
+   "World": 951300,
+   "Africa": 6638,
+   "Asia": 239498,
+   "Europe": 565923,
+   "North America": 51666,
+   "Oceania": 70923,
+   "South America": 16652
+ },
+ {
+   "date": "20/04/2022",
+   "World": 950781,
+   "Africa": 5219,
+   "Asia": 219959,
+   "Europe": 529474,
+   "North America": 90095,
+   "Oceania": 65309,
+   "South America": 40725
+ },
+ {
+   "date": "21/04/2022",
+   "World": 896249,
+   "Africa": 5481,
+   "Asia": 227521,
+   "Europe": 503271,
+   "North America": 76908,
+   "Oceania": 59725,
+   "South America": 23343
+ },
+ {
+   "date": "22/04/2022",
+   "World": 803255,
+   "Africa": 5163,
+   "Asia": 192024,
+   "Europe": 437058,
+   "North America": 110501,
+   "Oceania": 46004,
+   "South America": 12505
+ },
+ {
+   "date": "23/04/2022",
+   "World": 510563,
+   "Africa": 4470,
+   "Asia": 189156,
+   "Europe": 235512,
+   "North America": 29408,
+   "Oceania": 41022,
+   "South America": 10995
+ },
+ {
+   "date": "24/04/2022",
+   "World": 380578,
+   "Africa": 3379,
+   "Asia": 142192,
+   "Europe": 167684,
+   "North America": 20022,
+   "Oceania": 39624,
+   "South America": 7677
+ },
+ {
+   "date": "25/04/2022",
+   "World": 583983,
+   "Africa": 3453,
+   "Asia": 167519,
+   "Europe": 270238,
+   "North America": 76228,
+   "Oceania": 45962,
+   "South America": 20583
+ },
+ {
+   "date": "26/04/2022",
+   "World": 642666,
+   "Africa": 6462,
+   "Asia": 227324,
+   "Europe": 275130,
+   "North America": 57165,
+   "Oceania": 52031,
+   "South America": 24554
+ },
+ {
+   "date": "27/04/2022",
+   "World": 810653,
+   "Africa": 6732,
+   "Asia": 109550,
+   "Europe": 496409,
+   "North America": 113486,
+   "Oceania": 60272,
+   "South America": 24204
+ },
+ {
+   "date": "28/04/2022",
+   "World": 717000,
+   "Africa": 5005,
+   "Asia": 195231,
+   "Europe": 350409,
+   "North America": 90765,
+   "Oceania": 51257,
+   "South America": 24333
+ },
+ {
+   "date": "29/04/2022",
+   "World": 641848,
+   "Africa": 5646,
+   "Asia": 155690,
+   "Europe": 336337,
+   "North America": 77761,
+   "Oceania": 46370,
+   "South America": 20044
+ },
+ {
+   "date": "30/04/2022",
+   "World": 359561,
+   "Africa": 5899,
+   "Asia": 116629,
+   "Europe": 156111,
+   "North America": 31125,
+   "Oceania": 31342,
+   "South America": 18455
+ },
+ {
+   "date": "01/05/2022",
+   "World": 300038,
+   "Africa": 5175,
+   "Asia": 86743,
+   "Europe": 117868,
+   "North America": 21604,
+   "Oceania": 47058,
+   "South America": 21590
+ },
+ {
+   "date": "02/05/2022",
+   "World": 470521,
+   "Africa": 4863,
+   "Asia": 117514,
+   "Europe": 191817,
+   "North America": 100131,
+   "Oceania": 47503,
+   "South America": 8693
+ },
+ {
+   "date": "03/05/2022",
+   "World": 664937,
+   "Africa": 4228,
+   "Asia": 149963,
+   "Europe": 376629,
+   "North America": 57057,
+   "Oceania": 51828,
+   "South America": 25232
+ },
+ {
+   "date": "04/05/2022",
+   "World": 606989,
+   "Africa": 8650,
+   "Asia": 116103,
+   "Europe": 258027,
+   "North America": 133067,
+   "Oceania": 67439,
+   "South America": 23703
+ },
+ {
+   "date": "05/05/2022",
+   "World": 586706,
+   "Africa": 10340,
+   "Asia": 113233,
+   "Europe": 286020,
+   "North America": 100703,
+   "Oceania": 48942,
+   "South America": 27468
+ },
+ {
+   "date": "06/05/2022",
+   "World": 627550,
+   "Africa": 9782,
+   "Asia": 136280,
+   "Europe": 271532,
+   "North America": 142679,
+   "Oceania": 43254,
+   "South America": 24023
+ },
+ {
+   "date": "07/05/2022",
+   "World": 344536,
+   "Africa": 9139,
+   "Asia": 110052,
+   "Europe": 127035,
+   "North America": 35375,
+   "Oceania": 44534,
+   "South America": 18401
+ },
+ {
+   "date": "08/05/2022",
+   "World": 278455,
+   "Africa": 5876,
+   "Asia": 90560,
+   "Europe": 99342,
+   "North America": 11022,
+   "Oceania": 47432,
+   "South America": 24223
+ },
+ {
+   "date": "09/05/2022",
+   "World": 712509,
+   "Africa": 4088,
+   "Asia": 236372,
+   "Europe": 257649,
+   "North America": 141047,
+   "Oceania": 57903,
+   "South America": 15450
+ },
+ {
+   "date": "10/05/2022",
+   "World": 631892,
+   "Africa": 10633,
+   "Asia": 168482,
+   "Europe": 269806,
+   "North America": 89898,
+   "Oceania": 66994,
+   "South America": 26079
+ },
+ {
+   "date": "11/05/2022",
+   "World": 685677,
+   "Africa": 11049,
+   "Asia": 170343,
+   "Europe": 234442,
+   "North America": 175207,
+   "Oceania": 67464,
+   "South America": 27172
+ },
+ {
+   "date": "12/05/2022",
+   "World": 641400,
+   "Africa": 10766,
+   "Asia": 173895,
+   "Europe": 246434,
+   "North America": 125831,
+   "Oceania": 55276,
+   "South America": 29198
+ },
+ {
+   "date": "13/05/2022",
+   "World": 564741,
+   "Africa": 9077,
+   "Asia": 98649,
+   "Europe": 264380,
+   "North America": 101116,
+   "Oceania": 59171,
+   "South America": 32348
+ },
+ {
+   "date": "14/05/2022",
+   "World": 441027,
+   "Africa": 9062,
+   "Asia": 217495,
+   "Europe": 121122,
+   "North America": 23261,
+   "Oceania": 47620,
+   "South America": 22467
+ },
+ {
+   "date": "15/05/2022",
+   "World": 372114,
+   "Africa": 4597,
+   "Asia": 139905,
+   "Europe": 92406,
+   "North America": 36690,
+   "Oceania": 53461,
+   "South America": 45055
+ },
+ {
+   "date": "16/05/2022",
+   "World": 607117,
+   "Africa": 4514,
+   "Asia": 137809,
+   "Europe": 178035,
+   "North America": 190758,
+   "Oceania": 77952,
+   "South America": 18049
+ },
+ {
+   "date": "17/05/2022",
+   "World": 595301,
+   "Africa": 6645,
+   "Asia": 155848,
+   "Europe": 262612,
+   "North America": 93701,
+   "Oceania": 66740,
+   "South America": 9755
+ },
+ {
+   "date": "18/05/2022",
+   "World": 739373,
+   "Africa": 9984,
+   "Asia": 176940,
+   "Europe": 248693,
+   "North America": 231604,
+   "Oceania": 63955,
+   "South America": 8197
+ },
+ {
+   "date": "19/05/2022",
+   "World": 593793,
+   "Africa": 1879,
+   "Asia": 186713,
+   "Europe": 186850,
+   "North America": 147591,
+   "Oceania": 58175,
+   "South America": 12585
+ },
+ {
+   "date": "20/05/2022",
+   "World": 613279,
+   "Africa": 14529,
+   "Asia": 163077,
+   "Europe": 151684,
+   "North America": 161524,
+   "Oceania": 53626,
+   "South America": 68839
+ },
+ {
+   "date": "21/05/2022",
+   "World": 373270,
+   "Africa": 5628,
+   "Asia": 167198,
+   "Europe": 116903,
+   "North America": 32905,
+   "Oceania": 43676,
+   "South America": 6960
+ },
+ {
+   "date": "22/05/2022",
+   "World": 338418,
+   "Africa": 7948,
+   "Asia": 139702,
+   "Europe": 45436,
+   "North America": 24875,
+   "Oceania": 40154,
+   "South America": 80303
+ },
+ {
+   "date": "23/05/2022",
+   "World": 515813,
+   "Africa": 2487,
+   "Asia": 130363,
+   "Europe": 160013,
+   "North America": 153946,
+   "Oceania": 51479,
+   "South America": 17525
+ },
+ {
+   "date": "24/05/2022",
+   "World": 580425,
+   "Africa": 6832,
+   "Asia": 163257,
+   "Europe": 203982,
+   "North America": 105422,
+   "Oceania": 54914,
+   "South America": 46018
+ },
+ {
+   "date": "25/05/2022",
+   "World": 632975,
+   "Africa": 7751,
+   "Asia": 164762,
+   "Europe": 163124,
+   "North America": 222108,
+   "Oceania": 53969,
+   "South America": 21261
+ },
+ {
+   "date": "26/05/2022",
+   "World": 517685,
+   "Africa": 6190,
+   "Asia": 151720,
+   "Europe": 112323,
+   "North America": 155989,
+   "Oceania": 46918,
+   "South America": 44545
+ },
+ {
+   "date": "27/05/2022",
+   "World": 568477,
+   "Africa": 5022,
+   "Asia": 155222,
+   "Europe": 197958,
+   "North America": 119803,
+   "Oceania": 39231,
+   "South America": 51241
+ },
+ {
+   "date": "28/05/2022",
+   "World": 284706,
+   "Africa": 4689,
+   "Asia": 138473,
+   "Europe": 55225,
+   "North America": 18459,
+   "Oceania": 32100,
+   "South America": 35760
+ },
+ {
+   "date": "29/05/2022",
+   "World": 273082,
+   "Africa": 2303,
+   "Asia": 119949,
+   "Europe": 40317,
+   "North America": 9214,
+   "Oceania": 31898,
+   "South America": 69401
+ },
+ {
+   "date": "30/05/2022",
+   "World": 403137,
+   "Africa": 2872,
+   "Asia": 108190,
+   "Europe": 140135,
+   "North America": 78506,
+   "Oceania": 42799,
+   "South America": 30635
+ },
+ {
+   "date": "31/05/2022",
+   "World": 619673,
+   "Africa": 6051,
+   "Asia": 140118,
+   "Europe": 194957,
+   "North America": 178223,
+   "Oceania": 44369,
+   "South America": 55955
+ },
+ {
+   "date": "01/06/2022",
+   "World": 684252,
+   "Africa": 4779,
+   "Asia": 142700,
+   "Europe": 189202,
+   "North America": 251507,
+   "Oceania": 45225,
+   "South America": 50839
+ },
+ {
+   "date": "02/06/2022",
+   "World": 521067,
+   "Africa": 6796,
+   "Asia": 131151,
+   "Europe": 155138,
+   "North America": 131464,
+   "Oceania": 38596,
+   "South America": 57922
+ },
+ {
+   "date": "03/06/2022",
+   "World": 539045,
+   "Africa": 3749,
+   "Asia": 125181,
+   "Europe": 164026,
+   "North America": 164553,
+   "Oceania": 34297,
+   "South America": 47239
+ },
+ {
+   "date": "04/06/2022",
+   "World": 247579,
+   "Africa": 3249,
+   "Asia": 112443,
+   "Europe": 57088,
+   "North America": 38690,
+   "Oceania": 24600,
+   "South America": 11509
+ },
+ {
+   "date": "05/06/2022",
+   "World": 254046,
+   "Africa": 2980,
+   "Asia": 104002,
+   "Europe": 47204,
+   "North America": 20110,
+   "Oceania": 23445,
+   "South America": 56305
+ },
+ {
+   "date": "06/06/2022",
+   "World": 392844,
+   "Africa": 2661,
+   "Asia": 86295,
+   "Europe": 66355,
+   "North America": 126135,
+   "Oceania": 38596,
+   "South America": 72802
+ }
+]
