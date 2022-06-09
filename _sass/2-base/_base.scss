@@ -123,6 +123,15 @@ img {
   }
 }
 
+.image-caption {
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+    font-weight: normal;
+    font-size: 16px;
+    color: $gray-blue;
+}
+
 
 // Links
 a {
