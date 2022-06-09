@@ -5,20 +5,48 @@ image: about_1.jpg
 permalink: /about/
 ---
 
-My name is Natali Anderson. I'm an actress. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+My name is Alex Hill, I'm currently a 4<sup>th</sup> semester student at the Southern Alberta Institute of Technology (SAIT), in their Information Technology - Software Development diploma program. Alex’s knowledge of object-oriented programming languages, along with database-based backend systems has expanded greatly since my time as a Business Analyst with experience working on large scale multi-national projects throughout Central Europe, with a focus on Data preparation and Data Analytics. 
 
-#### Austin scenester...
-<small>2008 - 2017</small>
+Past experiences include working on a long term Swiss banking project using SQL, SSIS, SSRS, to facilitate multiple projects’ data needs, accustomed to dealing with rapidly changing requirements and expectations.
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+I started my education in the United Kingdom, completing secondary education in Estonia and Poland. Returned to the United Kingdom to pursue a degree at Sheffield Hallam University before leaving to pursue the opportunity to work at Deloitte in the Czech Republic.
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+This unique experience has provided an insight into how to deal with culturally diverse projects and teams, furthered by my work on financial projects in Switzerland and Slovenia during my time at Deloitte.
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+I'm passionate about furthering my understanding of the complex data needs of companies and their clients, presenting the best tools and practices to transform a clients raw data into easy to use information packages, so as to allow projects to stay on time and budget while increase efficiency. 
+ 
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+#### Southern Alberta Institute of Technology - Software Development Diploma
+<small>September 2020 - Present Day</small>
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+* Focus on Object-oriented programming.
+* Several projects completed as part of course load, such as basic home inventory web application with a MYSQL backend, Binary Search Tree implementation for word tracking in external data files, Custom implementation of common sorting algorithms in Java.
+
+#### Deloitte - Business Analyst
+<small>July 2013 - November 2014</small>
+
+Engaged as support to a developing Data & Analytics department, with a focus on Data Extraction, Transformation and, Loading for projects across Central Europe. Required to adapt to changing requirements and timelines to meet client expectations.
+* Member of the Analytics and Forensic Technology practice where I worked on two major projects and worked as a Systems Administrator.
+Projects include:
+* International forensic data analytics project in financial services industry (Zurich, Switzerland, January 2014 to September 2014)
+> * <small>Data integrity verification</small>
+> * <small>Data profiling and data quality testing</small>
+> * <small>Extraction, Transformation, Loading (ETL) and Business Testing.</small>
+> * <small>General Data review</small>
+* Database administration for large scale AQR (Asset Quality Review) project for two national banks (Ljubljana, Slovenia, July 2013 to August 2013)
+
+#### Sheffield Hallam University - Computer Networking and Information Security
+<small>September 2011 -  June2013</small>
+
+Attended for 2 years before leaving to pursue a career opportunity with the Analytics and Forensic Technology Practice at Deloitte in Prague, Czech Republic.
+
+#### American School of Warsaw - International Baccalaureate 
+<small>August 2007 - June 2010</small>
+
+Received certificates in the following courses:
+* Computer Science HL
+* Maths HL
+* English HL
+* Spanish Ab Initio
+* Physics SL
+* Psychology SL
