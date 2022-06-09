@@ -51,9 +51,9 @@ Attended for 2 years before leaving to pursue a career opportunity with the Anal
 <small>August 2007 - June 2010</small>
 
 Received certificates in the following courses:
-* Computer Science HL
-* Maths HL
-* English HL
-* Spanish Ab Initio
-* Physics SL
-* Psychology SL
+> * <small>Computer Science HL</small>
+> * <small>Maths HL</small>
+> * <small>English HL</small>
+> * <small>Spanish Ab Initio</small>
+> * <small>Physics SL</small>
+> * <small>Psychology SL</small>
