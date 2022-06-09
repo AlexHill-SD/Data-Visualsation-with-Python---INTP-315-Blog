@@ -15,12 +15,15 @@ This unique experience has provided an insight into how to deal with culturally 
 
 I'm passionate about furthering my understanding of the complex data needs of companies and their clients, presenting the best tools and practices to transform a clients raw data into easy to use information packages, so as to allow projects to stay on time and budget while increase efficiency. 
  
+------------------------
 
 #### Southern Alberta Institute of Technology - Software Development Diploma
 <small>September 2020 - Present Day</small>
 
 * Focus on Object-oriented programming.
 * Several projects completed as part of course load, such as basic home inventory web application with a MYSQL backend, Binary Search Tree implementation for word tracking in external data files, Custom implementation of common sorting algorithms in Java.
+
+------------------------
 
 #### Deloitte - Business Analyst
 <small>July 2013 - November 2014</small>
@@ -35,10 +38,14 @@ Projects include:
 > * <small>General Data review</small>
 * Database administration for large scale AQR (Asset Quality Review) project for two national banks (Ljubljana, Slovenia, July 2013 to August 2013)
 
+------------------------
+
 #### Sheffield Hallam University - Computer Networking and Information Security
 <small>September 2011 -  June2013</small>
 
 Attended for 2 years before leaving to pursue a career opportunity with the Analytics and Forensic Technology Practice at Deloitte in Prague, Czech Republic.
+
+------------------------
 
 #### American School of Warsaw - International Baccalaureate 
 <small>August 2007 - June 2010</small>
