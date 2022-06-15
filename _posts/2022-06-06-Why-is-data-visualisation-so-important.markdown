@@ -6,6 +6,7 @@ image:  blog_title_imgs/circuit_board_colour.jpg
 tags:   [python, data visualisation, matplotlib, plotly]
 description: "Being able to easily convey the patterns hidden within a dataset is one of the most vital abilities a developer can have."
 datatable: true
+#WordCount: 1769 (without tables/images)
 ---
 # The importance of data visualisation
 In today's data driven world, being able to easily convey the patterns, or trends, hidden within a dataset is one of the most vital abilities a developer can have.

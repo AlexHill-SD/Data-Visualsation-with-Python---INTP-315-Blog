@@ -65,6 +65,17 @@ sass:
   sass_dir: _sass
   style: compressed
 
+#-------------------------
+#Compress HTML - http://jch.penibelst.de/
+compress_html:
+  clippings: [all] 
+  comments: []
+  startings: []
+  endings: []
+  ignore:
+    envs: []
+  blanklines: true #remove entirely blank lines
+  profile: false #display table at bottom of page to show change in page size
 
 #-------------------------------
 # Exclude from processing.
