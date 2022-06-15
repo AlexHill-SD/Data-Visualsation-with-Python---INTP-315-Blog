@@ -12,8 +12,20 @@
           <div class="copyright">
             <p>&copy; {{site.time | date: '%Y'}} Theme Crafted & Designed by <a href="https://github.com/artemsheludko">Artem Sheludko</a></p>
           </div>
-          <div class="footer-social">
+          <div class="footer-social" style="margin-left: auto;">
             <ul class="list-reset">
+              {% if site.linkedin %}
+              <li>
+                <a href="{{ site.linkedin }}" class="social-profiles-link">LinkedIn</a>
+              </li>
+              {% else %} {% endif %}
+
+              {% if site.github %}
+              <li>
+                <a href="{{ site.github }}" class="social-profiles-link">GitHub</a>
+              </li>
+              {% else %} {% endif %}
+
               {% if site.facebook %}
               <li><a href="{{ site.facebook }}">Facebook</a></li>
               {% else %} {% endif %}

@@ -68,14 +68,14 @@ sass:
 #-------------------------
 #Compress HTML - http://jch.penibelst.de/
 compress_html:
-  clippings: [all] 
+  clippings: all
   comments: []
   startings: []
   endings: []
   ignore:
     envs: []
-  blanklines: true #remove entirely blank lines
-  profile: false #display table at bottom of page to show change in page size
+  blanklines: false #remove only entirely blank lines
+  profile: true #display table at bottom of page to show change in page size
 
 #-------------------------------
 # Exclude from processing.
