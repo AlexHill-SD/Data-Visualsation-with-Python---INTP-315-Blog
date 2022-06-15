@@ -38,52 +38,38 @@ As I've mentioned there are numerous forms of data visualisation. You could use 
 
 In order to provide a side by side comparison of how effective data visualisation can be, let's look at the following table of data that describes the number of Covid cases per country.
 
-> | **Country**            | **# of cases** |
-> |:-----------------------|---------------:|
-> | Albania                | 23             |
-> | Andorra                | 1              |
-> | Austria                | 361            |
-> | Belarus                | 21             |
-> | Belgium                | 399            |
-> | Bosnia and Herzegovina | 11             |
-> | Bulgaria               | 23             |
-> | Croatia                | 25             |
-> | Cyprus                 | 6              |
-> | Czech Republic         | 116            |
-> | Denmark                | 676            |
-> | Estonia                | 27             |
-> | Finland                | 155            |
-> | France                 | 2876           |
-> | Germany                | 2369           |
-> | Greece                 | 133            |
-> | Hungary                | 16             |
-> | Iceland                | 117            |
-> | Ireland                | 70             |
-> | Italy                  | 15113          |
-> | Latvia                 | 16             |
-> | Liechtenstein          | 4              |
-> | Lithuania              | 3              |
-> | Luxembourg             | 26             |
-> | Macedonia              | 9              |
-> | Malta                  | 9              |
-> | Moldova                | 6              |
-> | Monaco                 | 1              |
-> | Netherlands            | 614            |
-> | Norway                 | 621            |
-> | Poland                 | 49             |
-> | Portugal               | 78             |
-> | Republic of Serbia     | 24             |
-> | Romania                | 64             |
-> | Russia                 | 34             |
-> | San Marino             | 67             |
-> | Slovakia               | 21             |
-> | Slovenia               | 96             |
-> | Spain                  | 3004           |
-> | Sweden                 | 620            |
-> | Switzerland            | 854            |
-> | Turkey                 | 2              |
-> | Ukraine                | 3              |
-> | United   Kingdom       | 590            |
+<blockquote style="max-width:100%;overflow:auto;max-height:500px;display:block;">
+    <table>
+      {% for row in site.data.euro_covid_cases %}
+        {% if forloop.first %}
+        <tr>
+          {% for pair in row %}
+            {% assign mod = forloop.index |  modulo: 2 %}
+            {% if mod != 0 %}
+              <th>{{ pair[0] | capitalize }}</th>
+            {% else %}
+              <th style="text-align: right;">{{ pair[0] | capitalize }}</th>
+            {% endif %}
+          {% endfor %}
+        </tr>
+        {% endif %}
+        <tr>
+          {% for pair in row %}
+            {% assign mod = forloop.index |  modulo: 2 %}
+            {% if mod != 0 %}
+              <td>{{ pair[1] | capitalize }}</td>
+            {% else %}
+              <td style="text-align: right;">{{ pair[1] | capitalize }}</td>
+            {% endif %}
+          {% endfor %}
+        </tr>
+      {% endfor %}
+    </table>
+</blockquote>
+
+{% for row in site.data.euro_covid_cases %}
+  {{ row["country"] }}
+{% endfor %}
 
 Given the relatively small dataset, it's not terribly hard to find the country with the highest number of Covid cases, however this dataset only consists of 44 rows. Imagine a dataset that has hundreds of thousands, or even millions, of rows of data that you have to summarise for a client. 
 
@@ -109,8 +95,8 @@ The bullet points above cover just a few of the advantages to data visualisation
 
 As we've already covered, sometimes datasets can contain hundreds of thousands of pieces of information. The earlier example of Covid cases was a small dataset that consisted of only 2 columns, and 44 rows. Let's take a look at the following sample table that shows the total number of Covid cases per continent since the beginning of the pandemic. This table is much larger than the previous example table, but still only consists of a fraction of the larger global dataset, which has 230 columns. 
 
-<blockquote>
-    <table style="max-width:100%;overflow:auto;max-height:500px;display:block">
+<blockquote style="max-width:100%;overflow:auto;max-height:500px;display:block;">
+    <table>
       {% for row in site.data.continental_covid_new_cases %}
         {% if forloop.first %}
         <tr>
@@ -119,9 +105,11 @@ As we've already covered, sometimes datasets can contain hundreds of thousands o
           {% endfor %}
         </tr>
         {% endif %}
-        {% tablerow pair in row %}
-          {{ pair[1] }}
-        {% endtablerow %}
+        <tr>
+          {% for pair in row %}
+              <td>{{ pair[1] | capitalize }}</td>
+          {% endfor %}
+        </tr>
       {% endfor %}
     </table>
 </blockquote>
