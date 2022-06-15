@@ -31,7 +31,7 @@ based off [this guide](https://jekyllrb.com/docs/installation/windows/)
 * download the theme
 * make sure you have your previously created repo on your pc
 * follow installation instructions (if applicable)
-* Optionally: follow the github pages quickstart guide
+* Optionally: follow the github pages [quickstart guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 
 ## Hosting your site
 
