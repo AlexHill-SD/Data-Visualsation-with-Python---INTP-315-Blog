@@ -75,7 +75,7 @@ compress_html:
   ignore:
     envs: []
   blanklines: false #remove only entirely blank lines
-  profile: true #display table at bottom of page to show change in page size
+  profile: false #display table at bottom of page to show change in page size
 
 #-------------------------------
 # Exclude from processing.
