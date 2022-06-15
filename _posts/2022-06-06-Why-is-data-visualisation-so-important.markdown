@@ -67,10 +67,6 @@ In order to provide a side by side comparison of how effective data visualisatio
     </table>
 </blockquote>
 
-{% for row in site.data.euro_covid_cases %}
-  {{ row["country"] }}
-{% endfor %}
-
 Given the relatively small dataset, it's not terribly hard to find the country with the highest number of Covid cases, however this dataset only consists of 44 rows. Imagine a dataset that has hundreds of thousands, or even millions, of rows of data that you have to summarise for a client. 
 
 The image below, however, is an example of a bubble map, of the number of Covid cases in Europe as of March 13<sup>th</sup>, 2021, overlayed onto a map of Europe. As you can see it is easy to see that the largest concentration of Covid cases at the time was centered around Italy, with no need to scroll through rows upon rows of raw data.
