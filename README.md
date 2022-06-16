@@ -42,3 +42,7 @@ based off [this guide](https://jekyllrb.com/docs/installation/windows/)
 
 * push your jekyll repo to github, github pages will automatically run it through their serverside jekyll and your page will be hosted at the previously mentioned URL
 * For example see: [my repo](https://github.com/AlexHill-SD/Data-Visualsation-with-Python---INTP-315-Blog)
+
+## Editing your site
+
+* I recommend using Sublime Text to edit all your files, as it can handle most file types, and has handy packages to make your life easier
