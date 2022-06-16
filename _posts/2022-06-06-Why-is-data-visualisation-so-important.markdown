@@ -2,7 +2,7 @@
 layout: post
 title:  "Why is data visualisation so important?"
 date:   2022-06-06 13:44:55 -0600
-image:  blog_title_imgs/circuit_board_colour.jpg
+image:  blog_title_imgs/circuit_board_colour_mini.jpg
 tags:   [python, data visualisation, matplotlib, plotly]
 description: "Being able to easily convey the patterns hidden within a dataset is one of the most vital abilities a developer can have."
 datatable: true
