@@ -24,8 +24,9 @@ based off [this guide](https://jekyllrb.com/docs/installation/windows/)
 * create new repo
 * make sure the you have a branch called gh-pages 
   * only the gh-pages branch will be published via github pages, so other branches can be used to store related materials, but gh-pages is where you should push your website files
-* the URL for your repo, example: ```AlexHill-SD/Data-Visualsation-with-Python---INTP-315-Blog/settings/pages``` forms the basis of your github pages URL
+* the URL for your repo, example: ```AlexHill-SD/Data-Visualsation-with-Python---INTP-315-Blog``` forms the basis of your github pages URL
 * Format for github pages URL is: ```username.github.io/repo-name```
+ * So in my case it's ```AlexHill-SD.github.io/Data-Visualsation-with-Python---INTP-315-Blog```
 
 ## Starting your site
 
