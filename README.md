@@ -23,7 +23,7 @@ based off [this guide](https://jekyllrb.com/docs/installation/windows/)
 
 * create new repo
 * make sure the you have a branch called gh-pages 
-* only the gh-pages branch will be published via github pages, so other branches can be used to store related materials, but gh-pages is where you should push your website files
+  * only the gh-pages branch will be published via github pages, so other branches can be used to store related materials, but gh-pages is where you should push your website files
 * the URL for your repo, example: ```AlexHill-SD/Data-Visualsation-with-Python---INTP-315-Blog/settings/pages``` forms the basis of your github pages URL
 * Format for github pages URL is: ```username.github.io/repo-name```
 
@@ -32,7 +32,9 @@ based off [this guide](https://jekyllrb.com/docs/installation/windows/)
 * Preferred: Find a theme online in such places like [jekyllthemes.dev](https://jekyllthemes.dev/) or [jekyllthemes.org](http://jekyllthemes.org/)
 * download the theme
 * make sure you have your previously created repo on your pc
+* extract the theme into your gh-pages repo branch locally
 * follow installation instructions (if applicable)
+  * Usually involves changing config properties, etc 
 * Optionally: follow the github pages [quickstart guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 
 ## Hosting your site
