@@ -38,6 +38,11 @@ based off [this guide](https://jekyllrb.com/docs/installation/windows/)
   * Usually involves changing config properties, etc 
 * Optionally: follow the github pages [quickstart guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 
+## Local host your site for quick check of changes/debugging
+
+* run ```bundle exec jekyll serve```
+* if you get an error, run the command ```bundle install```
+
 ## Hosting your site
 
 * push your jekyll repo to github, github pages will automatically run it through their serverside jekyll and your page will be hosted at the previously mentioned URL
@@ -46,3 +51,4 @@ based off [this guide](https://jekyllrb.com/docs/installation/windows/)
 ## Editing your site
 
 * I recommend using Sublime Text to edit all your files, as it can handle most file types, and has handy packages to make your life easier
+
