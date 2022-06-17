@@ -191,3 +191,25 @@ If you were the client, which would you rather look at? It is important to keep 
 > #### Making sure to choose the right type of data visualisation is as important as making sure your data is well structured for the task at hand.
 
 ---------------------
+
+#### References
+
+[1] EU Covid data courtesy of: [everviz](https://app.everviz.com/create?uuid=mnrw1212)
+
+[2] Global Covid data courtesy of: [data.world](https://data.world/markmarkoh/coronavirus-data)
+
+[3] Bubble map and Doughtnut piechart courtesy of: [everviz](https://app.everviz.com/)
+
+[4] Dashboard example courtesy of: [ArcGIS](https://learn.arcgis.com/en/projects/create-a-covid-19-dashboard/) 
+
+[5] Types of data visualisation courtesy of: [Tableau](https://www.tableau.com/learn/articles/data-visualization)
+
+[6] Header imagescourtesy of: [Pexels](https://www.pexels.com/photo/circuit-board-2182863/)
+
+#### Disclaimer
+<em> All written content is my own work product. I do not claim to be an expert, and cannot guarantee that the opinions within this blogpost are 100% correct. </em>
+
+#### Acknowledgements
+<em>Big thanks to Julian Kapronczai for putting up with my moaning during the process of writing this blog.</em>
+
+<em>Big thanks to Gavin, Eileen, & Philippa Hill for their help with proof reading and being a sounding board for my writing approach.</em>
