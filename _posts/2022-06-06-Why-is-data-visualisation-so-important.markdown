@@ -19,7 +19,7 @@ When it comes to transforming raw data into something even a casual observer can
 
 In order to understand why data visualisation is so important let's look at the following example. 
 
-> Show a client where to focus their energy, when it comes to tailoring their platform, based on the geographic location of the biggest proportion of their user base.
+> Show a client where to focus their energy, in terms of advertising/marketing, based on the geographic location of the biggest proportion of their user base.
 
 At face value this seems relatively simple, and while that's true there are numerous ways to approach this task. Since this blog is covering the importance of data visualisation, let's see how data visualisation can provide a solution that will satisfy the requirements while being easy to understand.
 
