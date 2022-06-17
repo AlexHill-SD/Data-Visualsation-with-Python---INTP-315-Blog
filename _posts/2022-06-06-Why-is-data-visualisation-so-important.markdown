@@ -8,6 +8,10 @@ description: "Being able to easily convey the patterns hidden within a dataset i
 datatable: true
 #WordCount: 1769 (without tables/images)
 ---
+## Video Summary
+<video src="https://user-images.githubusercontent.com/90409237/174344014-61f74ab3-7bb9-48a6-8aff-a7b6f7afdddb.mp4" data-canonical-src="https://user-images.githubusercontent.com/90409237/174344014-61f74ab3-7bb9-48a6-8aff-a7b6f7afdddb.mp4" controls="controls" muted="muted" style="width:100%; height:auto;">
+</video>
+
 # The importance of data visualisation
 In today's data driven world, being able to easily convey the patterns, or trends, hidden within a dataset is one of the most vital abilities a developer can have.
 
