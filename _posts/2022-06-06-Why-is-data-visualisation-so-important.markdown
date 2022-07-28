@@ -200,7 +200,7 @@ If you were the client, which would you rather look at? It is important to keep 
 
 [3] Bubble map and Doughtnut piechart courtesy of: [everviz](https://app.everviz.com/)
 
-[4] Dashboard example courtesy of: [ArcGIS](https://learn.arcgis.com/en/projects/create-a-covid-19-dashboard/) 
+[4] Dashboard example courtesy of: [ArcGIS](https://learn.arcgis.com/en/projects/create-a-covid-19-dashboard/)
 
 [5] Types of data visualisation courtesy of: [Tableau](https://www.tableau.com/learn/articles/data-visualization)
 
