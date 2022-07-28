@@ -144,7 +144,7 @@ pyplot.savefig('linegraph_1.png', bbox_inches='tight', pad_inches=0.1, transpare
 
 > {% include lightbox.html url="img/2022-07-20_imgs/linegraph_1.png" thumb_width="100%" title="The resulting line graph of square numbers" lightbox_gallery="dv_example_images" caption="The resulting line graph of square numbers"%}
 
-The full python script file is available [here]()
+The full python script file is available [here](https://github.com/AlexHill-SD/Data-Visualsation-with-Python---INTP-315-Blog/blob/gh-pages/python_scripts/linegraph_square_values.py)
 
 ## Sample Project #1.2
 
@@ -221,7 +221,7 @@ axes.scatter(values, squares, c=squares, cmap=pyplot.cm.viridis, s=10)
 > {% include lightbox.html url="img/2022-07-20_imgs/scatterplot_3.png" thumb_width="100%" title="The resulting scatter plot of square numbers with our new colour map" lightbox_gallery="dv_example_images" caption="The resulting scatter plot of square numbers with our new colour map"%}
 
 
-The full python script file for the scatter plots is available [here]()
+The full python script file for the scatter plots is available [here](https://github.com/AlexHill-SD/Data-Visualsation-with-Python---INTP-315-Blog/blob/gh-pages/python_scripts/scatterplot_square_values.py)
 
 <br>
 
@@ -431,7 +431,7 @@ pyplot.savefig('walk_visualised_2.png', bbox_inches='tight',
 
 I'm not sure about you, but the addition of the start and end points, along with the use of a colour map definitely make it easier for me to follow the route, even if it's not foolproof.
 
-The full python script file for the random walk scatter plots is available [here]()
+The full python script file for the random walk scatter plots is available [here](https://github.com/AlexHill-SD/Data-Visualsation-with-Python---INTP-315-Blog/blob/gh-pages/python_scripts/walk_visualisation.py)
 
 ## Sample project #3
 
@@ -887,7 +887,7 @@ new_covid_cases_bubble_map.write_html("./interactive_bubble_map.html", include_p
 
 [Click here to see the animated bubble map]({{site.baseurl}}{% link _pages/interactive_bubble_map.md %})
 
-The full python script file is available [here]()
+The full python script file is available [here](https://github.com/AlexHill-SD/Data-Visualsation-with-Python---INTP-315-Blog/blob/gh-pages/python_scripts/covid_bubble_map.py)
 
 * Step 16: Gaze upon what you have created, and bask in the glory of a job well done.
 
