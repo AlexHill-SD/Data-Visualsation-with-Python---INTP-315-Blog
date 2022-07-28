@@ -461,7 +461,7 @@ I almost forgot, this is probably a good time to actually talk about what this s
 
 ### And we're off ...
 
-* Step 1: import pandas, plotly.graph_objects, and plotly.express
+## Step 1: import pandas, plotly.graph_objects, and plotly.express
 
 Pandas is a useful data manipulation library that we will use to make changes to our source data as needed through this example. Graph_objects are used to contain all the information we'll need to create an animated bubble map. Finally, Express is a useful subset of the Plotly library that makes it significantly easier to create detailed data visualisations, such as geographical bubble maps.
 
@@ -471,7 +471,7 @@ import plotly.graph_objects as graphObject
 import plotly.express as express
 ~~~
 
-* Step 2: Shamelessly borrow a bit of code to create a function that will allow us to check a dataset in it's entirety rather than just a sneak peak at a portion of it.
+## Step 2: Shamelessly borrow a bit of code to create a function that will allow us to check a dataset in it's entirety rather than just a sneak peak at a portion of it.
 
 Hey, who said software developers always right original code. The best kept secret is that software developers get paid to know what code they can copy, how to use it, and even more fundamentally - understand the code so you're not using it blindly.
 
@@ -492,7 +492,7 @@ def print_full(x):
     pandas.reset_option('display.max_colwidth')
 ~~~
 
-* Step 3: Find a datasource that provides us with the data we need, in a format that will work for what we need it to do.
+## Step 3: Find a datasource that provides us with the data we need, in a format that will work for what we need it to do.
 
 I spent 2 long years of my life being the go-to man when it came down to Extracting, Transforming, and Loading datasets. That's right, I spent two years as an ETL developer, and it wasn't always fun, but it has given me a greater understanding of what to look for when it comes to datasets, and judging the amount of work it will take to get them to a point where they're useable for the task at hand. 
 
@@ -511,7 +511,7 @@ print_full(sourceData.head())
 print_full(sourceData.info())
 ~~~
 
-* Step 4: Start the transformation process
+## Step 4: Start the transformation process
 
 Did I mention you should always check the data you're importing? Because if you skipped that step, you wouldn't have seen that the dates aren't being read as datetime, which is something that will make our life infinitely easier down the road. So let's go ahead and convert that column so we don't run in to issues later on. 
 
@@ -525,7 +525,7 @@ sourceData.sort_values(by=['Date_reported', 'WHO_region'], ascending=True, inpla
 print_full(sourceData.info())
 ~~~
 
-* Step 5: Find supplemental information needed to reach our goal.
+## Step 5: Find supplemental information needed to reach our goal.
 
 If you remember, our goal is to create a data visualisation that shows the number of new cases per day, per continent. If you've also been following along, you'll know that the WHO data doesn't exactly provide a continent column, so we're going to have to add it ourselves. To do this we're going to find a table that contains a column we can use to join the continents to each row in the WHO table, just like [this one](https://github.com/LUNDR/covid-19/blob/master/Assets/continents.csv)
 
@@ -549,7 +549,7 @@ sourceData = pandas.merge(sourceData,
 print_full(sourceData.info())
 ~~~
 
-* Step 6: Create a colour map so our bubble map looks pretty. 
+## Step 6: Create a colour map so our bubble map looks pretty. 
 
 This step probably doesn't need any explanations, but if you need help Google "python dictionaries".
 
@@ -563,7 +563,7 @@ colour_map = {"Asia": "royalblue",
 	           }
 ~~~
 
-* Step 7: Transform the amalgam of data into something that only contains what we need it to.
+## Step 7: Transform the amalgam of data into something that only contains what we need it to.
 
 Okay here's the downside to data visualisation, and data handling in general - Transformation.
 
@@ -584,7 +584,7 @@ continental_data = sourceData.groupby(by=['Date_reported', 'Continent_Name']).ag
 print_full(continental_data.head())
 ~~~
 
-* Step 7: Keep transforming that data, there's a bit more we need to do in order to fufill all our requirements.
+## Step 8: Keep transforming that data, there's a bit more we need to do in order to fufill all our requirements.
 
 Now I know this will look quite silly, but trust me, we really do need a way to label each day in our final animation, so let's go ahead and transform all the dates back into strings so we can use them later without having to worry about converting them.
 
@@ -598,7 +598,7 @@ datesAsStrings = [pandas.to_datetime(str(x)).strftime('%d %b %y') for x in uniqu
 continental_data['date'] = [pandas.to_datetime(str(x)).strftime('%d %b %y') for x in continental_data['Date_reported']]
 ~~~
 
-* Step 8: Keep transforming.
+## Step 9: Keep transforming.
 
 At this point I feel like an autobot, doing nothing but transforming one way, then transforming back again, but this is what needs done if we want a data visualisation that's useful at the end of the day.
 
@@ -635,7 +635,7 @@ continental_data.loc[continental_data['Continent_Name'] == 'South America', 'lon
 print_full(continental_data)
 ~~~
 
-* Step 9: Leave the transforming behind, and move on to the daunting task of generating an animated bubble map. 
+## Step 10: Leave the transforming behind, and move on to the daunting task of generating an animated bubble map. 
 
 I wish I could say the hard part is over, but really this is where you need to start paying attention if you ever want to be able to do this in the future without a lot of arm waving and screaming.
 
@@ -671,7 +671,7 @@ If you've heard the term frames per second, or understand the idea behind stop m
 
 ## And back to our regularly scheduled programming. Data visualisation generation.
 
-* Step 9 continued: Generate that bubble map!
+## Step 10 continued: Generate that bubble map!
 
 So we've declared the basic outline of our animated data visualisation. Now let's start to fill it up.
 
@@ -691,7 +691,7 @@ initial_display_day = datesAsStrings[-1]
 chart_data = continental_data[continental_data['date'] == initial_display_day]
 ~~~
 
-* Step 10: Populate the data array within our figure.
+## Step 11: Populate the data array within our figure.
 
 So we have a rough idea of what our visualisation needs to show us, so let's pick out the elements that are common to every frame of the visualisation, or in other words, lets identify the information that won't change, no matter what day we decide to look at.
 
@@ -730,7 +730,7 @@ for i, cont in enumerate(chart_data['Continent_Name'].unique()):
     figure['data'].append(data_dict)
 ~~~
 
-* Step 11: Time to make some frames.
+## Step 12: Time to make some frames.
 
 We've built our data array, and filled it with everything we'll need, so now it's time to move onto the frames themselves. These will contain every single image that makes up our animated bubble map. Ironically, each frame also requires a data array, so you will notice some duplication of our earlier code. 
 
@@ -764,7 +764,7 @@ for day in datesAsStrings:
     figure['frames'].append(frame)
 ~~~
 
-* Step 12: Define the animations via steps.
+## Step 13: Define the animations via steps.
 
 How do we actually animate between frames? Well that's where steps come in, each step is like adding animations between slides in a power point. We define the type of transition, the duration, the mode, and the method, and then make sure that the step is attached to a frame and then add it to a step array, which will control how our animation works.
 
@@ -785,7 +785,7 @@ How do we actually animate between frames? Well that's where steps come in, each
     steps.append(step)
 ~~~
 
-* Step 13: Provide a handy slider so users can go to a specific frame.
+## Step 14: Provide a handy slider so users can go to a specific frame.
 
 Since our animation will be made up of, in this case, hundres of frames, it's usually best to provide some way for our audience to control what frame they're looking at. If you don't want them to be able to go directly to a single frame, you can skip this step.
 
@@ -804,7 +804,7 @@ sliders = [dict(
 )]
 ~~~
 
-* Step 14: Create the layout of the bubble map.
+## Step 15: Create the layout of the bubble map.
 
 We're nearing the end of our journey to create an animated bubble map, all that's left is to actually define what the bubble map will look like. This is where we'll define the title, the style of the bubble map, add in our previously defined sliders, and add a play/pause button to allow for user control.
 
@@ -868,7 +868,7 @@ figure['layout'] = dict(
     sliders=sliders)                                   # Add the sliders dictionary
 ~~~
 
-* Step 15: Create the bubble map, and show it off!
+## Step 16: Create the bubble map, and show it off!
 
 These steps should look pretty familiar, but we're basically just using our figure dictionary to create a graph_object, which we will then show off just like all our previous graphs. The only difference is the final step, which instead of creating a PNG file, it will write the graph to HTML so that it can be included in things like this blog, and still be animated.
 
@@ -889,7 +889,7 @@ new_covid_cases_bubble_map.write_html("./interactive_bubble_map.html", include_p
 
 The full python script file is available [here](https://github.com/AlexHill-SD/Data-Visualsation-with-Python---INTP-315-Blog/blob/gh-pages/python_scripts/covid_bubble_map.py)
 
-* Step 16: Gaze upon what you have created, and bask in the glory of a job well done.
+## Step 17: Gaze upon what you have created, and bask in the glory of a job well done.
 
 That's it, you're done. If you made it this far then congratulations. I realise this blog post was infinitely longer than the first, but by now you should know the basics and have an understanding of how to make a more complex data visualisation.
 
