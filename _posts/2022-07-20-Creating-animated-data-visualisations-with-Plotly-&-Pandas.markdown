@@ -6,7 +6,7 @@ image:  blog_title_imgs/blurred_screen_colour_mini-min.png
 tags:   [python, data visualisation, matplotlib, plotly]
 description: "Having the knowledge to utilise data visualisation libraries is a vital tool in the arsenal of a software developer."
 datatable: true
-#WordCount: 7413 (without tables/images/code blocks)
+#WordCount: 6277 (without tables/images/code blocks)
 ---
 > ### Table of Contents
 > 
@@ -972,7 +972,7 @@ That's it, you're done. If you made it this far then congratulations. I realise 
 
 # Thank you for reading this blog
 
-Well according to sublime text, this blog poist is now over 7300 words. So thank you for your patience, and sticking with me through our journey of learning about how to create data visualisations in python.
+Well according to sublime text, this blog post is now over 6200 words. So thank you for your patience, and sticking with me through our journey of learning about how to create data visualisations in python.
 
 ---------------------
 
