@@ -6,8 +6,22 @@ image:  blog_title_imgs/blurred_screen_colour_mini-min.png
 tags:   [python, data visualisation, matplotlib, plotly]
 description: "Having the knowledge to utilise data visualisation libraries is a vital tool in the arsenal of a software developer."
 datatable: true
-#WordCount: 3507 (without tables/images/code blocks)
+#WordCount: 7413 (without tables/images/code blocks)
 ---
+> ### Table of Contents
+> 
+> * [Tools for creating data visualisations](#tools-for-creating-data-visualisations)
+> * [Introduction to data visualisation with Python](#introduction-to-data-visualisation-with-python)
+> 	* [Environment setup](#environment-setup)
+> 	* [Sample Project #1](#sample-project-1)
+> 		* [Sample Project #1.2](#sample-project-12)
+> 		* [Sample Project #1.3](#sample-project-13)
+> 		* [Sample Project #1.4](#sample-project-14)
+> 	* [Sample Project #2](#sample-project-2)
+> 		* [Sample Project #2.1](#sample-project-21)
+> 	* [Sample Project #3](#sample-project-3)
+> * [Thanks for reading this blog](#thank-you-for-reading-this-blog)
+
 # Tools for creating data visualisations
 
 The primary focus of this blog post will be to show you some examples of how to create data visualisations with python, through the use of various libraries. However, before we get to that I want to provide a high level introduction to some of the applicatiosn and libraries that are most commonly used to create data visualisations within the industry. 
@@ -46,6 +60,8 @@ The image above is an example of a dashboard created via Plotlys Dash framework,
 
 Now that you have a brief understanding of the range of the tools available for creating data visualisations, let's take a deeper dive into how to create some visualisations in Python.
 
+<sub> [Back to table of contents](#table-of-contents) </sub>
+{: style="text-align: center;"}
 
 # Introduction to data visualisation with Python
 
@@ -67,6 +83,9 @@ Rather than waste blog space by writing out installation instructions for the re
 ## Disclaimer
 
 The following projects will presume you have an understanding of coding, and can grasp the basic concepts of syntax and understand the slight nuances involved with python (as a lightly typed language) as compared to a language like Java.
+
+<sub> [Back to table of contents](#table-of-contents) </sub>
+{: style="text-align: center;"}
 
 ## Sample project #1
 
@@ -146,6 +165,9 @@ pyplot.savefig('linegraph_1.png', bbox_inches='tight', pad_inches=0.1, transpare
 
 The full python script file is available [here](https://github.com/AlexHill-SD/Data-Visualsation-with-Python---INTP-315-Blog/blob/gh-pages/python_scripts/linegraph_square_values.py)
 
+<sub> [Back to table of contents](#table-of-contents) </sub>
+{: style="text-align: center;"}
+
 ## Sample Project #1.2
 
 It's time to build upon the basics we've just learnt, and expand our repertoire of graphs by creating a scatter plot using the same dataset. Follow along with the code below to see what changes we need to make, and how things differ slightly in the setup for a scatter plot. 
@@ -166,6 +188,9 @@ axes.scatter(values, squares, s=100)
 
 ### With our changes, this is how the scatter plot should look:
 > {% include lightbox.html url="img/2022-07-20_imgs/scatterplot_1.png" thumb_width="100%" title="The resulting scatter plot of square numbers" lightbox_gallery="dv_example_images" caption="The resulting scatter plot of square numbers"%}
+
+<sub> [Back to table of contents](#table-of-contents) </sub>
+{: style="text-align: center;"}
 
 ## Sample Project #1.3
 
@@ -201,6 +226,9 @@ axes.axis([0, 1100, 0, 1100000])
 > {% include lightbox.html url="img/2022-07-20_imgs/scatterplot_2.png" thumb_width="100%" title="The resulting scatter plot of square numbers with our new dataset" lightbox_gallery="dv_example_images" caption="The resulting scatter plot of square numbers with our new dataset"%}
 > Note: as you can see, the sheer number of data points makes our scatter plot resemble a line graph, however if you look closely you can notice that the line isn't smooth in some places.
 
+<sub> [Back to table of contents](#table-of-contents) </sub>
+{: style="text-align: center;"}
+
 ## Sample Project #1.4
 
 While we're looking at ways to change the look and feel of our graphs in Pyplot, let's take a quick look at some of the other style options we have available to us.
@@ -227,6 +255,8 @@ The full python script file for the scatter plots is available [here](https://gi
 
 > Small things like using a colour map, or changing the style of the graph can help get the core meaning of the dataset across to your users more easily.
 
+<sub> [Back to table of contents](#table-of-contents) </sub>
+{: style="text-align: center;"}
 
 ## Sample project #2
 
@@ -352,6 +382,9 @@ pyplot.savefig('walk_visualised_1.png', bbox_inches='tight',
 ### As you can see, the resultant graph is confusing, and really wasn't worth the time we spent writing the RandomWalk class.
 > {% include lightbox.html url="img/2022-07-20_imgs/walk_visualised_1.png" thumb_width="100%" title="The resulting scatter plot of our random walk" lightbox_gallery="dv_example_images" caption="The resulting scatter plot of our random walk"%}
 
+<sub> [Back to table of contents](#table-of-contents) </sub>
+{: style="text-align: center;"}
+
 ## Sample project #2.1
 
 Now that last graph was a bit disappointing. It wasn't clearly understandable, and the look of the scatter plot didn't aid in understanding the meaning of the data either. So let's change that.
@@ -433,6 +466,9 @@ I'm not sure about you, but the addition of the start and end points, along with
 
 The full python script file for the random walk scatter plots is available [here](https://github.com/AlexHill-SD/Data-Visualsation-with-Python---INTP-315-Blog/blob/gh-pages/python_scripts/walk_visualisation.py)
 
+<sub> [Back to table of contents](#table-of-contents) </sub>
+{: style="text-align: center;"}
+
 ## Sample project #3
 
 #### Video Summary
@@ -451,7 +487,7 @@ Afterall I have to leave you with something to do, and questions are a good star
 
 > Shoutout to Rachel Lund for publishing a guide to plotting CSV data with python and Plotly on medium.com/Analytics Vidhya. Take a look at the article [here](https://medium.com/analytics-vidhya/plotting-the-pandemic-with-python-and-plotly-e8011a141e3c)
 
-### Disclaimer: Due to the length and scope of this example, I will be adopting a bullet point format to identify each step, and will provide paragraph style explanations where necessary.
+> ### Disclaimer: Due to the length and scope of this example, I will be adopting a bullet point format to identify each step, and will provide paragraph style explanations where necessary.
 
 ## What exactly are we doing?
 
@@ -460,6 +496,8 @@ I almost forgot, this is probably a good time to actually talk about what this s
 > You heard me right, we're jumping from a scatter plot with pretty colours, to an animated bubble map with a dataset spanning almost 18 months. Reader meet the deep end. Deep end be kind to the reader.
 
 ### And we're off ...
+
+<br>
 
 ## Step 1: import pandas, plotly.graph_objects, and plotly.express
 
@@ -470,6 +508,8 @@ import pandas as pandas
 import plotly.graph_objects as graphObject
 import plotly.express as express
 ~~~
+
+<br>
 
 ## Step 2: Shamelessly borrow a bit of code to create a function that will allow us to check a dataset in it's entirety rather than just a sneak peak at a portion of it.
 
@@ -492,6 +532,8 @@ def print_full(x):
     pandas.reset_option('display.max_colwidth')
 ~~~
 
+<br>
+
 ## Step 3: Find a datasource that provides us with the data we need, in a format that will work for what we need it to do.
 
 I spent 2 long years of my life being the go-to man when it came down to Extracting, Transforming, and Loading datasets. That's right, I spent two years as an ETL developer, and it wasn't always fun, but it has given me a greater understanding of what to look for when it comes to datasets, and judging the amount of work it will take to get them to a point where they're useable for the task at hand. 
@@ -511,6 +553,8 @@ print_full(sourceData.head())
 print_full(sourceData.info())
 ~~~
 
+<br>
+
 ## Step 4: Start the transformation process
 
 Did I mention you should always check the data you're importing? Because if you skipped that step, you wouldn't have seen that the dates aren't being read as datetime, which is something that will make our life infinitely easier down the road. So let's go ahead and convert that column so we don't run in to issues later on. 
@@ -524,6 +568,8 @@ sourceData.sort_values(by=['Date_reported', 'WHO_region'], ascending=True, inpla
 
 print_full(sourceData.info())
 ~~~
+
+<br>
 
 ## Step 5: Find supplemental information needed to reach our goal.
 
@@ -549,6 +595,8 @@ sourceData = pandas.merge(sourceData,
 print_full(sourceData.info())
 ~~~
 
+<br>
+
 ## Step 6: Create a colour map so our bubble map looks pretty. 
 
 This step probably doesn't need any explanations, but if you need help Google "python dictionaries".
@@ -562,6 +610,8 @@ colour_map = {"Asia": "royalblue",
 	           "South America": 'mediumslateblue'
 	           }
 ~~~
+
+<br>
 
 ## Step 7: Transform the amalgam of data into something that only contains what we need it to.
 
@@ -584,6 +634,8 @@ continental_data = sourceData.groupby(by=['Date_reported', 'Continent_Name']).ag
 print_full(continental_data.head())
 ~~~
 
+<br>
+
 ## Step 8: Keep transforming that data, there's a bit more we need to do in order to fufill all our requirements.
 
 Now I know this will look quite silly, but trust me, we really do need a way to label each day in our final animation, so let's go ahead and transform all the dates back into strings so we can use them later without having to worry about converting them.
@@ -597,6 +649,8 @@ datesAsStrings = [pandas.to_datetime(str(x)).strftime('%d %b %y') for x in uniqu
 
 continental_data['date'] = [pandas.to_datetime(str(x)).strftime('%d %b %y') for x in continental_data['Date_reported']]
 ~~~
+
+<br>
 
 ## Step 9: Keep transforming.
 
@@ -635,6 +689,8 @@ continental_data.loc[continental_data['Continent_Name'] == 'South America', 'lon
 print_full(continental_data)
 ~~~
 
+<br>
+
 ## Step 10: Leave the transforming behind, and move on to the daunting task of generating an animated bubble map. 
 
 I wish I could say the hard part is over, but really this is where you need to start paying attention if you ever want to be able to do this in the future without a lot of arm waving and screaming.
@@ -643,33 +699,35 @@ At this point we have our dataset. It contains everything we need, continental d
 
 That's between 33% and 50% of the recipe, now for the final few ingredients.
 
-## What do we need to make an animated data visualisation?
+### What do we need to make an animated data visualisation?
 
 Since we want to end up with an animated bubble map, we need to take a slightly different approach than we have previously. Instead of calling the subplots method, we're going to define our own figure dictionary. 
 
 A figure needs 3 things in order to function in a graph_object later on.
 
-1) An array of data
-2) A layout dictionary
-3) An array of frames.
+1. An array of data
+2. A layout dictionary
+3. An array of frames
 
 Before we look at some code, let me break down what each of these will contain.
 
-### Data array
+#### Data array
 
 This is where we define what type of information will be displayed. Meaning things like what type of graph are we creating, or information that's common to every frame of our final animated bubble map. This information could be the location of the co-ordinates for each continent, the labels assigned to each bubble on the bubble map, etc.
 
-### Layout dictionary
+#### Layout dictionary
 
 This is where we define options such as  the title, axes, labels, colours, etc. Similar to the optional arguments we used earlier.
 
-### Frames array
+#### Frames array
 
 This is where we define each and every frame that will make up our animated data visualisation, and in this case each frame will contain the data for a single day in our dataset. 
 
 If you've heard the term frames per second, or understand the idea behind stop motion animation, then you should understand what this array is, and how it will be used.
 
-## And back to our regularly scheduled programming. Data visualisation generation.
+### And back to our regularly scheduled programming. Data visualisation generation.
+
+<br>
 
 ## Step 10 continued: Generate that bubble map!
 
@@ -690,6 +748,8 @@ initial_display_day = datesAsStrings[-1]
 
 chart_data = continental_data[continental_data['date'] == initial_display_day]
 ~~~
+
+<br>
 
 ## Step 11: Populate the data array within our figure.
 
@@ -730,6 +790,8 @@ for i, cont in enumerate(chart_data['Continent_Name'].unique()):
     figure['data'].append(data_dict)
 ~~~
 
+<br>
+
 ## Step 12: Time to make some frames.
 
 We've built our data array, and filled it with everything we'll need, so now it's time to move onto the frames themselves. These will contain every single image that makes up our animated bubble map. Ironically, each frame also requires a data array, so you will notice some duplication of our earlier code. 
@@ -764,6 +826,8 @@ for day in datesAsStrings:
     figure['frames'].append(frame)
 ~~~
 
+<br>
+
 ## Step 13: Define the animations via steps.
 
 How do we actually animate between frames? Well that's where steps come in, each step is like adding animations between slides in a power point. We define the type of transition, the duration, the mode, and the method, and then make sure that the step is attached to a frame and then add it to a step array, which will control how our animation works.
@@ -785,6 +849,8 @@ How do we actually animate between frames? Well that's where steps come in, each
     steps.append(step)
 ~~~
 
+<br>
+
 ## Step 14: Provide a handy slider so users can go to a specific frame.
 
 Since our animation will be made up of, in this case, hundres of frames, it's usually best to provide some way for our audience to control what frame they're looking at. If you don't want them to be able to go directly to a single frame, you can skip this step.
@@ -803,6 +869,8 @@ sliders = [dict(
     steps=steps                                     # the list of steps is included here
 )]
 ~~~
+
+<br>
 
 ## Step 15: Create the layout of the bubble map.
 
@@ -868,6 +936,8 @@ figure['layout'] = dict(
     sliders=sliders)                                   # Add the sliders dictionary
 ~~~
 
+<br>
+
 ## Step 16: Create the bubble map, and show it off!
 
 These steps should look pretty familiar, but we're basically just using our figure dictionary to create a graph_object, which we will then show off just like all our previous graphs. The only difference is the final step, which instead of creating a PNG file, it will write the graph to HTML so that it can be included in things like this blog, and still be animated.
@@ -883,15 +953,22 @@ new_covid_cases_bubble_map.show()
 new_covid_cases_bubble_map.write_html("./interactive_bubble_map.html", include_plotlyjs="cdn")
 ~~~
 
+<br>
+
 ### Here is where I usually show off the resultant map, inline via an image. However with the animated bubble map, I've put it on it's own separate page to save loading times and your precious RAM.
 
 [Click here to see the animated bubble map]({{site.baseurl}}{% link _pages/interactive_bubble_map.md %})
 
 The full python script file is available [here](https://github.com/AlexHill-SD/Data-Visualsation-with-Python---INTP-315-Blog/blob/gh-pages/python_scripts/covid_bubble_map.py)
 
+<br>
+
 ## Step 17: Gaze upon what you have created, and bask in the glory of a job well done.
 
 That's it, you're done. If you made it this far then congratulations. I realise this blog post was infinitely longer than the first, but by now you should know the basics and have an understanding of how to make a more complex data visualisation.
+
+<sub> [Back to table of contents](#table-of-contents) </sub>
+{: style="text-align: center;"}
 
 # Thank you for reading this blog
 
