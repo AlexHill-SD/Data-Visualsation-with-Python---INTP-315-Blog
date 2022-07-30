@@ -90,10 +90,10 @@ The following projects will presume you have an understanding of coding, and can
 ## Sample project #1
 
 #### Video Summary
-<video  controls="controls" muted="muted" style="width:100%; height:auto;">
+<video src="https://user-images.githubusercontent.com/90409237/181996361-9c760098-045d-4cf9-a6f3-6e22b05c1ffd.mp4" data-canonical-src="https://user-images.githubusercontent.com/90409237/181996361-9c760098-045d-4cf9-a6f3-6e22b05c1ffd.mp4" controls="controls" muted="muted" style="width:100%; height:auto;">
 </video>
 
-This first project is the most basic, and consists of creating a simple line graph & scatter plot to show the squares of 5 different numbers. Follow along with me via the video above, or the written tutorial below, as I introduce some basic concepts and controls.
+This first project is the most basic, and consists of creating a simple line graph & scatter plot to show the squares of 5 different numbers. Follow along with me via the video above, or teh written tutorial below, as I introduce some basic concepts and controls.
 
 Each code block below is a part of the overall script file. A download link to the complete script file will be provided at the bottom of the project section.
 
@@ -261,7 +261,7 @@ The full python script file for the scatter plots is available [here](https://gi
 ## Sample project #2
 
 #### Video Summary
-<video  controls="controls" muted="muted" style="width:100%; height:auto;">
+<video src="https://user-images.githubusercontent.com/90409237/181996447-1fc2e878-3aa3-44dd-96ec-d237a47bf999.mp4" data-canonical-src="https://user-images.githubusercontent.com/90409237/181996447-1fc2e878-3aa3-44dd-96ec-d237a47bf999.mp4" controls="controls" muted="muted" style="width:100%; height:auto;">
 </video>
 
 The second project builds upon the first, and consists of generating a dataset that represents a random walk in an open area, and maps the data via a scatter plot to provide a visual representation of the dataset. Follow along with me via the video above, or the written tutorial below, as I introduce some more basic concepts and controls.
@@ -472,7 +472,7 @@ The full python script file for the random walk scatter plots is available [here
 ## Sample project #3
 
 #### Video Summary
-<video  controls="controls" muted="muted" style="width:100%; height:auto;">
+<video src="https://user-images.githubusercontent.com/90409237/181996606-869cd769-10ad-407d-96b7-a06d2694b639.mp4" data-canonical-src="https://user-images.githubusercontent.com/90409237/181996606-869cd769-10ad-407d-96b7-a06d2694b639.mp4" controls="controls" muted="muted" style="width:100%; height:auto;">
 </video>
 
 The final project is the most complex, and jumps from introduction to full on use of Plotly and Pandas to create a real world example of what these tools can offer. Follow along with me via the video above, or the written tutorial below, as I introduce these more advanced ideas.
